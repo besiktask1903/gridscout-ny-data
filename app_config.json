@@ -1,0 +1,12 @@
+{
+  "promoText": "",
+  "update_message": "A newer version of GridScout NY is required.",
+  "android": {
+    "min_version_code": 0,
+    "store_url": ""
+  },
+  "ios": {
+    "min_version": "0.0.0",
+    "store_url": ""
+  }
+}

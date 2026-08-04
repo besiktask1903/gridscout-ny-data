@@ -1,0 +1,12 @@
+{
+  "changes": [],
+  "last_known_rates": {
+    "electric_comed": 0.10398999999999999,
+    "electric_ameren_zone_1": 0.11320000000000001,
+    "electric_ameren_zone_2": 0.11320000000000001,
+    "electric_ameren_zone_3": 0.11320000000000001,
+    "gas_north_shore_gas": 0.4093,
+    "gas_nicor_gas": 0.36,
+    "gas_peoples_gas": 0.3672
+  }
+}
