@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T14:53:03.208484Z",
+  "last_updated": "2026-08-07T16:54:36.095970Z",
   "customer_class": "residential",
   "source": "New York State Department of Public Service Power to Choose",
   "source_url": "https://documents.dps.ny.gov/PTC/home",
@@ -774,7 +774,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426572.0",
+          "offer_id": "427590.0",
           "product_name": null,
           "name": "Pure Energy",
           "rate": 39999.0,
@@ -798,13 +798,13 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "07/09/2026 02:18:38 PM",
+          "created_date": "08/07/2026 12:01:53 PM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 28,
-      "last_fetched": "2026-08-07T14:53:03.168409Z",
+      "last_fetched": "2026-08-07T16:54:36.058751Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1660,7 +1660,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426572.0",
+          "offer_id": "427590.0",
           "product_name": null,
           "name": "Pure Energy",
           "rate": 39999.0,
@@ -1684,13 +1684,13 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "07/09/2026 02:18:38 PM",
+          "created_date": "08/07/2026 12:01:53 PM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-08-07T14:53:03.170271Z",
+      "last_fetched": "2026-08-07T16:54:36.060594Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2574,7 +2574,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426572.0",
+          "offer_id": "427590.0",
           "product_name": null,
           "name": "Pure Energy",
           "rate": 39999.0,
@@ -2598,13 +2598,13 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "07/09/2026 02:18:38 PM",
+          "created_date": "08/07/2026 12:01:53 PM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-08-07T14:53:03.171445Z",
+      "last_fetched": "2026-08-07T16:54:36.061616Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -3322,7 +3322,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 25,
-      "last_fetched": "2026-08-07T14:53:03.173646Z",
+      "last_fetched": "2026-08-07T16:54:36.063656Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -4542,7 +4542,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426569.0",
+          "offer_id": "427587.0",
           "product_name": null,
           "name": "Pure Energy",
           "rate": 39999.0,
@@ -4566,7 +4566,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in Zone H",
-          "created_date": "07/09/2026 02:18:12 PM",
+          "created_date": "08/07/2026 12:01:32 PM",
           "updated_date": null
         },
         {
@@ -4684,7 +4684,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 48,
-      "last_fetched": "2026-08-07T14:53:03.175265Z",
+      "last_fetched": "2026-08-07T16:54:36.065197Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -5876,7 +5876,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426570.0",
+          "offer_id": "427588.0",
           "product_name": null,
           "name": "Pure Energy",
           "rate": 39999.0,
@@ -5900,7 +5900,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in Zone I",
-          "created_date": "07/09/2026 02:18:17 PM",
+          "created_date": "08/07/2026 12:01:36 PM",
           "updated_date": null
         },
         {
@@ -6018,7 +6018,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 47,
-      "last_fetched": "2026-08-07T14:53:03.176847Z",
+      "last_fetched": "2026-08-07T16:54:36.066730Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -7238,7 +7238,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426571.0",
+          "offer_id": "427589.0",
           "product_name": null,
           "name": "Pure Energy",
           "rate": 39999.0,
@@ -7262,7 +7262,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in Zone J",
-          "created_date": "07/09/2026 02:18:32 PM",
+          "created_date": "08/07/2026 12:01:40 PM",
           "updated_date": null
         },
         {
@@ -7380,7 +7380,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 48,
-      "last_fetched": "2026-08-07T14:53:03.178431Z",
+      "last_fetched": "2026-08-07T16:54:36.068221Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -7426,7 +7426,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 1,
-      "last_fetched": "2026-08-07T14:53:03.179420Z",
+      "last_fetched": "2026-08-07T16:54:36.069111Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -8032,7 +8032,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 21,
-      "last_fetched": "2026-08-07T14:53:03.181564Z",
+      "last_fetched": "2026-08-07T16:54:36.071092Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -9086,7 +9086,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 37,
-      "last_fetched": "2026-08-07T14:53:03.182899Z",
+      "last_fetched": "2026-08-07T16:54:36.072321Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -9804,7 +9804,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 25,
-      "last_fetched": "2026-08-07T14:53:03.183854Z",
+      "last_fetched": "2026-08-07T16:54:36.073213Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -10718,7 +10718,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-08-07T14:53:03.184996Z",
+      "last_fetched": "2026-08-07T16:54:36.074261Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -11520,7 +11520,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 28,
-      "last_fetched": "2026-08-07T14:53:03.186034Z",
+      "last_fetched": "2026-08-07T16:54:36.075215Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -12406,7 +12406,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-08-07T14:53:03.187171Z",
+      "last_fetched": "2026-08-07T16:54:36.076258Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -13432,7 +13432,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-08-07T14:53:03.188447Z",
+      "last_fetched": "2026-08-07T16:54:36.077444Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -14346,7 +14346,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-08-07T14:53:03.189604Z",
+      "last_fetched": "2026-08-07T16:54:36.078523Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -15176,7 +15176,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 29,
-      "last_fetched": "2026-08-07T14:53:03.190666Z",
+      "last_fetched": "2026-08-07T16:54:36.079509Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -15866,7 +15866,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 24,
-      "last_fetched": "2026-08-07T14:53:03.191624Z",
+      "last_fetched": "2026-08-07T16:54:36.080364Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -16444,7 +16444,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 20,
-      "last_fetched": "2026-08-07T14:53:03.193707Z",
+      "last_fetched": "2026-08-07T16:54:36.082280Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -17442,7 +17442,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-08-07T14:53:03.194965Z",
+      "last_fetched": "2026-08-07T16:54:36.083429Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -18328,7 +18328,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-08-07T14:53:03.196110Z",
+      "last_fetched": "2026-08-07T16:54:36.084507Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -19326,7 +19326,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-08-07T14:53:03.197356Z",
+      "last_fetched": "2026-08-07T16:54:36.085666Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -20212,7 +20212,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-08-07T14:53:03.198501Z",
+      "last_fetched": "2026-08-07T16:54:36.086733Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -21098,7 +21098,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-08-07T14:53:03.199669Z",
+      "last_fetched": "2026-08-07T16:54:36.087825Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -22124,7 +22124,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-08-07T14:53:03.200937Z",
+      "last_fetched": "2026-08-07T16:54:36.089008Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -23092,7 +23092,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426573.0",
+          "offer_id": "427591.0",
           "product_name": null,
           "name": "Pure Energy",
           "rate": 39999.0,
@@ -23116,13 +23116,13 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "07/09/2026 02:18:42 PM",
+          "created_date": "08/07/2026 12:02:00 PM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-08-07T14:53:03.203043Z",
+      "last_fetched": "2026-08-07T16:54:36.090980Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -24118,7 +24118,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426573.0",
+          "offer_id": "427591.0",
           "product_name": null,
           "name": "Pure Energy",
           "rate": 39999.0,
@@ -24142,13 +24142,13 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "07/09/2026 02:18:42 PM",
+          "created_date": "08/07/2026 12:02:00 PM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-08-07T14:53:03.204161Z",
+      "last_fetched": "2026-08-07T16:54:36.092008Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -25200,7 +25200,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426573.0",
+          "offer_id": "427591.0",
           "product_name": null,
           "name": "Pure Energy",
           "rate": 39999.0,
@@ -25224,13 +25224,13 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "07/09/2026 02:18:42 PM",
+          "created_date": "08/07/2026 12:02:00 PM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 38,
-      "last_fetched": "2026-08-07T14:53:03.205338Z",
+      "last_fetched": "2026-08-07T16:54:36.093090Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -26144,7 +26144,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-08-07T14:53:03.207380Z",
+      "last_fetched": "2026-08-07T16:54:36.094957Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -27142,7 +27142,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-08-07T14:53:03.208479Z",
+      "last_fetched": "2026-08-07T16:54:36.095966Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     }
