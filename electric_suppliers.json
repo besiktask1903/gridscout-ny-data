@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T13:05:19.707075Z",
+  "last_updated": "2026-08-11T14:57:26.812442Z",
   "customer_class": "residential",
   "source": "New York State Department of Public Service Power to Choose",
   "source_url": "https://documents.dps.ny.gov/PTC/home",
@@ -410,7 +410,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427011.0",
+          "offer_id": "427684.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1449.0,
@@ -434,7 +434,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "07/31/2026 10:18:01 AM",
+          "created_date": "08/11/2026 10:02:38 AM",
           "updated_date": null
         },
         {
@@ -804,7 +804,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 28,
-      "last_fetched": "2026-08-11T13:05:19.667546Z",
+      "last_fetched": "2026-08-11T14:57:26.775472Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1240,7 +1240,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427011.0",
+          "offer_id": "427684.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1449.0,
@@ -1264,7 +1264,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "07/31/2026 10:18:01 AM",
+          "created_date": "08/11/2026 10:02:38 AM",
           "updated_date": null
         },
         {
@@ -1690,7 +1690,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-08-11T13:05:19.669408Z",
+      "last_fetched": "2026-08-11T14:57:26.777405Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2154,7 +2154,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427011.0",
+          "offer_id": "427684.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1449.0,
@@ -2178,7 +2178,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "07/31/2026 10:18:01 AM",
+          "created_date": "08/11/2026 10:02:38 AM",
           "updated_date": null
         },
         {
@@ -2604,7 +2604,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-08-11T13:05:19.670483Z",
+      "last_fetched": "2026-08-11T14:57:26.778432Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -3096,7 +3096,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427013.0",
+          "offer_id": "427682.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 2199.0,
@@ -3120,7 +3120,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "07/31/2026 10:18:12 AM",
+          "created_date": "08/11/2026 10:02:27 AM",
           "updated_date": null
         },
         {
@@ -3294,7 +3294,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 24,
-      "last_fetched": "2026-08-11T13:05:19.672724Z",
+      "last_fetched": "2026-08-11T14:57:26.780429Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -4010,7 +4010,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426684.0",
+          "offer_id": "427681.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1749.0,
@@ -4034,7 +4034,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in Zone H",
-          "created_date": "07/14/2026 10:53:45 AM",
+          "created_date": "08/11/2026 09:37:52 AM",
           "updated_date": null
         },
         {
@@ -4178,7 +4178,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426693.0",
+          "offer_id": "427668.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1949.0,
@@ -4202,7 +4202,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in Zone H",
-          "created_date": "07/14/2026 10:54:38 AM",
+          "created_date": "08/11/2026 09:36:38 AM",
           "updated_date": null
         },
         {
@@ -4318,7 +4318,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427013.0",
+          "offer_id": "427682.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 2199.0,
@@ -4342,7 +4342,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "07/31/2026 10:18:12 AM",
+          "created_date": "08/11/2026 10:02:27 AM",
           "updated_date": null
         },
         {
@@ -4628,7 +4628,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 47,
-      "last_fetched": "2026-08-11T13:05:19.674293Z",
+      "last_fetched": "2026-08-11T14:57:26.781934Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -5316,7 +5316,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426694.0",
+          "offer_id": "427667.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1749.0,
@@ -5340,7 +5340,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in Zone I",
-          "created_date": "07/14/2026 10:54:45 AM",
+          "created_date": "08/11/2026 09:36:34 AM",
           "updated_date": null
         },
         {
@@ -5484,7 +5484,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426688.0",
+          "offer_id": "427678.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1949.0,
@@ -5508,7 +5508,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in Zone I",
-          "created_date": "07/14/2026 10:54:10 AM",
+          "created_date": "08/11/2026 09:37:23 AM",
           "updated_date": null
         },
         {
@@ -5624,7 +5624,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427013.0",
+          "offer_id": "427682.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 2199.0,
@@ -5648,7 +5648,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "07/31/2026 10:18:12 AM",
+          "created_date": "08/11/2026 10:02:27 AM",
           "updated_date": null
         },
         {
@@ -5934,7 +5934,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 46,
-      "last_fetched": "2026-08-11T13:05:19.675821Z",
+      "last_fetched": "2026-08-11T14:57:26.783353Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -6818,7 +6818,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426689.0",
+          "offer_id": "427672.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1999.0,
@@ -6842,7 +6842,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in Zone J",
-          "created_date": "07/14/2026 10:54:15 AM",
+          "created_date": "08/11/2026 09:36:55 AM",
           "updated_date": null
         },
         {
@@ -6930,7 +6930,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426686.0",
+          "offer_id": "427676.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 2199.0,
@@ -6954,11 +6954,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in Zone J",
-          "created_date": "07/14/2026 10:53:57 AM",
+          "created_date": "08/11/2026 09:37:13 AM",
           "updated_date": null
         },
         {
-          "offer_id": "427013.0",
+          "offer_id": "427682.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 2199.0,
@@ -6982,7 +6982,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "07/31/2026 10:18:12 AM",
+          "created_date": "08/11/2026 10:02:27 AM",
           "updated_date": null
         },
         {
@@ -7296,7 +7296,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 48,
-      "last_fetched": "2026-08-11T13:05:19.677389Z",
+      "last_fetched": "2026-08-11T14:57:26.784827Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -7342,7 +7342,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 1,
-      "last_fetched": "2026-08-11T13:05:19.678381Z",
+      "last_fetched": "2026-08-11T14:57:26.785707Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -7582,7 +7582,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426691.0",
+          "offer_id": "427666.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1299.0,
@@ -7606,11 +7606,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:28 AM",
+          "created_date": "08/11/2026 09:36:30 AM",
           "updated_date": null
         },
         {
-          "offer_id": "426695.0",
+          "offer_id": "427670.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1299.0,
@@ -7634,11 +7634,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:51 AM",
+          "created_date": "08/11/2026 09:36:47 AM",
           "updated_date": null
         },
         {
-          "offer_id": "426696.0",
+          "offer_id": "427677.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1299.0,
@@ -7662,7 +7662,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:59 AM",
+          "created_date": "08/11/2026 09:37:17 AM",
           "updated_date": null
         },
         {
@@ -7722,7 +7722,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426687.0",
+          "offer_id": "427675.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1499.0,
@@ -7746,7 +7746,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:04 AM",
+          "created_date": "08/11/2026 09:37:08 AM",
           "updated_date": null
         },
         {
@@ -7778,7 +7778,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427008.0",
+          "offer_id": "427687.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1499.0,
@@ -7802,7 +7802,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/31/2026 10:17:48 AM",
+          "created_date": "08/11/2026 10:02:57 AM",
           "updated_date": null
         },
         {
@@ -7948,7 +7948,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 21,
-      "last_fetched": "2026-08-11T13:05:19.680538Z",
+      "last_fetched": "2026-08-11T14:57:26.787677Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -8356,7 +8356,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426691.0",
+          "offer_id": "427666.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1299.0,
@@ -8380,11 +8380,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:28 AM",
+          "created_date": "08/11/2026 09:36:30 AM",
           "updated_date": null
         },
         {
-          "offer_id": "426695.0",
+          "offer_id": "427670.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1299.0,
@@ -8408,11 +8408,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:51 AM",
+          "created_date": "08/11/2026 09:36:47 AM",
           "updated_date": null
         },
         {
-          "offer_id": "426696.0",
+          "offer_id": "427677.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1299.0,
@@ -8436,7 +8436,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:59 AM",
+          "created_date": "08/11/2026 09:37:17 AM",
           "updated_date": null
         },
         {
@@ -8636,7 +8636,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426687.0",
+          "offer_id": "427675.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1499.0,
@@ -8660,7 +8660,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:04 AM",
+          "created_date": "08/11/2026 09:37:08 AM",
           "updated_date": null
         },
         {
@@ -8692,7 +8692,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427008.0",
+          "offer_id": "427687.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1499.0,
@@ -8716,7 +8716,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/31/2026 10:17:48 AM",
+          "created_date": "08/11/2026 10:02:57 AM",
           "updated_date": null
         },
         {
@@ -9002,7 +9002,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 37,
-      "last_fetched": "2026-08-11T13:05:19.681869Z",
+      "last_fetched": "2026-08-11T14:57:26.788877Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -9298,7 +9298,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426691.0",
+          "offer_id": "427666.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1299.0,
@@ -9322,11 +9322,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:28 AM",
+          "created_date": "08/11/2026 09:36:30 AM",
           "updated_date": null
         },
         {
-          "offer_id": "426695.0",
+          "offer_id": "427670.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1299.0,
@@ -9350,11 +9350,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:51 AM",
+          "created_date": "08/11/2026 09:36:47 AM",
           "updated_date": null
         },
         {
-          "offer_id": "426696.0",
+          "offer_id": "427677.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1299.0,
@@ -9378,7 +9378,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:59 AM",
+          "created_date": "08/11/2026 09:37:17 AM",
           "updated_date": null
         },
         {
@@ -9438,7 +9438,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426687.0",
+          "offer_id": "427675.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1499.0,
@@ -9462,7 +9462,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:04 AM",
+          "created_date": "08/11/2026 09:37:08 AM",
           "updated_date": null
         },
         {
@@ -9494,7 +9494,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427008.0",
+          "offer_id": "427687.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1499.0,
@@ -9518,7 +9518,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/31/2026 10:17:48 AM",
+          "created_date": "08/11/2026 10:02:57 AM",
           "updated_date": null
         },
         {
@@ -9720,7 +9720,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 25,
-      "last_fetched": "2026-08-11T13:05:19.682820Z",
+      "last_fetched": "2026-08-11T14:57:26.789748Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -10100,7 +10100,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426691.0",
+          "offer_id": "427666.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1299.0,
@@ -10124,11 +10124,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:28 AM",
+          "created_date": "08/11/2026 09:36:30 AM",
           "updated_date": null
         },
         {
-          "offer_id": "426695.0",
+          "offer_id": "427670.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1299.0,
@@ -10152,11 +10152,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:51 AM",
+          "created_date": "08/11/2026 09:36:47 AM",
           "updated_date": null
         },
         {
-          "offer_id": "426696.0",
+          "offer_id": "427677.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1299.0,
@@ -10180,7 +10180,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:59 AM",
+          "created_date": "08/11/2026 09:37:17 AM",
           "updated_date": null
         },
         {
@@ -10324,7 +10324,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426687.0",
+          "offer_id": "427675.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1499.0,
@@ -10348,7 +10348,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:04 AM",
+          "created_date": "08/11/2026 09:37:08 AM",
           "updated_date": null
         },
         {
@@ -10380,7 +10380,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427008.0",
+          "offer_id": "427687.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1499.0,
@@ -10404,7 +10404,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/31/2026 10:17:48 AM",
+          "created_date": "08/11/2026 10:02:57 AM",
           "updated_date": null
         },
         {
@@ -10634,7 +10634,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-08-11T13:05:19.683942Z",
+      "last_fetched": "2026-08-11T14:57:26.790784Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -10986,7 +10986,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426691.0",
+          "offer_id": "427666.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1299.0,
@@ -11010,11 +11010,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:28 AM",
+          "created_date": "08/11/2026 09:36:30 AM",
           "updated_date": null
         },
         {
-          "offer_id": "426695.0",
+          "offer_id": "427670.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1299.0,
@@ -11038,11 +11038,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:51 AM",
+          "created_date": "08/11/2026 09:36:47 AM",
           "updated_date": null
         },
         {
-          "offer_id": "426696.0",
+          "offer_id": "427677.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1299.0,
@@ -11066,7 +11066,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:59 AM",
+          "created_date": "08/11/2026 09:37:17 AM",
           "updated_date": null
         },
         {
@@ -11126,7 +11126,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426687.0",
+          "offer_id": "427675.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1499.0,
@@ -11150,7 +11150,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:04 AM",
+          "created_date": "08/11/2026 09:37:08 AM",
           "updated_date": null
         },
         {
@@ -11182,7 +11182,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427008.0",
+          "offer_id": "427687.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1499.0,
@@ -11206,7 +11206,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/31/2026 10:17:48 AM",
+          "created_date": "08/11/2026 10:02:57 AM",
           "updated_date": null
         },
         {
@@ -11436,7 +11436,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 28,
-      "last_fetched": "2026-08-11T13:05:19.684968Z",
+      "last_fetched": "2026-08-11T14:57:26.791718Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -11816,7 +11816,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426691.0",
+          "offer_id": "427666.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1299.0,
@@ -11840,11 +11840,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:28 AM",
+          "created_date": "08/11/2026 09:36:30 AM",
           "updated_date": null
         },
         {
-          "offer_id": "426695.0",
+          "offer_id": "427670.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1299.0,
@@ -11868,11 +11868,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:51 AM",
+          "created_date": "08/11/2026 09:36:47 AM",
           "updated_date": null
         },
         {
-          "offer_id": "426696.0",
+          "offer_id": "427677.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1299.0,
@@ -11896,7 +11896,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:59 AM",
+          "created_date": "08/11/2026 09:37:17 AM",
           "updated_date": null
         },
         {
@@ -11956,7 +11956,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426687.0",
+          "offer_id": "427675.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1499.0,
@@ -11980,7 +11980,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:04 AM",
+          "created_date": "08/11/2026 09:37:08 AM",
           "updated_date": null
         },
         {
@@ -12012,7 +12012,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427008.0",
+          "offer_id": "427687.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1499.0,
@@ -12036,7 +12036,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/31/2026 10:17:48 AM",
+          "created_date": "08/11/2026 10:02:57 AM",
           "updated_date": null
         },
         {
@@ -12322,7 +12322,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-08-11T13:05:19.686086Z",
+      "last_fetched": "2026-08-11T14:57:26.792767Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -12702,7 +12702,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426691.0",
+          "offer_id": "427666.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1299.0,
@@ -12726,11 +12726,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:28 AM",
+          "created_date": "08/11/2026 09:36:30 AM",
           "updated_date": null
         },
         {
-          "offer_id": "426695.0",
+          "offer_id": "427670.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1299.0,
@@ -12754,11 +12754,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:51 AM",
+          "created_date": "08/11/2026 09:36:47 AM",
           "updated_date": null
         },
         {
-          "offer_id": "426696.0",
+          "offer_id": "427677.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1299.0,
@@ -12782,7 +12782,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:59 AM",
+          "created_date": "08/11/2026 09:37:17 AM",
           "updated_date": null
         },
         {
@@ -12842,7 +12842,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426687.0",
+          "offer_id": "427675.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1499.0,
@@ -12866,7 +12866,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:04 AM",
+          "created_date": "08/11/2026 09:37:08 AM",
           "updated_date": null
         },
         {
@@ -12898,7 +12898,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427008.0",
+          "offer_id": "427687.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1499.0,
@@ -12922,7 +12922,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/31/2026 10:17:48 AM",
+          "created_date": "08/11/2026 10:02:57 AM",
           "updated_date": null
         },
         {
@@ -13348,7 +13348,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-08-11T13:05:19.687342Z",
+      "last_fetched": "2026-08-11T14:57:26.793943Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -13700,7 +13700,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426691.0",
+          "offer_id": "427666.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1299.0,
@@ -13724,11 +13724,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:28 AM",
+          "created_date": "08/11/2026 09:36:30 AM",
           "updated_date": null
         },
         {
-          "offer_id": "426695.0",
+          "offer_id": "427670.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1299.0,
@@ -13752,11 +13752,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:51 AM",
+          "created_date": "08/11/2026 09:36:47 AM",
           "updated_date": null
         },
         {
-          "offer_id": "426696.0",
+          "offer_id": "427677.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1299.0,
@@ -13780,7 +13780,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:59 AM",
+          "created_date": "08/11/2026 09:37:17 AM",
           "updated_date": null
         },
         {
@@ -13840,7 +13840,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426687.0",
+          "offer_id": "427675.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1499.0,
@@ -13864,7 +13864,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:04 AM",
+          "created_date": "08/11/2026 09:37:08 AM",
           "updated_date": null
         },
         {
@@ -13896,7 +13896,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427008.0",
+          "offer_id": "427687.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1499.0,
@@ -13920,7 +13920,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/31/2026 10:17:48 AM",
+          "created_date": "08/11/2026 10:02:57 AM",
           "updated_date": null
         },
         {
@@ -14262,7 +14262,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-08-11T13:05:19.688500Z",
+      "last_fetched": "2026-08-11T14:57:26.795261Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -14642,7 +14642,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426691.0",
+          "offer_id": "427666.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1299.0,
@@ -14666,11 +14666,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:28 AM",
+          "created_date": "08/11/2026 09:36:30 AM",
           "updated_date": null
         },
         {
-          "offer_id": "426695.0",
+          "offer_id": "427670.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1299.0,
@@ -14694,11 +14694,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:51 AM",
+          "created_date": "08/11/2026 09:36:47 AM",
           "updated_date": null
         },
         {
-          "offer_id": "426696.0",
+          "offer_id": "427677.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1299.0,
@@ -14722,7 +14722,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:59 AM",
+          "created_date": "08/11/2026 09:37:17 AM",
           "updated_date": null
         },
         {
@@ -14782,7 +14782,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426687.0",
+          "offer_id": "427675.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1499.0,
@@ -14806,7 +14806,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:04 AM",
+          "created_date": "08/11/2026 09:37:08 AM",
           "updated_date": null
         },
         {
@@ -14838,7 +14838,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427008.0",
+          "offer_id": "427687.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1499.0,
@@ -14862,7 +14862,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/31/2026 10:17:48 AM",
+          "created_date": "08/11/2026 10:02:57 AM",
           "updated_date": null
         },
         {
@@ -15092,7 +15092,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 29,
-      "last_fetched": "2026-08-11T13:05:19.689552Z",
+      "last_fetched": "2026-08-11T14:57:26.796264Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -15388,7 +15388,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426691.0",
+          "offer_id": "427666.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1299.0,
@@ -15412,11 +15412,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:28 AM",
+          "created_date": "08/11/2026 09:36:30 AM",
           "updated_date": null
         },
         {
-          "offer_id": "426695.0",
+          "offer_id": "427670.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1299.0,
@@ -15440,11 +15440,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:51 AM",
+          "created_date": "08/11/2026 09:36:47 AM",
           "updated_date": null
         },
         {
-          "offer_id": "426696.0",
+          "offer_id": "427677.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1299.0,
@@ -15468,7 +15468,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:59 AM",
+          "created_date": "08/11/2026 09:37:17 AM",
           "updated_date": null
         },
         {
@@ -15528,7 +15528,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426687.0",
+          "offer_id": "427675.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1499.0,
@@ -15552,7 +15552,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/14/2026 10:54:04 AM",
+          "created_date": "08/11/2026 09:37:08 AM",
           "updated_date": null
         },
         {
@@ -15584,7 +15584,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427008.0",
+          "offer_id": "427687.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1499.0,
@@ -15608,7 +15608,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/31/2026 10:17:48 AM",
+          "created_date": "08/11/2026 10:02:57 AM",
           "updated_date": null
         },
         {
@@ -15782,7 +15782,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 24,
-      "last_fetched": "2026-08-11T13:05:19.690470Z",
+      "last_fetched": "2026-08-11T14:57:26.797167Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -16078,7 +16078,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427012.0",
+          "offer_id": "427683.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1449.0,
@@ -16102,7 +16102,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "07/31/2026 10:18:07 AM",
+          "created_date": "08/11/2026 10:02:34 AM",
           "updated_date": null
         },
         {
@@ -16246,7 +16246,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426692.0",
+          "offer_id": "427669.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1699.0,
@@ -16270,11 +16270,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "07/14/2026 10:54:33 AM",
+          "created_date": "08/11/2026 09:36:43 AM",
           "updated_date": null
         },
         {
-          "offer_id": "426685.0",
+          "offer_id": "427680.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1899.0,
@@ -16298,7 +16298,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "07/14/2026 10:53:50 AM",
+          "created_date": "08/11/2026 09:37:32 AM",
           "updated_date": null
         },
         {
@@ -16360,7 +16360,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 20,
-      "last_fetched": "2026-08-11T13:05:19.692555Z",
+      "last_fetched": "2026-08-11T14:57:26.799077Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -16936,7 +16936,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427012.0",
+          "offer_id": "427683.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1449.0,
@@ -16960,7 +16960,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "07/31/2026 10:18:07 AM",
+          "created_date": "08/11/2026 10:02:34 AM",
           "updated_date": null
         },
         {
@@ -17160,7 +17160,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426692.0",
+          "offer_id": "427669.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1699.0,
@@ -17184,7 +17184,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "07/14/2026 10:54:33 AM",
+          "created_date": "08/11/2026 09:36:43 AM",
           "updated_date": null
         },
         {
@@ -17244,7 +17244,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426685.0",
+          "offer_id": "427680.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1899.0,
@@ -17268,7 +17268,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "07/14/2026 10:53:50 AM",
+          "created_date": "08/11/2026 09:37:32 AM",
           "updated_date": null
         },
         {
@@ -17358,7 +17358,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-08-11T13:05:19.693800Z",
+      "last_fetched": "2026-08-11T14:57:26.800213Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -17822,7 +17822,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427012.0",
+          "offer_id": "427683.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1449.0,
@@ -17846,7 +17846,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "07/31/2026 10:18:07 AM",
+          "created_date": "08/11/2026 10:02:34 AM",
           "updated_date": null
         },
         {
@@ -18046,7 +18046,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426692.0",
+          "offer_id": "427669.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1699.0,
@@ -18070,7 +18070,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "07/14/2026 10:54:33 AM",
+          "created_date": "08/11/2026 09:36:43 AM",
           "updated_date": null
         },
         {
@@ -18130,7 +18130,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426685.0",
+          "offer_id": "427680.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1899.0,
@@ -18154,7 +18154,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "07/14/2026 10:53:50 AM",
+          "created_date": "08/11/2026 09:37:32 AM",
           "updated_date": null
         },
         {
@@ -18244,7 +18244,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-08-11T13:05:19.694930Z",
+      "last_fetched": "2026-08-11T14:57:26.801274Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -18820,7 +18820,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427012.0",
+          "offer_id": "427683.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1449.0,
@@ -18844,7 +18844,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "07/31/2026 10:18:07 AM",
+          "created_date": "08/11/2026 10:02:34 AM",
           "updated_date": null
         },
         {
@@ -19044,7 +19044,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426692.0",
+          "offer_id": "427669.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1699.0,
@@ -19068,7 +19068,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "07/14/2026 10:54:33 AM",
+          "created_date": "08/11/2026 09:36:43 AM",
           "updated_date": null
         },
         {
@@ -19128,7 +19128,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426685.0",
+          "offer_id": "427680.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1899.0,
@@ -19152,7 +19152,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "07/14/2026 10:53:50 AM",
+          "created_date": "08/11/2026 09:37:32 AM",
           "updated_date": null
         },
         {
@@ -19242,7 +19242,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-08-11T13:05:19.696161Z",
+      "last_fetched": "2026-08-11T14:57:26.802422Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -19706,7 +19706,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427012.0",
+          "offer_id": "427683.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1449.0,
@@ -19730,7 +19730,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "07/31/2026 10:18:07 AM",
+          "created_date": "08/11/2026 10:02:34 AM",
           "updated_date": null
         },
         {
@@ -19930,7 +19930,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426692.0",
+          "offer_id": "427669.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1699.0,
@@ -19954,7 +19954,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "07/14/2026 10:54:33 AM",
+          "created_date": "08/11/2026 09:36:43 AM",
           "updated_date": null
         },
         {
@@ -20014,7 +20014,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426685.0",
+          "offer_id": "427680.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1899.0,
@@ -20038,7 +20038,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "07/14/2026 10:53:50 AM",
+          "created_date": "08/11/2026 09:37:32 AM",
           "updated_date": null
         },
         {
@@ -20128,7 +20128,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-08-11T13:05:19.697287Z",
+      "last_fetched": "2026-08-11T14:57:26.803462Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -20592,7 +20592,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427012.0",
+          "offer_id": "427683.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1449.0,
@@ -20616,7 +20616,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "07/31/2026 10:18:07 AM",
+          "created_date": "08/11/2026 10:02:34 AM",
           "updated_date": null
         },
         {
@@ -20816,7 +20816,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426692.0",
+          "offer_id": "427669.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1699.0,
@@ -20840,7 +20840,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "07/14/2026 10:54:33 AM",
+          "created_date": "08/11/2026 09:36:43 AM",
           "updated_date": null
         },
         {
@@ -20900,7 +20900,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426685.0",
+          "offer_id": "427680.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1899.0,
@@ -20924,7 +20924,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "07/14/2026 10:53:50 AM",
+          "created_date": "08/11/2026 09:37:32 AM",
           "updated_date": null
         },
         {
@@ -21014,7 +21014,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-08-11T13:05:19.698435Z",
+      "last_fetched": "2026-08-11T14:57:26.804529Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -21534,7 +21534,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427012.0",
+          "offer_id": "427683.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1449.0,
@@ -21558,7 +21558,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "07/31/2026 10:18:07 AM",
+          "created_date": "08/11/2026 10:02:34 AM",
           "updated_date": null
         },
         {
@@ -21842,7 +21842,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426692.0",
+          "offer_id": "427669.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1699.0,
@@ -21866,7 +21866,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "07/14/2026 10:54:33 AM",
+          "created_date": "08/11/2026 09:36:43 AM",
           "updated_date": null
         },
         {
@@ -21926,7 +21926,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426685.0",
+          "offer_id": "427680.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1899.0,
@@ -21950,7 +21950,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "07/14/2026 10:53:50 AM",
+          "created_date": "08/11/2026 09:37:32 AM",
           "updated_date": null
         },
         {
@@ -22040,7 +22040,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-08-11T13:05:19.699707Z",
+      "last_fetched": "2026-08-11T14:57:26.805671Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -22364,7 +22364,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426690.0",
+          "offer_id": "427674.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1399.0,
@@ -22388,7 +22388,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "07/14/2026 10:54:20 AM",
+          "created_date": "08/11/2026 09:37:04 AM",
           "updated_date": null
         },
         {
@@ -22588,7 +22588,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427009.0",
+          "offer_id": "427686.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1549.0,
@@ -22612,11 +22612,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "07/31/2026 10:17:52 AM",
+          "created_date": "08/11/2026 10:02:52 AM",
           "updated_date": null
         },
         {
-          "offer_id": "426683.0",
+          "offer_id": "427679.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1599.0,
@@ -22640,7 +22640,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "07/14/2026 10:53:35 AM",
+          "created_date": "08/11/2026 09:37:27 AM",
           "updated_date": null
         },
         {
@@ -23010,7 +23010,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 34,
-      "last_fetched": "2026-08-11T13:05:19.701782Z",
+      "last_fetched": "2026-08-11T14:57:26.807582Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -23362,7 +23362,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426690.0",
+          "offer_id": "427674.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1399.0,
@@ -23386,7 +23386,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "07/14/2026 10:54:20 AM",
+          "created_date": "08/11/2026 09:37:04 AM",
           "updated_date": null
         },
         {
@@ -23586,7 +23586,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427009.0",
+          "offer_id": "427686.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1549.0,
@@ -23610,11 +23610,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "07/31/2026 10:17:52 AM",
+          "created_date": "08/11/2026 10:02:52 AM",
           "updated_date": null
         },
         {
-          "offer_id": "426683.0",
+          "offer_id": "427679.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1599.0,
@@ -23638,7 +23638,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "07/14/2026 10:53:35 AM",
+          "created_date": "08/11/2026 09:37:27 AM",
           "updated_date": null
         },
         {
@@ -24008,7 +24008,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-08-11T13:05:19.702860Z",
+      "last_fetched": "2026-08-11T14:57:26.808566Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -24388,7 +24388,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426690.0",
+          "offer_id": "427674.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1399.0,
@@ -24412,7 +24412,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "07/14/2026 10:54:20 AM",
+          "created_date": "08/11/2026 09:37:04 AM",
           "updated_date": null
         },
         {
@@ -24612,7 +24612,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427009.0",
+          "offer_id": "427686.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1549.0,
@@ -24636,11 +24636,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "07/31/2026 10:17:52 AM",
+          "created_date": "08/11/2026 10:02:52 AM",
           "updated_date": null
         },
         {
-          "offer_id": "426683.0",
+          "offer_id": "427679.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1599.0,
@@ -24664,7 +24664,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "07/14/2026 10:53:35 AM",
+          "created_date": "08/11/2026 09:37:27 AM",
           "updated_date": null
         },
         {
@@ -25062,7 +25062,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 37,
-      "last_fetched": "2026-08-11T13:05:19.703997Z",
+      "last_fetched": "2026-08-11T14:57:26.809592Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -25414,7 +25414,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427010.0",
+          "offer_id": "427685.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1349.0,
@@ -25438,7 +25438,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in All Zones",
-          "created_date": "07/31/2026 10:17:55 AM",
+          "created_date": "08/11/2026 10:02:45 AM",
           "updated_date": null
         },
         {
@@ -25694,7 +25694,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426698.0",
+          "offer_id": "427673.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1599.0,
@@ -25718,7 +25718,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in All Zones",
-          "created_date": "07/14/2026 10:55:13 AM",
+          "created_date": "08/11/2026 09:36:59 AM",
           "updated_date": null
         },
         {
@@ -25862,7 +25862,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426697.0",
+          "offer_id": "427671.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1799.0,
@@ -25886,7 +25886,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in All Zones",
-          "created_date": "07/14/2026 10:55:06 AM",
+          "created_date": "08/11/2026 09:36:51 AM",
           "updated_date": null
         },
         {
@@ -25976,7 +25976,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-08-11T13:05:19.705997Z",
+      "last_fetched": "2026-08-11T14:57:26.811433Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -26384,7 +26384,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427010.0",
+          "offer_id": "427685.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1349.0,
@@ -26408,7 +26408,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in All Zones",
-          "created_date": "07/31/2026 10:17:55 AM",
+          "created_date": "08/11/2026 10:02:45 AM",
           "updated_date": null
         },
         {
@@ -26664,7 +26664,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426698.0",
+          "offer_id": "427673.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1599.0,
@@ -26688,7 +26688,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in All Zones",
-          "created_date": "07/14/2026 10:55:13 AM",
+          "created_date": "08/11/2026 09:36:59 AM",
           "updated_date": null
         },
         {
@@ -26860,7 +26860,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426697.0",
+          "offer_id": "427671.0",
           "product_name": null,
           "name": "Abest Green Power",
           "rate": 1799.0,
@@ -26884,7 +26884,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in All Zones",
-          "created_date": "07/14/2026 10:55:06 AM",
+          "created_date": "08/11/2026 09:36:51 AM",
           "updated_date": null
         },
         {
@@ -26974,7 +26974,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-08-11T13:05:19.707070Z",
+      "last_fetched": "2026-08-11T14:57:26.812437Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     }
