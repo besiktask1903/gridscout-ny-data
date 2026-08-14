@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T22:41:15.595593Z",
+  "last_updated": "2026-08-14T01:56:33.836668Z",
   "customer_class": "residential",
   "source": "New York State Department of Public Service Power to Choose",
   "source_url": "https://documents.dps.ny.gov/PTC/home",
@@ -804,7 +804,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 28,
-      "last_fetched": "2026-08-13T22:41:15.555918Z",
+      "last_fetched": "2026-08-14T01:56:33.813577Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1690,7 +1690,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-08-13T22:41:15.557743Z",
+      "last_fetched": "2026-08-14T01:56:33.814770Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2604,7 +2604,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-08-13T22:41:15.558823Z",
+      "last_fetched": "2026-08-14T01:56:33.815401Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -3180,6 +3180,34 @@
           "updated_date": null
         },
         {
+          "offer_id": "427690.0",
+          "product_name": null,
+          "name": "Ameripro Energy Corp.",
+          "rate": 152037.0,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "source_rate": 152037.0,
+          "source_rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "http://www.ameriproenergy.com",
+          "signup_url": "http://www.ameriproenergy.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 0.55,
+          "energy_source": "Hydroelectric",
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "ConEd in All Zones",
+          "created_date": "08/13/2026 08:41:14 PM",
+          "updated_date": null
+        },
+        {
           "offer_id": "427222.0",
           "product_name": null,
           "name": "Green USA NY, LLC",
@@ -3293,8 +3321,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 24,
-      "last_fetched": "2026-08-13T22:41:15.561026Z",
+      "count": 25,
+      "last_fetched": "2026-08-14T01:56:33.816650Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -4514,6 +4542,34 @@
           "updated_date": null
         },
         {
+          "offer_id": "427690.0",
+          "product_name": null,
+          "name": "Ameripro Energy Corp.",
+          "rate": 152037.0,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "source_rate": 152037.0,
+          "source_rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "http://www.ameriproenergy.com",
+          "signup_url": "http://www.ameriproenergy.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 0.55,
+          "energy_source": "Hydroelectric",
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "ConEd in All Zones",
+          "created_date": "08/13/2026 08:41:14 PM",
+          "updated_date": null
+        },
+        {
           "offer_id": "427222.0",
           "product_name": null,
           "name": "Green USA NY, LLC",
@@ -4627,8 +4683,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 47,
-      "last_fetched": "2026-08-13T22:41:15.562638Z",
+      "count": 48,
+      "last_fetched": "2026-08-14T01:56:33.817607Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -5820,6 +5876,34 @@
           "updated_date": null
         },
         {
+          "offer_id": "427690.0",
+          "product_name": null,
+          "name": "Ameripro Energy Corp.",
+          "rate": 152037.0,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "source_rate": 152037.0,
+          "source_rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "http://www.ameriproenergy.com",
+          "signup_url": "http://www.ameriproenergy.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 0.55,
+          "energy_source": "Hydroelectric",
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "ConEd in All Zones",
+          "created_date": "08/13/2026 08:41:14 PM",
+          "updated_date": null
+        },
+        {
           "offer_id": "427222.0",
           "product_name": null,
           "name": "Green USA NY, LLC",
@@ -5933,8 +6017,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 46,
-      "last_fetched": "2026-08-13T22:41:15.564206Z",
+      "count": 47,
+      "last_fetched": "2026-08-14T01:56:33.818523Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -7182,6 +7266,34 @@
           "updated_date": null
         },
         {
+          "offer_id": "427690.0",
+          "product_name": null,
+          "name": "Ameripro Energy Corp.",
+          "rate": 152037.0,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "source_rate": 152037.0,
+          "source_rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "http://www.ameriproenergy.com",
+          "signup_url": "http://www.ameriproenergy.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 0.55,
+          "energy_source": "Hydroelectric",
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "ConEd in All Zones",
+          "created_date": "08/13/2026 08:41:14 PM",
+          "updated_date": null
+        },
+        {
           "offer_id": "427222.0",
           "product_name": null,
           "name": "Green USA NY, LLC",
@@ -7295,8 +7407,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 48,
-      "last_fetched": "2026-08-13T22:41:15.565875Z",
+      "count": 49,
+      "last_fetched": "2026-08-14T01:56:33.819451Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -7342,7 +7454,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 1,
-      "last_fetched": "2026-08-13T22:41:15.566849Z",
+      "last_fetched": "2026-08-14T01:56:33.820032Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -7948,7 +8060,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 21,
-      "last_fetched": "2026-08-13T22:41:15.568943Z",
+      "last_fetched": "2026-08-14T01:56:33.821232Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -9002,7 +9114,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 37,
-      "last_fetched": "2026-08-13T22:41:15.570230Z",
+      "last_fetched": "2026-08-14T01:56:33.821970Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -9720,7 +9832,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 25,
-      "last_fetched": "2026-08-13T22:41:15.571283Z",
+      "last_fetched": "2026-08-14T01:56:33.822506Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -10634,7 +10746,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-08-13T22:41:15.572427Z",
+      "last_fetched": "2026-08-14T01:56:33.823149Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -11436,7 +11548,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 28,
-      "last_fetched": "2026-08-13T22:41:15.573452Z",
+      "last_fetched": "2026-08-14T01:56:33.823731Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -12322,7 +12434,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-08-13T22:41:15.574564Z",
+      "last_fetched": "2026-08-14T01:56:33.824366Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -13348,7 +13460,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-08-13T22:41:15.575821Z",
+      "last_fetched": "2026-08-14T01:56:33.825101Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -14262,7 +14374,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-08-13T22:41:15.576976Z",
+      "last_fetched": "2026-08-14T01:56:33.825760Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -15092,7 +15204,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 29,
-      "last_fetched": "2026-08-13T22:41:15.578023Z",
+      "last_fetched": "2026-08-14T01:56:33.826372Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -15782,7 +15894,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 24,
-      "last_fetched": "2026-08-13T22:41:15.578948Z",
+      "last_fetched": "2026-08-14T01:56:33.827039Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -16360,7 +16472,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 20,
-      "last_fetched": "2026-08-13T22:41:15.581008Z",
+      "last_fetched": "2026-08-14T01:56:33.828387Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -17358,7 +17470,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-08-13T22:41:15.582243Z",
+      "last_fetched": "2026-08-14T01:56:33.829107Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -18244,7 +18356,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-08-13T22:41:15.583368Z",
+      "last_fetched": "2026-08-14T01:56:33.829756Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -19242,7 +19354,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-08-13T22:41:15.584628Z",
+      "last_fetched": "2026-08-14T01:56:33.830459Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -20128,7 +20240,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-08-13T22:41:15.585754Z",
+      "last_fetched": "2026-08-14T01:56:33.831127Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -21014,7 +21126,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-08-13T22:41:15.586896Z",
+      "last_fetched": "2026-08-14T01:56:33.831799Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -22040,7 +22152,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-08-13T22:41:15.588163Z",
+      "last_fetched": "2026-08-14T01:56:33.832495Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -23010,7 +23122,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 34,
-      "last_fetched": "2026-08-13T22:41:15.590293Z",
+      "last_fetched": "2026-08-14T01:56:33.833677Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -24008,7 +24120,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-08-13T22:41:15.591371Z",
+      "last_fetched": "2026-08-14T01:56:33.834277Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -25062,7 +25174,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 37,
-      "last_fetched": "2026-08-13T22:41:15.592521Z",
+      "last_fetched": "2026-08-14T01:56:33.834935Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -25976,7 +26088,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-08-13T22:41:15.594508Z",
+      "last_fetched": "2026-08-14T01:56:33.836062Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -26974,7 +27086,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-08-13T22:41:15.595588Z",
+      "last_fetched": "2026-08-14T01:56:33.836665Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     }
