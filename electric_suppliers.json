@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T16:27:22.522573Z",
+  "last_updated": "2026-08-17T18:38:54.079667Z",
   "customer_class": "residential",
   "source": "New York State Department of Public Service Power to Choose",
   "source_url": "https://documents.dps.ny.gov/PTC/home",
@@ -130,7 +130,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426774.0",
+          "offer_id": "427779.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 166.0,
@@ -154,7 +154,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "07/20/2026 03:47:32 PM",
+          "created_date": "08/17/2026 12:41:17 PM",
           "updated_date": null
         },
         {
@@ -804,7 +804,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 28,
-      "last_fetched": "2026-08-17T16:27:22.485526Z",
+      "last_fetched": "2026-08-17T18:38:54.038761Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -960,7 +960,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426774.0",
+          "offer_id": "427779.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 166.0,
@@ -984,7 +984,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "07/20/2026 03:47:32 PM",
+          "created_date": "08/17/2026 12:41:17 PM",
           "updated_date": null
         },
         {
@@ -1690,7 +1690,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-08-17T16:27:22.487356Z",
+      "last_fetched": "2026-08-17T18:38:54.040702Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1874,7 +1874,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426774.0",
+          "offer_id": "427779.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 166.0,
@@ -1898,7 +1898,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "07/20/2026 03:47:32 PM",
+          "created_date": "08/17/2026 12:41:17 PM",
           "updated_date": null
         },
         {
@@ -2604,7 +2604,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-08-17T16:27:22.488397Z",
+      "last_fetched": "2026-08-17T18:38:54.041831Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2704,7 +2704,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426773.0",
+          "offer_id": "427780.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 199.0,
@@ -2728,7 +2728,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "07/20/2026 03:47:26 PM",
+          "created_date": "08/17/2026 12:41:22 PM",
           "updated_date": null
         },
         {
@@ -3322,7 +3322,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 25,
-      "last_fetched": "2026-08-17T16:27:22.490538Z",
+      "last_fetched": "2026-08-17T18:38:54.044045Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -3618,7 +3618,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426773.0",
+          "offer_id": "427780.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 199.0,
@@ -3642,7 +3642,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "07/20/2026 03:47:26 PM",
+          "created_date": "08/17/2026 12:41:22 PM",
           "updated_date": null
         },
         {
@@ -4684,7 +4684,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 48,
-      "last_fetched": "2026-08-17T16:27:22.492114Z",
+      "last_fetched": "2026-08-17T18:38:54.045754Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -4952,7 +4952,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426773.0",
+          "offer_id": "427780.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 199.0,
@@ -4976,7 +4976,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "07/20/2026 03:47:26 PM",
+          "created_date": "08/17/2026 12:41:22 PM",
           "updated_date": null
         },
         {
@@ -6018,7 +6018,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 47,
-      "last_fetched": "2026-08-17T16:27:22.493575Z",
+      "last_fetched": "2026-08-17T18:38:54.047330Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -6230,7 +6230,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426773.0",
+          "offer_id": "427780.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 199.0,
@@ -6254,7 +6254,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "07/20/2026 03:47:26 PM",
+          "created_date": "08/17/2026 12:41:22 PM",
           "updated_date": null
         },
         {
@@ -7408,7 +7408,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 49,
-      "last_fetched": "2026-08-17T16:27:22.495062Z",
+      "last_fetched": "2026-08-17T18:38:54.048973Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -7454,7 +7454,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 1,
-      "last_fetched": "2026-08-17T16:27:22.495984Z",
+      "last_fetched": "2026-08-17T18:38:54.049993Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -7554,7 +7554,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426771.0",
+          "offer_id": "427782.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 159.0,
@@ -7578,7 +7578,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/20/2026 03:47:18 PM",
+          "created_date": "08/17/2026 12:41:34 PM",
           "updated_date": null
         },
         {
@@ -8060,7 +8060,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 21,
-      "last_fetched": "2026-08-17T16:27:22.497967Z",
+      "last_fetched": "2026-08-17T18:38:54.052103Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -8244,7 +8244,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426771.0",
+          "offer_id": "427782.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 159.0,
@@ -8268,7 +8268,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/20/2026 03:47:18 PM",
+          "created_date": "08/17/2026 12:41:34 PM",
           "updated_date": null
         },
         {
@@ -9114,7 +9114,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 37,
-      "last_fetched": "2026-08-17T16:27:22.499185Z",
+      "last_fetched": "2026-08-17T18:38:54.053410Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -9242,7 +9242,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426771.0",
+          "offer_id": "427782.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 159.0,
@@ -9266,7 +9266,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/20/2026 03:47:18 PM",
+          "created_date": "08/17/2026 12:41:34 PM",
           "updated_date": null
         },
         {
@@ -9832,7 +9832,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 25,
-      "last_fetched": "2026-08-17T16:27:22.500112Z",
+      "last_fetched": "2026-08-17T18:38:54.054377Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -10016,7 +10016,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426771.0",
+          "offer_id": "427782.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 159.0,
@@ -10040,7 +10040,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/20/2026 03:47:18 PM",
+          "created_date": "08/17/2026 12:41:34 PM",
           "updated_date": null
         },
         {
@@ -10774,7 +10774,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 33,
-      "last_fetched": "2026-08-17T16:27:22.501181Z",
+      "last_fetched": "2026-08-17T18:38:54.055565Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -10958,7 +10958,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426771.0",
+          "offer_id": "427782.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 159.0,
@@ -10982,7 +10982,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/20/2026 03:47:18 PM",
+          "created_date": "08/17/2026 12:41:34 PM",
           "updated_date": null
         },
         {
@@ -11576,7 +11576,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 28,
-      "last_fetched": "2026-08-17T16:27:22.502134Z",
+      "last_fetched": "2026-08-17T18:38:54.056607Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -11788,7 +11788,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426771.0",
+          "offer_id": "427782.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 159.0,
@@ -11812,7 +11812,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/20/2026 03:47:18 PM",
+          "created_date": "08/17/2026 12:41:34 PM",
           "updated_date": null
         },
         {
@@ -12462,7 +12462,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-08-17T16:27:22.503183Z",
+      "last_fetched": "2026-08-17T18:38:54.057821Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -12590,7 +12590,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426771.0",
+          "offer_id": "427782.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 159.0,
@@ -12614,7 +12614,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/20/2026 03:47:18 PM",
+          "created_date": "08/17/2026 12:41:34 PM",
           "updated_date": null
         },
         {
@@ -13488,7 +13488,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-08-17T16:27:22.504352Z",
+      "last_fetched": "2026-08-17T18:38:54.059167Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -13616,7 +13616,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426771.0",
+          "offer_id": "427782.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 159.0,
@@ -13640,7 +13640,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/20/2026 03:47:18 PM",
+          "created_date": "08/17/2026 12:41:34 PM",
           "updated_date": null
         },
         {
@@ -14402,7 +14402,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-08-17T16:27:22.505430Z",
+      "last_fetched": "2026-08-17T18:38:54.060334Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -14558,7 +14558,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426771.0",
+          "offer_id": "427782.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 159.0,
@@ -14582,7 +14582,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/20/2026 03:47:18 PM",
+          "created_date": "08/17/2026 12:41:34 PM",
           "updated_date": null
         },
         {
@@ -15232,7 +15232,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 29,
-      "last_fetched": "2026-08-17T16:27:22.506407Z",
+      "last_fetched": "2026-08-17T18:38:54.061405Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -15332,7 +15332,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426771.0",
+          "offer_id": "427782.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 159.0,
@@ -15356,7 +15356,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "07/20/2026 03:47:18 PM",
+          "created_date": "08/17/2026 12:41:34 PM",
           "updated_date": null
         },
         {
@@ -15922,7 +15922,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 24,
-      "last_fetched": "2026-08-17T16:27:22.507247Z",
+      "last_fetched": "2026-08-17T18:38:54.062334Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -16022,7 +16022,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426772.0",
+          "offer_id": "427781.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 159.0,
@@ -16046,7 +16046,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "07/20/2026 03:47:23 PM",
+          "created_date": "08/17/2026 12:41:25 PM",
           "updated_date": null
         },
         {
@@ -16500,7 +16500,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 20,
-      "last_fetched": "2026-08-17T16:27:22.509170Z",
+      "last_fetched": "2026-08-17T18:38:54.064465Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -16740,7 +16740,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426772.0",
+          "offer_id": "427781.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 159.0,
@@ -16764,7 +16764,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "07/20/2026 03:47:23 PM",
+          "created_date": "08/17/2026 12:41:25 PM",
           "updated_date": null
         },
         {
@@ -17498,7 +17498,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-08-17T16:27:22.510314Z",
+      "last_fetched": "2026-08-17T18:38:54.065722Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -17682,7 +17682,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426772.0",
+          "offer_id": "427781.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 159.0,
@@ -17706,7 +17706,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "07/20/2026 03:47:23 PM",
+          "created_date": "08/17/2026 12:41:25 PM",
           "updated_date": null
         },
         {
@@ -18384,7 +18384,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-08-17T16:27:22.511369Z",
+      "last_fetched": "2026-08-17T18:38:54.066866Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -18568,7 +18568,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426772.0",
+          "offer_id": "427781.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 159.0,
@@ -18592,7 +18592,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "07/20/2026 03:47:23 PM",
+          "created_date": "08/17/2026 12:41:25 PM",
           "updated_date": null
         },
         {
@@ -19382,7 +19382,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-08-17T16:27:22.512520Z",
+      "last_fetched": "2026-08-17T18:38:54.068112Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -19566,7 +19566,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426772.0",
+          "offer_id": "427781.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 159.0,
@@ -19590,7 +19590,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "07/20/2026 03:47:23 PM",
+          "created_date": "08/17/2026 12:41:25 PM",
           "updated_date": null
         },
         {
@@ -20268,7 +20268,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-08-17T16:27:22.513567Z",
+      "last_fetched": "2026-08-17T18:38:54.069256Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -20452,7 +20452,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426772.0",
+          "offer_id": "427781.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 159.0,
@@ -20476,7 +20476,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "07/20/2026 03:47:23 PM",
+          "created_date": "08/17/2026 12:41:25 PM",
           "updated_date": null
         },
         {
@@ -21154,7 +21154,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-08-17T16:27:22.514637Z",
+      "last_fetched": "2026-08-17T18:38:54.070429Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -21282,7 +21282,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426772.0",
+          "offer_id": "427781.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 159.0,
@@ -21306,7 +21306,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "07/20/2026 03:47:23 PM",
+          "created_date": "08/17/2026 12:41:25 PM",
           "updated_date": null
         },
         {
@@ -22180,7 +22180,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-08-17T16:27:22.515791Z",
+      "last_fetched": "2026-08-17T18:38:54.071740Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -23150,7 +23150,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 34,
-      "last_fetched": "2026-08-17T16:27:22.517704Z",
+      "last_fetched": "2026-08-17T18:38:54.073850Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -24148,7 +24148,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-08-17T16:27:22.518681Z",
+      "last_fetched": "2026-08-17T18:38:54.074954Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -24360,7 +24360,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426770.0",
+          "offer_id": "427783.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 179.0,
@@ -24384,7 +24384,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in Zone G",
-          "created_date": "07/20/2026 03:46:54 PM",
+          "created_date": "08/17/2026 12:41:39 PM",
           "updated_date": null
         },
         {
@@ -25202,7 +25202,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 37,
-      "last_fetched": "2026-08-17T16:27:22.519718Z",
+      "last_fetched": "2026-08-17T18:38:54.076105Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -25302,7 +25302,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426769.0",
+          "offer_id": "427784.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 149.0,
@@ -25326,7 +25326,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in All Zones",
-          "created_date": "07/20/2026 03:46:49 PM",
+          "created_date": "08/17/2026 12:41:47 PM",
           "updated_date": null
         },
         {
@@ -26116,7 +26116,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-08-17T16:27:22.521558Z",
+      "last_fetched": "2026-08-17T18:38:54.078549Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -26272,7 +26272,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426769.0",
+          "offer_id": "427784.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 149.0,
@@ -26296,7 +26296,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in All Zones",
-          "created_date": "07/20/2026 03:46:49 PM",
+          "created_date": "08/17/2026 12:41:47 PM",
           "updated_date": null
         },
         {
@@ -27114,7 +27114,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-08-17T16:27:22.522568Z",
+      "last_fetched": "2026-08-17T18:38:54.079662Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     }
