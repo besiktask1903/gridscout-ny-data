@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T12:45:41.625051Z",
+  "last_updated": "2026-08-18T14:33:52.100451Z",
   "customer_class": "residential",
   "source": "New York State Department of Public Service Power to Choose",
   "source_url": "https://documents.dps.ny.gov/PTC/home",
@@ -46,7 +46,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426716.0",
+          "offer_id": "427865.0",
           "product_name": null,
           "name": "Kiwi Energy NY, LLC.",
           "rate": 1.05825243,
@@ -70,7 +70,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "Central Hudson",
-          "created_date": "07/17/2026 09:02:52 AM",
+          "created_date": "08/18/2026 10:04:40 AM",
           "updated_date": null
         },
         {
@@ -244,7 +244,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 8,
-      "last_fetched": "2026-08-18T12:45:41.620225Z",
+      "last_fetched": "2026-08-18T14:33:52.095524Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -458,7 +458,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-08-18T12:45:41.620724Z",
+      "last_fetched": "2026-08-18T14:33:52.096030Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -672,7 +672,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-08-18T12:45:41.620985Z",
+      "last_fetched": "2026-08-18T14:33:52.096296Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -858,7 +858,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 6,
-      "last_fetched": "2026-08-18T12:45:41.621211Z",
+      "last_fetched": "2026-08-18T14:33:52.096527Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -902,7 +902,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426723.0",
+          "offer_id": "427872.0",
           "product_name": null,
           "name": "Kiwi Energy NY, LLC.",
           "rate": 1.15533981,
@@ -926,7 +926,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "National Fuel",
-          "created_date": "07/17/2026 09:03:53 AM",
+          "created_date": "08/18/2026 10:05:36 AM",
           "updated_date": null
         },
         {
@@ -1100,7 +1100,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 8,
-      "last_fetched": "2026-08-18T12:45:41.621711Z",
+      "last_fetched": "2026-08-18T14:33:52.097036Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1200,7 +1200,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426729.0",
+          "offer_id": "427878.0",
           "product_name": null,
           "name": "Kiwi Energy NY, LLC.",
           "rate": 984.0,
@@ -1224,7 +1224,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "07/17/2026 09:04:51 AM",
+          "created_date": "08/18/2026 10:06:24 AM",
           "updated_date": null
         },
         {
@@ -1314,7 +1314,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-08-18T12:45:41.622165Z",
+      "last_fetched": "2026-08-18T14:33:52.097503Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1414,7 +1414,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426729.0",
+          "offer_id": "427878.0",
           "product_name": null,
           "name": "Kiwi Energy NY, LLC.",
           "rate": 984.0,
@@ -1438,7 +1438,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "07/17/2026 09:04:51 AM",
+          "created_date": "08/18/2026 10:06:24 AM",
           "updated_date": null
         },
         {
@@ -1528,7 +1528,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-08-18T12:45:41.622434Z",
+      "last_fetched": "2026-08-18T14:33:52.097781Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1628,7 +1628,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426729.0",
+          "offer_id": "427878.0",
           "product_name": null,
           "name": "Kiwi Energy NY, LLC.",
           "rate": 984.0,
@@ -1652,7 +1652,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "07/17/2026 09:04:51 AM",
+          "created_date": "08/18/2026 10:06:24 AM",
           "updated_date": null
         },
         {
@@ -1742,7 +1742,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-08-18T12:45:41.622718Z",
+      "last_fetched": "2026-08-18T14:33:52.098078Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1842,7 +1842,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426729.0",
+          "offer_id": "427878.0",
           "product_name": null,
           "name": "Kiwi Energy NY, LLC.",
           "rate": 984.0,
@@ -1866,7 +1866,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "07/17/2026 09:04:51 AM",
+          "created_date": "08/18/2026 10:06:24 AM",
           "updated_date": null
         },
         {
@@ -1956,7 +1956,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-08-18T12:45:41.622985Z",
+      "last_fetched": "2026-08-18T14:33:52.098353Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2056,7 +2056,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426729.0",
+          "offer_id": "427878.0",
           "product_name": null,
           "name": "Kiwi Energy NY, LLC.",
           "rate": 984.0,
@@ -2080,7 +2080,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "07/17/2026 09:04:51 AM",
+          "created_date": "08/18/2026 10:06:24 AM",
           "updated_date": null
         },
         {
@@ -2142,7 +2142,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 6,
-      "last_fetched": "2026-08-18T12:45:41.623213Z",
+      "last_fetched": "2026-08-18T14:33:52.098588Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2300,7 +2300,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 5,
-      "last_fetched": "2026-08-18T12:45:41.623628Z",
+      "last_fetched": "2026-08-18T14:33:52.099029Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2344,7 +2344,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426720.0",
+          "offer_id": "427869.0",
           "product_name": null,
           "name": "Kiwi Energy NY, LLC.",
           "rate": 1.24,
@@ -2368,7 +2368,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "National Grid in Metro",
-          "created_date": "07/17/2026 09:03:28 AM",
+          "created_date": "08/18/2026 10:05:14 AM",
           "updated_date": null
         },
         {
@@ -2430,7 +2430,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 4,
-      "last_fetched": "2026-08-18T12:45:41.623828Z",
+      "last_fetched": "2026-08-18T14:33:52.099212Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2446,7 +2446,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "426724.0",
+          "offer_id": "427873.0",
           "product_name": null,
           "name": "Kiwi Energy NY, LLC.",
           "rate": 1.29,
@@ -2470,7 +2470,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "National Grid in Upstate",
-          "created_date": "07/17/2026 09:04:03 AM",
+          "created_date": "08/18/2026 10:05:43 AM",
           "updated_date": null
         },
         {
@@ -2644,7 +2644,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-08-18T12:45:41.624104Z",
+      "last_fetched": "2026-08-18T14:33:52.099496Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2800,7 +2800,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426726.0",
+          "offer_id": "427875.0",
           "product_name": null,
           "name": "Kiwi Energy NY, LLC.",
           "rate": 8955.33980583,
@@ -2824,7 +2824,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "Orange and Rockland",
-          "created_date": "07/17/2026 09:04:23 AM",
+          "created_date": "08/18/2026 10:06:00 AM",
           "updated_date": null
         },
         {
@@ -2886,7 +2886,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 8,
-      "last_fetched": "2026-08-18T12:45:41.624566Z",
+      "last_fetched": "2026-08-18T14:33:52.100016Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2986,7 +2986,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "426730.0",
+          "offer_id": "427879.0",
           "product_name": null,
           "name": "Kiwi Energy NY, LLC.",
           "rate": 899.0,
@@ -3010,7 +3010,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE",
-          "created_date": "07/17/2026 09:05:05 AM",
+          "created_date": "08/18/2026 10:06:33 AM",
           "updated_date": null
         },
         {
@@ -3100,7 +3100,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-08-18T12:45:41.625045Z",
+      "last_fetched": "2026-08-18T14:33:52.100446Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     }
