@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T20:25:33.774413Z",
+  "last_updated": "2026-08-21T22:24:28.844992Z",
   "customer_class": "residential",
   "source": "New York State Department of Public Service Power to Choose",
   "source_url": "https://documents.dps.ny.gov/PTC/home",
@@ -804,7 +804,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 28,
-      "last_fetched": "2026-08-21T20:25:33.736892Z",
+      "last_fetched": "2026-08-21T22:24:28.804342Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -932,7 +932,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427437.0",
+          "offer_id": "427910.0",
           "product_name": null,
           "name": "Clean Choice Energy, Inc.",
           "rate": 153.0,
@@ -956,7 +956,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in Zone E",
-          "created_date": "08/04/2026 01:13:56 PM",
+          "created_date": "08/21/2026 04:28:47 PM",
           "updated_date": null
         },
         {
@@ -1690,7 +1690,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-08-21T20:25:33.738787Z",
+      "last_fetched": "2026-08-21T22:24:28.806337Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1846,13 +1846,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427438.0",
+          "offer_id": "427911.0",
           "product_name": null,
           "name": "Clean Choice Energy, Inc.",
-          "rate": 164.0,
+          "rate": 163.0,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "source_rate": 164.0,
+          "source_rate": 163.0,
           "source_rate_unit": "kWh",
           "term_months": 24,
           "early_termination_fee": null,
@@ -1870,7 +1870,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in Zone G",
-          "created_date": "08/04/2026 01:24:35 PM",
+          "created_date": "08/21/2026 04:29:06 PM",
           "updated_date": null
         },
         {
@@ -2604,7 +2604,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-08-21T20:25:33.739777Z",
+      "last_fetched": "2026-08-21T22:24:28.807453Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -3350,7 +3350,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 26,
-      "last_fetched": "2026-08-21T20:25:33.741792Z",
+      "last_fetched": "2026-08-21T22:24:28.809661Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -3506,13 +3506,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427439.0",
+          "offer_id": "427912.0",
           "product_name": null,
           "name": "Clean Choice Energy, Inc.",
-          "rate": 171.0,
+          "rate": 172.0,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "source_rate": 171.0,
+          "source_rate": 172.0,
           "source_rate_unit": "kWh",
           "term_months": 24,
           "early_termination_fee": null,
@@ -3530,7 +3530,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in Zone H",
-          "created_date": "08/04/2026 01:26:02 PM",
+          "created_date": "08/21/2026 04:29:22 PM",
           "updated_date": null
         },
         {
@@ -4740,7 +4740,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 49,
-      "last_fetched": "2026-08-21T20:25:33.743323Z",
+      "last_fetched": "2026-08-21T22:24:28.811352Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -4896,7 +4896,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427440.0",
+          "offer_id": "427913.0",
           "product_name": null,
           "name": "Clean Choice Energy, Inc.",
           "rate": 171.0,
@@ -4920,7 +4920,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in Zone I",
-          "created_date": "08/04/2026 01:26:54 PM",
+          "created_date": "08/21/2026 04:29:32 PM",
           "updated_date": null
         },
         {
@@ -6102,7 +6102,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 48,
-      "last_fetched": "2026-08-21T20:25:33.744776Z",
+      "last_fetched": "2026-08-21T22:24:28.812965Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -6286,13 +6286,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427441.0",
+          "offer_id": "427914.0",
           "product_name": null,
           "name": "Clean Choice Energy, Inc.",
-          "rate": 196.0,
+          "rate": 195.0,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "source_rate": 196.0,
+          "source_rate": 195.0,
           "source_rate_unit": "kWh",
           "term_months": 24,
           "early_termination_fee": null,
@@ -6310,7 +6310,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in Zone J",
-          "created_date": "08/04/2026 01:27:53 PM",
+          "created_date": "08/21/2026 04:29:45 PM",
           "updated_date": null
         },
         {
@@ -7520,7 +7520,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 50,
-      "last_fetched": "2026-08-21T20:25:33.746284Z",
+      "last_fetched": "2026-08-21T22:24:28.814659Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -7566,7 +7566,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 1,
-      "last_fetched": "2026-08-21T20:25:33.747157Z",
+      "last_fetched": "2026-08-21T22:24:28.815668Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -8172,7 +8172,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 21,
-      "last_fetched": "2026-08-21T20:25:33.749078Z",
+      "last_fetched": "2026-08-21T22:24:28.817825Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -8300,13 +8300,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427448.0",
+          "offer_id": "427921.0",
           "product_name": null,
           "name": "Clean Choice Energy, Inc.",
-          "rate": 145.0,
+          "rate": 146.0,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "source_rate": 145.0,
+          "source_rate": 146.0,
           "source_rate_unit": "kWh",
           "term_months": 24,
           "early_termination_fee": null,
@@ -8324,7 +8324,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone A",
-          "created_date": "08/04/2026 01:45:13 PM",
+          "created_date": "08/21/2026 04:31:18 PM",
           "updated_date": null
         },
         {
@@ -9226,7 +9226,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 37,
-      "last_fetched": "2026-08-21T20:25:33.750272Z",
+      "last_fetched": "2026-08-21T22:24:28.819140Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -9944,7 +9944,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 25,
-      "last_fetched": "2026-08-21T20:25:33.751146Z",
+      "last_fetched": "2026-08-21T22:24:28.820105Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -10100,7 +10100,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427449.0",
+          "offer_id": "427922.0",
           "product_name": null,
           "name": "Clean Choice Energy, Inc.",
           "rate": 152.0,
@@ -10124,7 +10124,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone C",
-          "created_date": "08/04/2026 01:46:04 PM",
+          "created_date": "08/21/2026 04:31:26 PM",
           "updated_date": null
         },
         {
@@ -10886,7 +10886,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 33,
-      "last_fetched": "2026-08-21T20:25:33.752205Z",
+      "last_fetched": "2026-08-21T22:24:28.821269Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -11042,7 +11042,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427450.0",
+          "offer_id": "427923.0",
           "product_name": null,
           "name": "Clean Choice Energy, Inc.",
           "rate": 148.0,
@@ -11066,7 +11066,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone D",
-          "created_date": "08/04/2026 01:47:23 PM",
+          "created_date": "08/21/2026 04:31:35 PM",
           "updated_date": null
         },
         {
@@ -11688,7 +11688,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 28,
-      "last_fetched": "2026-08-21T20:25:33.753157Z",
+      "last_fetched": "2026-08-21T22:24:28.822332Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -11872,7 +11872,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427451.0",
+          "offer_id": "427924.0",
           "product_name": null,
           "name": "Clean Choice Energy, Inc.",
           "rate": 154.0,
@@ -11896,7 +11896,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone E",
-          "created_date": "08/04/2026 01:48:49 PM",
+          "created_date": "08/21/2026 04:31:44 PM",
           "updated_date": null
         },
         {
@@ -12574,7 +12574,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-08-21T20:25:33.754185Z",
+      "last_fetched": "2026-08-21T22:24:28.823473Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -12730,13 +12730,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427452.0",
+          "offer_id": "427925.0",
           "product_name": null,
           "name": "Clean Choice Energy, Inc.",
-          "rate": 164.0,
+          "rate": 163.0,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "source_rate": 164.0,
+          "source_rate": 163.0,
           "source_rate_unit": "kWh",
           "term_months": 24,
           "early_termination_fee": null,
@@ -12754,7 +12754,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone F",
-          "created_date": "08/04/2026 01:49:51 PM",
+          "created_date": "08/21/2026 04:31:56 PM",
           "updated_date": null
         },
         {
@@ -13600,7 +13600,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-08-21T20:25:33.755396Z",
+      "last_fetched": "2026-08-21T22:24:28.824761Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -13756,7 +13756,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427453.0",
+          "offer_id": "427926.0",
           "product_name": null,
           "name": "Clean Choice Energy, Inc.",
           "rate": 165.0,
@@ -13780,7 +13780,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone G",
-          "created_date": "08/04/2026 01:50:53 PM",
+          "created_date": "08/21/2026 04:32:11 PM",
           "updated_date": null
         },
         {
@@ -14514,7 +14514,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-08-21T20:25:33.756530Z",
+      "last_fetched": "2026-08-21T22:24:28.825958Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -14726,13 +14726,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427454.0",
+          "offer_id": "427927.0",
           "product_name": null,
           "name": "Clean Choice Energy, Inc.",
-          "rate": 167.0,
+          "rate": 168.0,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "source_rate": 167.0,
+          "source_rate": 168.0,
           "source_rate_unit": "kWh",
           "term_months": 24,
           "early_termination_fee": null,
@@ -14750,7 +14750,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone H",
-          "created_date": "08/04/2026 01:52:11 PM",
+          "created_date": "08/21/2026 04:32:21 PM",
           "updated_date": null
         },
         {
@@ -15344,7 +15344,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 29,
-      "last_fetched": "2026-08-21T20:25:33.757507Z",
+      "last_fetched": "2026-08-21T22:24:28.827024Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -16034,7 +16034,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 24,
-      "last_fetched": "2026-08-21T20:25:33.758356Z",
+      "last_fetched": "2026-08-21T22:24:28.827956Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -16612,7 +16612,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 20,
-      "last_fetched": "2026-08-21T20:25:33.760251Z",
+      "last_fetched": "2026-08-21T22:24:28.830082Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -16796,34 +16796,6 @@
           "updated_date": null
         },
         {
-          "offer_id": "427442.0",
-          "product_name": null,
-          "name": "Clean Choice Energy, Inc.",
-          "rate": 146.0,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "source_rate": 146.0,
-          "source_rate_unit": "kWh",
-          "term_months": 24,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://cleanchoiceenergy.com",
-          "signup_url": "https://cleanchoiceenergy.com",
-          "phone": null,
-          "renewable": "Yes",
-          "renewable_percentage": 1.0,
-          "energy_source": "Hydroelectric,Solar,Wind",
-          "guaranteed_savings": "No",
-          "value_added": "No",
-          "bundle_required": false,
-          "service_area": null,
-          "source_load_zone": "NGRID in Zone A",
-          "created_date": "08/04/2026 01:28:55 PM",
-          "updated_date": null
-        },
-        {
           "offer_id": "427485.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
@@ -16849,6 +16821,34 @@
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
           "created_date": "08/05/2026 11:11:37 AM",
+          "updated_date": null
+        },
+        {
+          "offer_id": "427915.0",
+          "product_name": null,
+          "name": "Clean Choice Energy, Inc.",
+          "rate": 148.0,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "source_rate": 148.0,
+          "source_rate_unit": "kWh",
+          "term_months": 24,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://cleanchoiceenergy.com",
+          "signup_url": "https://cleanchoiceenergy.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 1.0,
+          "energy_source": "Hydroelectric,Solar,Wind",
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "NGRID in Zone A",
+          "created_date": "08/21/2026 04:30:06 PM",
           "updated_date": null
         },
         {
@@ -17610,7 +17610,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-08-21T20:25:33.761430Z",
+      "last_fetched": "2026-08-21T22:24:28.831333Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -17710,13 +17710,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427443.0",
+          "offer_id": "427916.0",
           "product_name": null,
           "name": "Clean Choice Energy, Inc.",
-          "rate": 145.0,
+          "rate": 147.0,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "source_rate": 145.0,
+          "source_rate": 147.0,
           "source_rate_unit": "kWh",
           "term_months": 24,
           "early_termination_fee": null,
@@ -17734,7 +17734,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in Zone B",
-          "created_date": "08/04/2026 01:29:39 PM",
+          "created_date": "08/21/2026 04:30:24 PM",
           "updated_date": null
         },
         {
@@ -18496,7 +18496,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-08-21T20:25:33.762488Z",
+      "last_fetched": "2026-08-21T22:24:28.832484Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -18624,7 +18624,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427444.0",
+          "offer_id": "427917.0",
           "product_name": null,
           "name": "Clean Choice Energy, Inc.",
           "rate": 154.0,
@@ -18648,7 +18648,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in Zone C",
-          "created_date": "08/04/2026 01:30:27 PM",
+          "created_date": "08/21/2026 04:30:33 PM",
           "updated_date": null
         },
         {
@@ -19494,7 +19494,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-08-21T20:25:33.763626Z",
+      "last_fetched": "2026-08-21T22:24:28.833741Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -19566,7 +19566,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427445.0",
+          "offer_id": "427918.0",
           "product_name": null,
           "name": "Clean Choice Energy, Inc.",
           "rate": 15.0,
@@ -19590,7 +19590,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in Zone D",
-          "created_date": "08/04/2026 01:31:15 PM",
+          "created_date": "08/21/2026 04:30:46 PM",
           "updated_date": null
         },
         {
@@ -20380,7 +20380,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-08-21T20:25:33.764711Z",
+      "last_fetched": "2026-08-21T22:24:28.834949Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -20508,7 +20508,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427446.0",
+          "offer_id": "427919.0",
           "product_name": null,
           "name": "Clean Choice Energy, Inc.",
           "rate": 157.0,
@@ -20532,7 +20532,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in Zone E",
-          "created_date": "08/04/2026 01:32:19 PM",
+          "created_date": "08/21/2026 04:30:55 PM",
           "updated_date": null
         },
         {
@@ -21266,7 +21266,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-08-21T20:25:33.765801Z",
+      "last_fetched": "2026-08-21T22:24:28.836097Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -21422,13 +21422,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427447.0",
+          "offer_id": "427920.0",
           "product_name": null,
           "name": "Clean Choice Energy, Inc.",
-          "rate": 167.0,
+          "rate": 166.0,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "source_rate": 167.0,
+          "source_rate": 166.0,
           "source_rate_unit": "kWh",
           "term_months": 24,
           "early_termination_fee": null,
@@ -21446,7 +21446,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in Zone F",
-          "created_date": "08/04/2026 01:33:20 PM",
+          "created_date": "08/21/2026 04:31:07 PM",
           "updated_date": null
         },
         {
@@ -22292,7 +22292,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-08-21T20:25:33.766975Z",
+      "last_fetched": "2026-08-21T22:24:28.837350Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -23290,7 +23290,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-08-21T20:25:33.769415Z",
+      "last_fetched": "2026-08-21T22:24:28.839488Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -23362,6 +23362,34 @@
           "updated_date": null
         },
         {
+          "offer_id": "427928.0",
+          "product_name": null,
+          "name": "Clean Choice Energy, Inc.",
+          "rate": 165.0,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "source_rate": 165.0,
+          "source_rate_unit": "kWh",
+          "term_months": 24,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://cleanchoiceenergy.com",
+          "signup_url": "https://cleanchoiceenergy.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 1.0,
+          "energy_source": "Hydroelectric,Solar,Wind",
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "ORU in Zone E",
+          "created_date": "08/21/2026 04:32:39 PM",
+          "updated_date": null
+        },
+        {
           "offer_id": "427491.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
@@ -23387,34 +23415,6 @@
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
           "created_date": "08/05/2026 11:13:33 AM",
-          "updated_date": null
-        },
-        {
-          "offer_id": "427455.0",
-          "product_name": null,
-          "name": "Clean Choice Energy, Inc.",
-          "rate": 166.0,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "source_rate": 166.0,
-          "source_rate_unit": "kWh",
-          "term_months": 24,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://cleanchoiceenergy.com",
-          "signup_url": "https://cleanchoiceenergy.com",
-          "phone": null,
-          "renewable": "Yes",
-          "renewable_percentage": 1.0,
-          "energy_source": "Hydroelectric,Solar,Wind",
-          "guaranteed_savings": "No",
-          "value_added": "No",
-          "bundle_required": false,
-          "service_area": null,
-          "source_load_zone": "ORU in Zone E",
-          "created_date": "08/04/2026 01:57:28 PM",
           "updated_date": null
         },
         {
@@ -24316,7 +24316,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-08-21T20:25:33.770435Z",
+      "last_fetched": "2026-08-21T22:24:28.840608Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -25398,7 +25398,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 38,
-      "last_fetched": "2026-08-21T20:25:33.771496Z",
+      "last_fetched": "2026-08-21T22:24:28.841788Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -26312,7 +26312,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-08-21T20:25:33.773332Z",
+      "last_fetched": "2026-08-21T22:24:28.843858Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -26440,13 +26440,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427456.0",
+          "offer_id": "427929.0",
           "product_name": null,
           "name": "Clean Choice Energy, Inc.",
-          "rate": 141.0,
+          "rate": 143.0,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "source_rate": 141.0,
+          "source_rate": 143.0,
           "source_rate_unit": "kWh",
           "term_months": 24,
           "early_termination_fee": null,
@@ -26464,7 +26464,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in Zone B",
-          "created_date": "08/04/2026 01:58:25 PM",
+          "created_date": "08/21/2026 04:32:59 PM",
           "updated_date": null
         },
         {
@@ -27310,7 +27310,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-08-21T20:25:33.774406Z",
+      "last_fetched": "2026-08-21T22:24:28.844986Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     }
