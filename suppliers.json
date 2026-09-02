@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T03:11:33.075591Z",
+  "last_updated": "2026-09-02T16:04:10.100991Z",
   "customer_class": "residential",
   "source": "New York State Department of Public Service Power to Choose",
   "source_url": "https://documents.dps.ny.gov/PTC/home",
@@ -186,7 +186,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427418.0",
+          "offer_id": "428234.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 9125.24271845,
@@ -210,11 +210,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "Central Hudson",
-          "created_date": "08/04/2026 12:08:28 PM",
+          "created_date": "09/02/2026 09:37:01 AM",
           "updated_date": null
         },
         {
-          "offer_id": "427411.0",
+          "offer_id": "428241.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 9707.76699029,
@@ -238,13 +238,13 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "Central Hudson",
-          "created_date": "08/04/2026 12:05:56 PM",
+          "created_date": "09/02/2026 09:38:27 AM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 8,
-      "last_fetched": "2026-09-02T03:11:33.072644Z",
+      "last_fetched": "2026-09-02T16:04:10.096336Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -400,7 +400,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427419.0",
+          "offer_id": "428233.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 9399.0,
@@ -424,11 +424,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Gas Zones",
-          "created_date": "08/04/2026 12:08:47 PM",
+          "created_date": "09/02/2026 09:36:52 AM",
           "updated_date": null
         },
         {
-          "offer_id": "427420.0",
+          "offer_id": "428232.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 9999.0,
@@ -452,17 +452,17 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Gas Zones",
-          "created_date": "08/04/2026 12:09:01 PM",
+          "created_date": "09/02/2026 09:36:28 AM",
           "updated_date": null
         },
         {
-          "offer_id": "427199.0",
+          "offer_id": "428230.0",
           "product_name": null,
           "name": "ABC Energy, LLC.",
-          "rate": 57761.0,
+          "rate": 325545.0,
           "rate_type": "Variable",
           "rate_unit": "therm",
-          "source_rate": 57761.0,
+          "source_rate": 325545.0,
           "source_rate_unit": "therm",
           "term_months": 1,
           "early_termination_fee": null,
@@ -480,13 +480,13 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CONED in NYC",
-          "created_date": "08/03/2026 04:01:59 PM",
+          "created_date": "09/02/2026 08:48:27 AM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 8,
-      "last_fetched": "2026-09-02T03:11:33.072933Z",
+      "last_fetched": "2026-09-02T16:04:10.096809Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -642,7 +642,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427419.0",
+          "offer_id": "428233.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 9399.0,
@@ -666,11 +666,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Gas Zones",
-          "created_date": "08/04/2026 12:08:47 PM",
+          "created_date": "09/02/2026 09:36:52 AM",
           "updated_date": null
         },
         {
-          "offer_id": "427420.0",
+          "offer_id": "428232.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 9999.0,
@@ -694,17 +694,17 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Gas Zones",
-          "created_date": "08/04/2026 12:09:01 PM",
+          "created_date": "09/02/2026 09:36:28 AM",
           "updated_date": null
         },
         {
-          "offer_id": "427200.0",
+          "offer_id": "428229.0",
           "product_name": null,
           "name": "ABC Energy, LLC.",
-          "rate": 569733.0,
+          "rate": 321106.0,
           "rate_type": "Variable",
           "rate_unit": "therm",
-          "source_rate": 569733.0,
+          "source_rate": 321106.0,
           "source_rate_unit": "therm",
           "term_months": 1,
           "early_termination_fee": null,
@@ -722,13 +722,13 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CONED in Westchester",
-          "created_date": "08/03/2026 04:02:28 PM",
+          "created_date": "09/02/2026 08:46:00 AM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 8,
-      "last_fetched": "2026-09-02T03:11:33.073103Z",
+      "last_fetched": "2026-09-02T16:04:10.097086Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -884,7 +884,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427419.0",
+          "offer_id": "428233.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 9399.0,
@@ -908,11 +908,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Gas Zones",
-          "created_date": "08/04/2026 12:08:47 PM",
+          "created_date": "09/02/2026 09:36:52 AM",
           "updated_date": null
         },
         {
-          "offer_id": "427420.0",
+          "offer_id": "428232.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 9999.0,
@@ -936,13 +936,13 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Gas Zones",
-          "created_date": "08/04/2026 12:09:01 PM",
+          "created_date": "09/02/2026 09:36:28 AM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-09-02T03:11:33.073253Z",
+      "last_fetched": "2026-09-02T16:04:10.097333Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1098,7 +1098,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427415.0",
+          "offer_id": "428237.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 7183.49514563,
@@ -1122,11 +1122,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "National Fuel",
-          "created_date": "08/04/2026 12:07:49 PM",
+          "created_date": "09/02/2026 09:37:38 AM",
           "updated_date": null
         },
         {
-          "offer_id": "427408.0",
+          "offer_id": "428242.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 7766.01941748,
@@ -1150,11 +1150,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "National Fuel",
-          "created_date": "08/04/2026 12:05:16 PM",
+          "created_date": "09/02/2026 09:38:39 AM",
           "updated_date": null
         },
         {
-          "offer_id": "427410.0",
+          "offer_id": "428244.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 7766.01941748,
@@ -1178,13 +1178,13 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "National Fuel",
-          "created_date": "08/04/2026 12:05:48 PM",
+          "created_date": "09/02/2026 09:38:59 AM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 8,
-      "last_fetched": "2026-09-02T03:11:33.073538Z",
+      "last_fetched": "2026-09-02T16:04:10.097819Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1340,7 +1340,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427413.0",
+          "offer_id": "428239.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 7399.0,
@@ -1364,11 +1364,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "08/04/2026 12:06:48 PM",
+          "created_date": "09/02/2026 09:37:55 AM",
           "updated_date": null
         },
         {
-          "offer_id": "427404.0",
+          "offer_id": "428247.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 7999.0,
@@ -1392,13 +1392,13 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "08/04/2026 12:04:26 PM",
+          "created_date": "09/02/2026 09:39:33 AM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-09-02T03:11:33.073830Z",
+      "last_fetched": "2026-09-02T16:04:10.098260Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1554,7 +1554,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427413.0",
+          "offer_id": "428239.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 7399.0,
@@ -1578,11 +1578,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "08/04/2026 12:06:48 PM",
+          "created_date": "09/02/2026 09:37:55 AM",
           "updated_date": null
         },
         {
-          "offer_id": "427404.0",
+          "offer_id": "428247.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 7999.0,
@@ -1606,13 +1606,13 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "08/04/2026 12:04:26 PM",
+          "created_date": "09/02/2026 09:39:33 AM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-09-02T03:11:33.073990Z",
+      "last_fetched": "2026-09-02T16:04:10.098519Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1768,7 +1768,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427413.0",
+          "offer_id": "428239.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 7399.0,
@@ -1792,11 +1792,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "08/04/2026 12:06:48 PM",
+          "created_date": "09/02/2026 09:37:55 AM",
           "updated_date": null
         },
         {
-          "offer_id": "427404.0",
+          "offer_id": "428247.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 7999.0,
@@ -1820,13 +1820,13 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "08/04/2026 12:04:26 PM",
+          "created_date": "09/02/2026 09:39:33 AM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-09-02T03:11:33.074151Z",
+      "last_fetched": "2026-09-02T16:04:10.098793Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1982,7 +1982,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427413.0",
+          "offer_id": "428239.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 7399.0,
@@ -2006,11 +2006,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "08/04/2026 12:06:48 PM",
+          "created_date": "09/02/2026 09:37:55 AM",
           "updated_date": null
         },
         {
-          "offer_id": "427404.0",
+          "offer_id": "428247.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 7999.0,
@@ -2034,13 +2034,13 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "08/04/2026 12:04:26 PM",
+          "created_date": "09/02/2026 09:39:33 AM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-09-02T03:11:33.074348Z",
+      "last_fetched": "2026-09-02T16:04:10.099049Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2168,7 +2168,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427413.0",
+          "offer_id": "428239.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 7399.0,
@@ -2192,11 +2192,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "08/04/2026 12:06:48 PM",
+          "created_date": "09/02/2026 09:37:55 AM",
           "updated_date": null
         },
         {
-          "offer_id": "427404.0",
+          "offer_id": "428247.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 7999.0,
@@ -2220,13 +2220,13 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "08/04/2026 12:04:26 PM",
+          "created_date": "09/02/2026 09:39:33 AM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 6,
-      "last_fetched": "2026-09-02T03:11:33.074483Z",
+      "last_fetched": "2026-09-02T16:04:10.099268Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2326,7 +2326,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427407.0",
+          "offer_id": "428245.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 9399.0,
@@ -2350,11 +2350,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "National Grid in Long Island",
-          "created_date": "08/04/2026 12:04:59 PM",
+          "created_date": "09/02/2026 09:39:09 AM",
           "updated_date": null
         },
         {
-          "offer_id": "427417.0",
+          "offer_id": "428235.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 9999.0,
@@ -2378,13 +2378,13 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "National Grid in Long Island",
-          "created_date": "08/04/2026 12:08:17 PM",
+          "created_date": "09/02/2026 09:37:08 AM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 5,
-      "last_fetched": "2026-09-02T03:11:33.074739Z",
+      "last_fetched": "2026-09-02T16:04:10.099669Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2514,7 +2514,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 4,
-      "last_fetched": "2026-09-02T03:11:33.074847Z",
+      "last_fetched": "2026-09-02T16:04:10.099841Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2670,7 +2670,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427416.0",
+          "offer_id": "428236.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 7399.0,
@@ -2694,11 +2694,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "National Grid in Upstate",
-          "created_date": "08/04/2026 12:08:06 PM",
+          "created_date": "09/02/2026 09:37:26 AM",
           "updated_date": null
         },
         {
-          "offer_id": "427412.0",
+          "offer_id": "428240.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 7999.0,
@@ -2722,13 +2722,13 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "National Grid in Upstate",
-          "created_date": "08/04/2026 12:06:12 PM",
+          "created_date": "09/02/2026 09:38:05 AM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-09-02T03:11:33.075046Z",
+      "last_fetched": "2026-09-02T16:04:10.100110Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2912,7 +2912,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427414.0",
+          "offer_id": "428238.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 9125.24271845,
@@ -2936,11 +2936,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "Orange and Rockland",
-          "created_date": "08/04/2026 12:07:37 PM",
+          "created_date": "09/02/2026 09:37:46 AM",
           "updated_date": null
         },
         {
-          "offer_id": "427403.0",
+          "offer_id": "428248.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 9707.76699029,
@@ -2964,13 +2964,13 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "Orange and Rockland",
-          "created_date": "08/04/2026 12:03:39 PM",
+          "created_date": "09/02/2026 09:40:04 AM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 8,
-      "last_fetched": "2026-09-02T03:11:33.075328Z",
+      "last_fetched": "2026-09-02T16:04:10.100558Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -3154,7 +3154,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427409.0",
+          "offer_id": "428243.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 7399.0,
@@ -3178,11 +3178,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE",
-          "created_date": "08/04/2026 12:05:27 PM",
+          "created_date": "09/02/2026 09:38:49 AM",
           "updated_date": null
         },
         {
-          "offer_id": "427406.0",
+          "offer_id": "428246.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 7999.0,
@@ -3206,13 +3206,13 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE",
-          "created_date": "08/04/2026 12:04:43 PM",
+          "created_date": "09/02/2026 09:39:19 AM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 8,
-      "last_fetched": "2026-09-02T03:11:33.075588Z",
+      "last_fetched": "2026-09-02T16:04:10.100988Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     }
