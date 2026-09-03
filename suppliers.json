@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T03:13:08.531101Z",
+  "last_updated": "2026-09-03T15:53:37.490003Z",
   "customer_class": "residential",
   "source": "New York State Department of Public Service Power to Choose",
   "source_url": "https://documents.dps.ny.gov/PTC/home",
@@ -18,7 +18,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "427143.0",
+          "offer_id": "428288.0",
           "product_name": null,
           "name": "Agway Energy Services, LLC.",
           "rate": 1.04757282,
@@ -42,7 +42,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "Central Hudson",
-          "created_date": "08/03/2026 11:21:51 AM",
+          "created_date": "09/03/2026 09:04:22 AM",
           "updated_date": null
         },
         {
@@ -244,7 +244,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 8,
-      "last_fetched": "2026-09-03T03:13:08.526497Z",
+      "last_fetched": "2026-09-03T15:53:37.487399Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -288,7 +288,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427137.0",
+          "offer_id": "428291.0",
           "product_name": null,
           "name": "Agway Energy Services, LLC.",
           "rate": 1.149,
@@ -312,7 +312,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Gas Zones",
-          "created_date": "08/03/2026 11:21:17 AM",
+          "created_date": "09/03/2026 09:04:33 AM",
           "updated_date": null
         },
         {
@@ -486,7 +486,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 8,
-      "last_fetched": "2026-09-03T03:13:08.526951Z",
+      "last_fetched": "2026-09-03T15:53:37.487657Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -530,7 +530,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427137.0",
+          "offer_id": "428291.0",
           "product_name": null,
           "name": "Agway Energy Services, LLC.",
           "rate": 1.149,
@@ -554,7 +554,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Gas Zones",
-          "created_date": "08/03/2026 11:21:17 AM",
+          "created_date": "09/03/2026 09:04:33 AM",
           "updated_date": null
         },
         {
@@ -728,7 +728,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 8,
-      "last_fetched": "2026-09-03T03:13:08.527259Z",
+      "last_fetched": "2026-09-03T15:53:37.487819Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -772,7 +772,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427137.0",
+          "offer_id": "428291.0",
           "product_name": null,
           "name": "Agway Energy Services, LLC.",
           "rate": 1.149,
@@ -796,7 +796,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Gas Zones",
-          "created_date": "08/03/2026 11:21:17 AM",
+          "created_date": "09/03/2026 09:04:33 AM",
           "updated_date": null
         },
         {
@@ -942,7 +942,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-09-03T03:13:08.527506Z",
+      "last_fetched": "2026-09-03T15:53:37.487953Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1070,7 +1070,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427135.0",
+          "offer_id": "428292.0",
           "product_name": null,
           "name": "Agway Energy Services, LLC.",
           "rate": 960.19417476,
@@ -1094,7 +1094,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "National Fuel",
-          "created_date": "08/03/2026 11:21:02 AM",
+          "created_date": "09/03/2026 09:04:37 AM",
           "updated_date": null
         },
         {
@@ -1184,7 +1184,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 8,
-      "last_fetched": "2026-09-03T03:13:08.527956Z",
+      "last_fetched": "2026-09-03T15:53:37.488205Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1312,7 +1312,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427149.0",
+          "offer_id": "428293.0",
           "product_name": null,
           "name": "Agway Energy Services, LLC.",
           "rate": 989.0,
@@ -1336,7 +1336,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG Columbia Pooling Area",
-          "created_date": "08/03/2026 11:22:22 AM",
+          "created_date": "09/03/2026 09:04:41 AM",
           "updated_date": null
         },
         {
@@ -1398,7 +1398,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-09-03T03:13:08.528401Z",
+      "last_fetched": "2026-09-03T15:53:37.488491Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1526,7 +1526,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427139.0",
+          "offer_id": "428290.0",
           "product_name": null,
           "name": "Agway Energy Services, LLC.",
           "rate": 989.0,
@@ -1550,7 +1550,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG Columbia Pooling Area in Orlean",
-          "created_date": "08/03/2026 11:21:26 AM",
+          "created_date": "09/03/2026 09:04:28 AM",
           "updated_date": null
         },
         {
@@ -1612,7 +1612,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-09-03T03:13:08.528662Z",
+      "last_fetched": "2026-09-03T15:53:37.488637Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1740,7 +1740,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427147.0",
+          "offer_id": "428286.0",
           "product_name": null,
           "name": "Agway Energy Services, LLC.",
           "rate": 989.0,
@@ -1764,7 +1764,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG Dominion Pooling Area",
-          "created_date": "08/03/2026 11:22:14 AM",
+          "created_date": "09/03/2026 09:04:15 AM",
           "updated_date": null
         },
         {
@@ -1826,7 +1826,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-09-03T03:13:08.528917Z",
+      "last_fetched": "2026-09-03T15:53:37.488786Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1954,7 +1954,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427141.0",
+          "offer_id": "428289.0",
           "product_name": null,
           "name": "Agway Energy Services, LLC.",
           "rate": 989.0,
@@ -1978,7 +1978,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG Tennessee Gas Pooling Area",
-          "created_date": "08/03/2026 11:21:37 AM",
+          "created_date": "09/03/2026 09:04:25 AM",
           "updated_date": null
         },
         {
@@ -2040,7 +2040,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-09-03T03:13:08.529177Z",
+      "last_fetched": "2026-09-03T15:53:37.488927Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2226,7 +2226,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 6,
-      "last_fetched": "2026-09-03T03:13:08.529393Z",
+      "last_fetched": "2026-09-03T15:53:37.489048Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2242,7 +2242,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "427145.0",
+          "offer_id": "428287.0",
           "product_name": null,
           "name": "Agway Energy Services, LLC.",
           "rate": 1.069,
@@ -2266,7 +2266,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "National Grid in Long Island",
-          "created_date": "08/03/2026 11:22:03 AM",
+          "created_date": "09/03/2026 09:04:18 AM",
           "updated_date": null
         },
         {
@@ -2384,7 +2384,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 5,
-      "last_fetched": "2026-09-03T03:13:08.529780Z",
+      "last_fetched": "2026-09-03T15:53:37.489270Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2400,7 +2400,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "427129.0",
+          "offer_id": "428296.0",
           "product_name": null,
           "name": "Agway Energy Services, LLC.",
           "rate": 1.089,
@@ -2424,7 +2424,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "National Grid in Metro",
-          "created_date": "08/03/2026 11:20:23 AM",
+          "created_date": "09/03/2026 09:05:05 AM",
           "updated_date": null
         },
         {
@@ -2514,7 +2514,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 4,
-      "last_fetched": "2026-09-03T03:13:08.529948Z",
+      "last_fetched": "2026-09-03T15:53:37.489364Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2642,7 +2642,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427127.0",
+          "offer_id": "428297.0",
           "product_name": null,
           "name": "Agway Energy Services, LLC.",
           "rate": 959.0,
@@ -2666,7 +2666,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "National Grid in Upstate",
-          "created_date": "08/03/2026 11:20:02 AM",
+          "created_date": "09/03/2026 09:05:10 AM",
           "updated_date": null
         },
         {
@@ -2728,7 +2728,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-09-03T03:13:08.530218Z",
+      "last_fetched": "2026-09-03T15:53:37.489508Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2744,7 +2744,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "427133.0",
+          "offer_id": "428294.0",
           "product_name": null,
           "name": "Agway Energy Services, LLC.",
           "rate": 1.0184466,
@@ -2768,7 +2768,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "Orange and Rockland",
-          "created_date": "08/03/2026 11:20:49 AM",
+          "created_date": "09/03/2026 09:04:49 AM",
           "updated_date": null
         },
         {
@@ -2970,7 +2970,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 8,
-      "last_fetched": "2026-09-03T03:13:08.530662Z",
+      "last_fetched": "2026-09-03T15:53:37.489762Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -3126,7 +3126,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427131.0",
+          "offer_id": "428295.0",
           "product_name": null,
           "name": "Agway Energy Services, LLC.",
           "rate": 909.0,
@@ -3150,7 +3150,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE",
-          "created_date": "08/03/2026 11:20:37 AM",
+          "created_date": "09/03/2026 09:04:57 AM",
           "updated_date": null
         },
         {
@@ -3212,7 +3212,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 8,
-      "last_fetched": "2026-09-03T03:13:08.531079Z",
+      "last_fetched": "2026-09-03T15:53:37.490001Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     }
