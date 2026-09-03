@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T19:08:50.181055Z",
+  "last_updated": "2026-09-03T22:20:20.416101Z",
   "customer_class": "residential",
   "source": "New York State Department of Public Service Power to Choose",
   "source_url": "https://documents.dps.ny.gov/PTC/home",
@@ -804,7 +804,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 28,
-      "last_fetched": "2026-09-03T19:08:50.140228Z",
+      "last_fetched": "2026-09-03T22:20:20.378470Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1690,7 +1690,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-09-03T19:08:50.142157Z",
+      "last_fetched": "2026-09-03T22:20:20.380418Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2604,7 +2604,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-09-03T19:08:50.143228Z",
+      "last_fetched": "2026-09-03T22:20:20.381417Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -3378,7 +3378,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 27,
-      "last_fetched": "2026-09-03T19:08:50.145507Z",
+      "last_fetched": "2026-09-03T22:20:20.383601Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -4796,7 +4796,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 50,
-      "last_fetched": "2026-09-03T19:08:50.147176Z",
+      "last_fetched": "2026-09-03T22:20:20.385182Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -6186,7 +6186,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 49,
-      "last_fetched": "2026-09-03T19:08:50.148823Z",
+      "last_fetched": "2026-09-03T22:20:20.386690Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -7632,7 +7632,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 51,
-      "last_fetched": "2026-09-03T19:08:50.150530Z",
+      "last_fetched": "2026-09-03T22:20:20.388259Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -7678,7 +7678,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 1,
-      "last_fetched": "2026-09-03T19:08:50.151526Z",
+      "last_fetched": "2026-09-03T22:20:20.389170Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -8284,7 +8284,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 21,
-      "last_fetched": "2026-09-03T19:08:50.153654Z",
+      "last_fetched": "2026-09-03T22:20:20.391124Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -9308,13 +9308,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427030.0",
+          "offer_id": "428352.0",
           "product_name": null,
           "name": "Energy Cooperative of New York",
-          "rate": 137767.0,
+          "rate": 102283.0,
           "rate_type": "Variable",
           "rate_unit": "kWh",
-          "source_rate": 137767.0,
+          "source_rate": 102283.0,
           "source_rate_unit": "kWh",
           "term_months": 1,
           "early_termination_fee": null,
@@ -9332,13 +9332,13 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone A",
-          "created_date": "08/03/2026 09:44:21 AM",
+          "created_date": "09/03/2026 03:49:52 PM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 37,
-      "last_fetched": "2026-09-03T19:08:50.154956Z",
+      "last_fetched": "2026-09-03T22:20:20.392327Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -10026,13 +10026,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427029.0",
+          "offer_id": "428353.0",
           "product_name": null,
           "name": "Energy Cooperative of New York",
-          "rate": 137767.0,
+          "rate": 102283.0,
           "rate_type": "Variable",
           "rate_unit": "kWh",
-          "source_rate": 137767.0,
+          "source_rate": 102283.0,
           "source_rate_unit": "kWh",
           "term_months": 1,
           "early_termination_fee": null,
@@ -10050,13 +10050,13 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone B",
-          "created_date": "08/03/2026 09:43:57 AM",
+          "created_date": "09/03/2026 03:50:21 PM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 25,
-      "last_fetched": "2026-09-03T19:08:50.155911Z",
+      "last_fetched": "2026-09-03T22:20:20.393195Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -10968,13 +10968,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427028.0",
+          "offer_id": "428354.0",
           "product_name": null,
           "name": "Energy Cooperative of New York",
-          "rate": 137767.0,
+          "rate": 102283.0,
           "rate_type": "Variable",
           "rate_unit": "kWh",
-          "source_rate": 137767.0,
+          "source_rate": 102283.0,
           "source_rate_unit": "kWh",
           "term_months": 1,
           "early_termination_fee": null,
@@ -10992,13 +10992,13 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone C",
-          "created_date": "08/03/2026 09:43:32 AM",
+          "created_date": "09/03/2026 03:50:54 PM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 33,
-      "last_fetched": "2026-09-03T19:08:50.157072Z",
+      "last_fetched": "2026-09-03T22:20:20.394283Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -11770,13 +11770,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427027.0",
+          "offer_id": "428355.0",
           "product_name": null,
           "name": "Energy Cooperative of New York",
-          "rate": 137767.0,
+          "rate": 102283.0,
           "rate_type": "Variable",
           "rate_unit": "kWh",
-          "source_rate": 137767.0,
+          "source_rate": 102283.0,
           "source_rate_unit": "kWh",
           "term_months": 1,
           "early_termination_fee": null,
@@ -11794,13 +11794,13 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone D",
-          "created_date": "08/03/2026 09:43:09 AM",
+          "created_date": "09/03/2026 03:51:20 PM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 28,
-      "last_fetched": "2026-09-03T19:08:50.158110Z",
+      "last_fetched": "2026-09-03T22:20:20.395246Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -12656,13 +12656,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427026.0",
+          "offer_id": "428356.0",
           "product_name": null,
           "name": "Energy Cooperative of New York",
-          "rate": 137767.0,
+          "rate": 102283.0,
           "rate_type": "Variable",
           "rate_unit": "kWh",
-          "source_rate": 137767.0,
+          "source_rate": 102283.0,
           "source_rate_unit": "kWh",
           "term_months": 1,
           "early_termination_fee": null,
@@ -12680,13 +12680,13 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone E",
-          "created_date": "08/03/2026 09:42:44 AM",
+          "created_date": "09/03/2026 03:51:52 PM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-09-03T19:08:50.159253Z",
+      "last_fetched": "2026-09-03T22:20:20.396303Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -13682,13 +13682,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427025.0",
+          "offer_id": "428357.0",
           "product_name": null,
           "name": "Energy Cooperative of New York",
-          "rate": 137168.0,
+          "rate": 94502.0,
           "rate_type": "Variable",
           "rate_unit": "kWh",
-          "source_rate": 137168.0,
+          "source_rate": 94502.0,
           "source_rate_unit": "kWh",
           "term_months": 1,
           "early_termination_fee": null,
@@ -13706,13 +13706,13 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone F",
-          "created_date": "08/03/2026 09:42:09 AM",
+          "created_date": "09/03/2026 03:52:19 PM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-09-03T19:08:50.160538Z",
+      "last_fetched": "2026-09-03T22:20:20.397501Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -14596,13 +14596,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427024.0",
+          "offer_id": "428358.0",
           "product_name": null,
           "name": "Energy Cooperative of New York",
-          "rate": 138333.0,
+          "rate": 97041.0,
           "rate_type": "Variable",
           "rate_unit": "kWh",
-          "source_rate": 138333.0,
+          "source_rate": 97041.0,
           "source_rate_unit": "kWh",
           "term_months": 1,
           "early_termination_fee": null,
@@ -14620,13 +14620,13 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone G",
-          "created_date": "08/03/2026 09:41:33 AM",
+          "created_date": "09/03/2026 03:52:46 PM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-09-03T19:08:50.162030Z",
+      "last_fetched": "2026-09-03T22:20:20.398621Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -15426,13 +15426,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427020.0",
+          "offer_id": "428359.0",
           "product_name": null,
           "name": "Energy Cooperative of New York",
-          "rate": 138333.0,
+          "rate": 97041.0,
           "rate_type": "Variable",
           "rate_unit": "kWh",
-          "source_rate": 138333.0,
+          "source_rate": 97041.0,
           "source_rate_unit": "kWh",
           "term_months": 1,
           "early_termination_fee": null,
@@ -15450,13 +15450,13 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone H",
-          "created_date": "08/03/2026 09:40:58 AM",
+          "created_date": "09/03/2026 03:53:11 PM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 29,
-      "last_fetched": "2026-09-03T19:08:50.163119Z",
+      "last_fetched": "2026-09-03T22:20:20.399608Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -16146,7 +16146,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 24,
-      "last_fetched": "2026-09-03T19:08:50.164053Z",
+      "last_fetched": "2026-09-03T22:20:20.400461Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -16724,7 +16724,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 20,
-      "last_fetched": "2026-09-03T19:08:50.166178Z",
+      "last_fetched": "2026-09-03T22:20:20.402411Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -17722,7 +17722,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-09-03T19:08:50.167441Z",
+      "last_fetched": "2026-09-03T22:20:20.403559Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -18608,7 +18608,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-09-03T19:08:50.168614Z",
+      "last_fetched": "2026-09-03T22:20:20.404619Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -19606,7 +19606,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-09-03T19:08:50.169856Z",
+      "last_fetched": "2026-09-03T22:20:20.405773Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -20492,7 +20492,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-09-03T19:08:50.170999Z",
+      "last_fetched": "2026-09-03T22:20:20.406823Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -21406,7 +21406,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-09-03T19:08:50.172200Z",
+      "last_fetched": "2026-09-03T22:20:20.407950Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -22432,7 +22432,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-09-03T19:08:50.173480Z",
+      "last_fetched": "2026-09-03T22:20:20.409110Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -23430,7 +23430,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-09-03T19:08:50.175609Z",
+      "last_fetched": "2026-09-03T22:20:20.411063Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -24456,7 +24456,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-09-03T19:08:50.176723Z",
+      "last_fetched": "2026-09-03T22:20:20.412084Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -25538,7 +25538,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 38,
-      "last_fetched": "2026-09-03T19:08:50.177905Z",
+      "last_fetched": "2026-09-03T22:20:20.413161Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -26422,13 +26422,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427017.0",
+          "offer_id": "428360.0",
           "product_name": null,
           "name": "Energy Cooperative of New York",
-          "rate": 106613.0,
+          "rate": 110127.0,
           "rate_type": "Variable",
           "rate_unit": "kWh",
-          "source_rate": 106613.0,
+          "source_rate": 110127.0,
           "source_rate_unit": "kWh",
           "term_months": 1,
           "early_termination_fee": null,
@@ -26446,13 +26446,13 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in All Zones",
-          "created_date": "08/03/2026 09:40:30 AM",
+          "created_date": "09/03/2026 03:53:34 PM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-09-03T19:08:50.179941Z",
+      "last_fetched": "2026-09-03T22:20:20.415086Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -27420,13 +27420,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427017.0",
+          "offer_id": "428360.0",
           "product_name": null,
           "name": "Energy Cooperative of New York",
-          "rate": 106613.0,
+          "rate": 110127.0,
           "rate_type": "Variable",
           "rate_unit": "kWh",
-          "source_rate": 106613.0,
+          "source_rate": 110127.0,
           "source_rate_unit": "kWh",
           "term_months": 1,
           "early_termination_fee": null,
@@ -27444,13 +27444,13 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in All Zones",
-          "created_date": "08/03/2026 09:40:30 AM",
+          "created_date": "09/03/2026 03:53:34 PM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-09-03T19:08:50.181050Z",
+      "last_fetched": "2026-09-03T22:20:20.416097Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     }
