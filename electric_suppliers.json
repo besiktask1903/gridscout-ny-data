@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T03:11:55.057536Z",
+  "last_updated": "2026-09-04T15:51:45.482003Z",
   "customer_class": "residential",
   "source": "New York State Department of Public Service Power to Choose",
   "source_url": "https://documents.dps.ny.gov/PTC/home",
@@ -804,7 +804,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 28,
-      "last_fetched": "2026-09-04T03:11:55.020338Z",
+      "last_fetched": "2026-09-04T15:51:45.442134Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1690,7 +1690,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-09-04T03:11:55.022222Z",
+      "last_fetched": "2026-09-04T15:51:45.444006Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1706,7 +1706,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "428063.0",
+          "offer_id": "428391.0",
           "product_name": null,
           "name": "Great American Gas & Electric, LLC",
           "rate": 1.0,
@@ -1730,7 +1730,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in Zone G",
-          "created_date": "08/31/2026 09:35:29 AM",
+          "created_date": "09/04/2026 09:29:30 AM",
           "updated_date": null
         },
         {
@@ -2604,7 +2604,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-09-04T03:11:55.023218Z",
+      "last_fetched": "2026-09-04T15:51:45.445091Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -3378,7 +3378,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 27,
-      "last_fetched": "2026-09-04T03:11:55.025730Z",
+      "last_fetched": "2026-09-04T15:51:45.447246Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -3394,7 +3394,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "428071.0",
+          "offer_id": "428383.0",
           "product_name": null,
           "name": "Great American Gas & Electric, LLC",
           "rate": 1.0,
@@ -3418,7 +3418,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in Zone H",
-          "created_date": "08/31/2026 09:36:11 AM",
+          "created_date": "09/04/2026 09:28:42 AM",
           "updated_date": null
         },
         {
@@ -4796,7 +4796,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 50,
-      "last_fetched": "2026-09-04T03:11:55.027285Z",
+      "last_fetched": "2026-09-04T15:51:45.448879Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -4812,7 +4812,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "428072.0",
+          "offer_id": "428382.0",
           "product_name": null,
           "name": "Great American Gas & Electric, LLC",
           "rate": 1.0,
@@ -4836,7 +4836,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in Zone I",
-          "created_date": "08/31/2026 09:36:17 AM",
+          "created_date": "09/04/2026 09:28:35 AM",
           "updated_date": null
         },
         {
@@ -6186,7 +6186,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 49,
-      "last_fetched": "2026-09-04T03:11:55.028766Z",
+      "last_fetched": "2026-09-04T15:51:45.450465Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -6202,7 +6202,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "428074.0",
+          "offer_id": "428380.0",
           "product_name": null,
           "name": "Great American Gas & Electric, LLC",
           "rate": 1.0,
@@ -6226,7 +6226,35 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in Zone J",
-          "created_date": "08/31/2026 09:36:26 AM",
+          "created_date": "09/04/2026 09:28:29 AM",
+          "updated_date": null
+        },
+        {
+          "offer_id": "428381.0",
+          "product_name": null,
+          "name": "Great American Gas & Electric, LLC",
+          "rate": 1.0,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "source_rate": 1.0,
+          "source_rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "http://www.ga-ge.com",
+          "signup_url": "http://www.ga-ge.com",
+          "phone": null,
+          "renewable": "No",
+          "renewable_percentage": 0.0,
+          "energy_source": null,
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "ConEd in Zone J",
+          "created_date": "09/04/2026 09:28:29 AM",
           "updated_date": null
         },
         {
@@ -7631,8 +7659,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 51,
-      "last_fetched": "2026-09-04T03:11:55.030317Z",
+      "count": 52,
+      "last_fetched": "2026-09-04T15:51:45.452175Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -7678,7 +7706,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 1,
-      "last_fetched": "2026-09-04T03:11:55.031195Z",
+      "last_fetched": "2026-09-04T15:51:45.453176Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -8284,7 +8312,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 21,
-      "last_fetched": "2026-09-04T03:11:55.033078Z",
+      "last_fetched": "2026-09-04T15:51:45.455302Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -8300,7 +8328,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "428073.0",
+          "offer_id": "428379.0",
           "product_name": null,
           "name": "Great American Gas & Electric, LLC",
           "rate": 1.0,
@@ -8324,7 +8352,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone A",
-          "created_date": "08/31/2026 09:36:22 AM",
+          "created_date": "09/04/2026 09:28:23 AM",
           "updated_date": null
         },
         {
@@ -9338,7 +9366,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 37,
-      "last_fetched": "2026-09-04T03:11:55.034296Z",
+      "last_fetched": "2026-09-04T15:51:45.456590Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -10056,7 +10084,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 25,
-      "last_fetched": "2026-09-04T03:11:55.035171Z",
+      "last_fetched": "2026-09-04T15:51:45.457509Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -10072,7 +10100,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "428076.0",
+          "offer_id": "428377.0",
           "product_name": null,
           "name": "Great American Gas & Electric, LLC",
           "rate": 1.0,
@@ -10096,7 +10124,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone C",
-          "created_date": "08/31/2026 09:36:36 AM",
+          "created_date": "09/04/2026 09:28:11 AM",
           "updated_date": null
         },
         {
@@ -10998,7 +11026,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 33,
-      "last_fetched": "2026-09-04T03:11:55.036229Z",
+      "last_fetched": "2026-09-04T15:51:45.458806Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -11014,7 +11042,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "428078.0",
+          "offer_id": "428375.0",
           "product_name": null,
           "name": "Great American Gas & Electric, LLC",
           "rate": 1.0,
@@ -11038,7 +11066,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone D",
-          "created_date": "08/31/2026 09:36:48 AM",
+          "created_date": "09/04/2026 09:27:59 AM",
           "updated_date": null
         },
         {
@@ -11800,7 +11828,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 28,
-      "last_fetched": "2026-09-04T03:11:55.037169Z",
+      "last_fetched": "2026-09-04T15:51:45.459830Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -11816,7 +11844,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "428077.0",
+          "offer_id": "428374.0",
           "product_name": null,
           "name": "Great American Gas & Electric, LLC",
           "rate": 1.0,
@@ -11840,11 +11868,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone E",
-          "created_date": "08/31/2026 09:36:42 AM",
+          "created_date": "09/04/2026 09:27:53 AM",
           "updated_date": null
         },
         {
-          "offer_id": "428079.0",
+          "offer_id": "428376.0",
           "product_name": null,
           "name": "Great American Gas & Electric, LLC",
           "rate": 1.0,
@@ -11868,7 +11896,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone E",
-          "created_date": "08/31/2026 09:36:54 AM",
+          "created_date": "09/04/2026 09:28:04 AM",
           "updated_date": null
         },
         {
@@ -12686,7 +12714,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-09-04T03:11:55.038204Z",
+      "last_fetched": "2026-09-04T15:51:45.460951Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -12702,7 +12730,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "428080.0",
+          "offer_id": "428373.0",
           "product_name": null,
           "name": "Great American Gas & Electric, LLC",
           "rate": 1.0,
@@ -12726,7 +12754,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone F",
-          "created_date": "08/31/2026 09:36:59 AM",
+          "created_date": "09/04/2026 09:27:48 AM",
           "updated_date": null
         },
         {
@@ -13712,7 +13740,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-09-04T03:11:55.039358Z",
+      "last_fetched": "2026-09-04T15:51:45.462191Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -13728,7 +13756,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "428081.0",
+          "offer_id": "428372.0",
           "product_name": null,
           "name": "Great American Gas & Electric, LLC",
           "rate": 1.0,
@@ -13752,7 +13780,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone G",
-          "created_date": "08/31/2026 09:37:05 AM",
+          "created_date": "09/04/2026 09:27:44 AM",
           "updated_date": null
         },
         {
@@ -14626,7 +14654,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-09-04T03:11:55.040420Z",
+      "last_fetched": "2026-09-04T15:51:45.463336Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -14642,7 +14670,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "428082.0",
+          "offer_id": "428371.0",
           "product_name": null,
           "name": "Great American Gas & Electric, LLC",
           "rate": 1.0,
@@ -14666,7 +14694,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone H",
-          "created_date": "08/31/2026 09:37:24 AM",
+          "created_date": "09/04/2026 09:27:41 AM",
           "updated_date": null
         },
         {
@@ -15456,7 +15484,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 29,
-      "last_fetched": "2026-09-04T03:11:55.041383Z",
+      "last_fetched": "2026-09-04T15:51:45.464372Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -16146,7 +16174,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 24,
-      "last_fetched": "2026-09-04T03:11:55.042221Z",
+      "last_fetched": "2026-09-04T15:51:45.465282Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -16724,7 +16752,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 20,
-      "last_fetched": "2026-09-04T03:11:55.044138Z",
+      "last_fetched": "2026-09-04T15:51:45.467386Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -16740,7 +16768,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "428064.0",
+          "offer_id": "428390.0",
           "product_name": null,
           "name": "Great American Gas & Electric, LLC",
           "rate": 1.0,
@@ -16764,7 +16792,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in Zone A",
-          "created_date": "08/31/2026 09:35:32 AM",
+          "created_date": "09/04/2026 09:29:23 AM",
           "updated_date": null
         },
         {
@@ -17722,7 +17750,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-09-04T03:11:55.045329Z",
+      "last_fetched": "2026-09-04T15:51:45.468611Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -17738,7 +17766,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "428065.0",
+          "offer_id": "428389.0",
           "product_name": null,
           "name": "Great American Gas & Electric, LLC",
           "rate": 1.0,
@@ -17762,7 +17790,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in Zone B",
-          "created_date": "08/31/2026 09:35:38 AM",
+          "created_date": "09/04/2026 09:29:14 AM",
           "updated_date": null
         },
         {
@@ -18608,7 +18636,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-09-04T03:11:55.046377Z",
+      "last_fetched": "2026-09-04T15:51:45.469754Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -18624,7 +18652,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "428066.0",
+          "offer_id": "428388.0",
           "product_name": null,
           "name": "Great American Gas & Electric, LLC",
           "rate": 1.0,
@@ -18648,7 +18676,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in Zone C",
-          "created_date": "08/31/2026 09:35:43 AM",
+          "created_date": "09/04/2026 09:29:10 AM",
           "updated_date": null
         },
         {
@@ -19606,7 +19634,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-09-04T03:11:55.047495Z",
+      "last_fetched": "2026-09-04T15:51:45.470983Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -19622,7 +19650,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "428067.0",
+          "offer_id": "428387.0",
           "product_name": null,
           "name": "Great American Gas & Electric, LLC",
           "rate": 1.0,
@@ -19646,7 +19674,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in Zone D",
-          "created_date": "08/31/2026 09:35:48 AM",
+          "created_date": "09/04/2026 09:29:04 AM",
           "updated_date": null
         },
         {
@@ -20492,7 +20520,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-09-04T03:11:55.048533Z",
+      "last_fetched": "2026-09-04T15:51:45.472106Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -20508,7 +20536,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "428068.0",
+          "offer_id": "428385.0",
           "product_name": null,
           "name": "Great American Gas & Electric, LLC",
           "rate": 1.0,
@@ -20532,11 +20560,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in Zone E",
-          "created_date": "08/31/2026 09:35:53 AM",
+          "created_date": "09/04/2026 09:28:55 AM",
           "updated_date": null
         },
         {
-          "offer_id": "428069.0",
+          "offer_id": "428386.0",
           "product_name": null,
           "name": "Great American Gas & Electric, LLC",
           "rate": 1.0,
@@ -20560,7 +20588,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in Zone E",
-          "created_date": "08/31/2026 09:35:59 AM",
+          "created_date": "09/04/2026 09:29:00 AM",
           "updated_date": null
         },
         {
@@ -21406,7 +21434,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-09-04T03:11:55.049626Z",
+      "last_fetched": "2026-09-04T15:51:45.473278Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -21422,7 +21450,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "428070.0",
+          "offer_id": "428384.0",
           "product_name": null,
           "name": "Great American Gas & Electric, LLC",
           "rate": 1.0,
@@ -21446,7 +21474,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in Zone F",
-          "created_date": "08/31/2026 09:36:05 AM",
+          "created_date": "09/04/2026 09:28:49 AM",
           "updated_date": null
         },
         {
@@ -22432,7 +22460,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-09-04T03:11:55.050756Z",
+      "last_fetched": "2026-09-04T15:51:45.474510Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -23430,7 +23458,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-09-04T03:11:55.052663Z",
+      "last_fetched": "2026-09-04T15:51:45.476632Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -24456,7 +24484,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-09-04T03:11:55.053667Z",
+      "last_fetched": "2026-09-04T15:51:45.477722Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -24472,7 +24500,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "428083.0",
+          "offer_id": "428370.0",
           "product_name": null,
           "name": "Great American Gas & Electric, LLC",
           "rate": 1.0,
@@ -24496,7 +24524,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in Zone G",
-          "created_date": "08/31/2026 09:37:31 AM",
+          "created_date": "09/04/2026 09:27:35 AM",
           "updated_date": null
         },
         {
@@ -25538,7 +25566,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 38,
-      "last_fetched": "2026-09-04T03:11:55.054719Z",
+      "last_fetched": "2026-09-04T15:51:45.478886Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -26452,7 +26480,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-09-04T03:11:55.056534Z",
+      "last_fetched": "2026-09-04T15:51:45.480922Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -26468,7 +26496,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "428075.0",
+          "offer_id": "428378.0",
           "product_name": null,
           "name": "Great American Gas & Electric, LLC",
           "rate": 1.0,
@@ -26492,7 +26520,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in Zone B",
-          "created_date": "08/31/2026 09:36:31 AM",
+          "created_date": "09/04/2026 09:28:16 AM",
           "updated_date": null
         },
         {
@@ -27450,7 +27478,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-09-04T03:11:55.057531Z",
+      "last_fetched": "2026-09-04T15:51:45.481998Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     }
