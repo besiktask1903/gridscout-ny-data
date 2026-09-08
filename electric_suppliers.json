@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T16:06:22.912320Z",
+  "last_updated": "2026-09-08T20:47:22.013656Z",
   "customer_class": "residential",
   "source": "New York State Department of Public Service Power to Choose",
   "source_url": "https://documents.dps.ny.gov/PTC/home",
@@ -186,13 +186,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427290.0",
+          "offer_id": "428542.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
-          "rate": 179.0,
+          "rate": 175.0,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "source_rate": 179.0,
+          "source_rate": 175.0,
           "source_rate_unit": "kWh",
           "term_months": 12,
           "early_termination_fee": "100",
@@ -210,11 +210,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "08/04/2026 06:44:08 AM",
+          "created_date": "09/08/2026 03:38:10 PM",
           "updated_date": null
         },
         {
-          "offer_id": "427289.0",
+          "offer_id": "428541.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
           "rate": 202.0,
@@ -238,7 +238,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "08/04/2026 06:43:53 AM",
+          "created_date": "09/08/2026 03:37:59 PM",
           "updated_date": null
         },
         {
@@ -804,7 +804,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 28,
-      "last_fetched": "2026-09-08T16:06:22.873804Z",
+      "last_fetched": "2026-09-08T20:47:21.973304Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1016,13 +1016,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427290.0",
+          "offer_id": "428542.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
-          "rate": 179.0,
+          "rate": 175.0,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "source_rate": 179.0,
+          "source_rate": 175.0,
           "source_rate_unit": "kWh",
           "term_months": 12,
           "early_termination_fee": "100",
@@ -1040,11 +1040,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "08/04/2026 06:44:08 AM",
+          "created_date": "09/08/2026 03:38:10 PM",
           "updated_date": null
         },
         {
-          "offer_id": "427289.0",
+          "offer_id": "428541.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
           "rate": 202.0,
@@ -1068,7 +1068,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "08/04/2026 06:43:53 AM",
+          "created_date": "09/08/2026 03:37:59 PM",
           "updated_date": null
         },
         {
@@ -1690,7 +1690,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-09-08T16:06:22.874870Z",
+      "last_fetched": "2026-09-08T20:47:21.974384Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1930,13 +1930,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427290.0",
+          "offer_id": "428542.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
-          "rate": 179.0,
+          "rate": 175.0,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "source_rate": 179.0,
+          "source_rate": 175.0,
           "source_rate_unit": "kWh",
           "term_months": 12,
           "early_termination_fee": "100",
@@ -1954,11 +1954,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "08/04/2026 06:44:08 AM",
+          "created_date": "09/08/2026 03:38:10 PM",
           "updated_date": null
         },
         {
-          "offer_id": "427289.0",
+          "offer_id": "428541.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
           "rate": 202.0,
@@ -1982,7 +1982,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "08/04/2026 06:43:53 AM",
+          "created_date": "09/08/2026 03:37:59 PM",
           "updated_date": null
         },
         {
@@ -2604,7 +2604,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-09-08T16:06:22.875921Z",
+      "last_fetched": "2026-09-08T20:47:21.975456Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2620,7 +2620,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "427688.0",
+          "offer_id": "428535.0",
           "product_name": null,
           "name": "Brown's Energy Services, LLC",
           "rate": 2.0,
@@ -2644,7 +2644,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "08/12/2026 09:32:32 AM",
+          "created_date": "09/08/2026 02:02:24 PM",
           "updated_date": null
         },
         {
@@ -3378,7 +3378,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 27,
-      "last_fetched": "2026-09-08T16:06:22.878177Z",
+      "last_fetched": "2026-09-08T20:47:21.977732Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -3422,7 +3422,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427688.0",
+          "offer_id": "428535.0",
           "product_name": null,
           "name": "Brown's Energy Services, LLC",
           "rate": 2.0,
@@ -3446,7 +3446,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "08/12/2026 09:32:32 AM",
+          "created_date": "09/08/2026 02:02:24 PM",
           "updated_date": null
         },
         {
@@ -3618,13 +3618,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427296.0",
+          "offer_id": "428547.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
-          "rate": 195.0,
+          "rate": 194.0,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "source_rate": 195.0,
+          "source_rate": 194.0,
           "source_rate_unit": "kWh",
           "term_months": 12,
           "early_termination_fee": "100",
@@ -3642,7 +3642,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in Zone H",
-          "created_date": "08/04/2026 06:45:15 AM",
+          "created_date": "09/08/2026 03:39:01 PM",
           "updated_date": null
         },
         {
@@ -3702,7 +3702,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427292.0",
+          "offer_id": "428544.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
           "rate": 214.0,
@@ -3726,7 +3726,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in Zone H",
-          "created_date": "08/04/2026 06:44:27 AM",
+          "created_date": "09/08/2026 03:38:30 PM",
           "updated_date": null
         },
         {
@@ -4626,7 +4626,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427506.0",
+          "offer_id": "428580.0",
           "product_name": null,
           "name": "Power Up Energy, LLC",
           "rate": 39999.0,
@@ -4650,7 +4650,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in Zone H",
-          "created_date": "08/05/2026 05:29:46 PM",
+          "created_date": "09/08/2026 04:36:14 PM",
           "updated_date": null
         },
         {
@@ -4796,7 +4796,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 50,
-      "last_fetched": "2026-09-08T16:06:22.879802Z",
+      "last_fetched": "2026-09-08T20:47:21.979392Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -4840,7 +4840,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427688.0",
+          "offer_id": "428535.0",
           "product_name": null,
           "name": "Brown's Energy Services, LLC",
           "rate": 2.0,
@@ -4864,7 +4864,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "08/12/2026 09:32:32 AM",
+          "created_date": "09/08/2026 02:02:24 PM",
           "updated_date": null
         },
         {
@@ -5008,13 +5008,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427294.0",
+          "offer_id": "428546.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
-          "rate": 195.0,
+          "rate": 194.0,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "source_rate": 195.0,
+          "source_rate": 194.0,
           "source_rate_unit": "kWh",
           "term_months": 12,
           "early_termination_fee": "100",
@@ -5032,7 +5032,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in Zone I",
-          "created_date": "08/04/2026 06:44:52 AM",
+          "created_date": "09/08/2026 03:38:50 PM",
           "updated_date": null
         },
         {
@@ -5092,7 +5092,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427291.0",
+          "offer_id": "428543.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
           "rate": 214.0,
@@ -5116,7 +5116,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in Zone I",
-          "created_date": "08/04/2026 06:44:22 AM",
+          "created_date": "09/08/2026 03:38:23 PM",
           "updated_date": null
         },
         {
@@ -6016,7 +6016,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427505.0",
+          "offer_id": "428579.0",
           "product_name": null,
           "name": "Power Up Energy, LLC",
           "rate": 39999.0,
@@ -6040,7 +6040,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in Zone I",
-          "created_date": "08/05/2026 05:29:43 PM",
+          "created_date": "09/08/2026 04:36:04 PM",
           "updated_date": null
         },
         {
@@ -6186,7 +6186,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 49,
-      "last_fetched": "2026-09-08T16:06:22.881383Z",
+      "last_fetched": "2026-09-08T20:47:21.981048Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -6258,7 +6258,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427688.0",
+          "offer_id": "428535.0",
           "product_name": null,
           "name": "Brown's Energy Services, LLC",
           "rate": 2.0,
@@ -6282,7 +6282,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "08/12/2026 09:32:32 AM",
+          "created_date": "09/08/2026 02:02:24 PM",
           "updated_date": null
         },
         {
@@ -6482,13 +6482,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427295.0",
+          "offer_id": "428548.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
-          "rate": 218.0,
+          "rate": 215.0,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "source_rate": 218.0,
+          "source_rate": 215.0,
           "source_rate_unit": "kWh",
           "term_months": 12,
           "early_termination_fee": "100",
@@ -6506,7 +6506,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in Zone J",
-          "created_date": "08/04/2026 06:45:05 AM",
+          "created_date": "09/08/2026 03:39:14 PM",
           "updated_date": null
         },
         {
@@ -6538,7 +6538,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427293.0",
+          "offer_id": "428545.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
           "rate": 256.0,
@@ -6562,7 +6562,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in Zone J",
-          "created_date": "08/04/2026 06:44:32 AM",
+          "created_date": "09/08/2026 03:38:36 PM",
           "updated_date": null
         },
         {
@@ -7490,7 +7490,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427507.0",
+          "offer_id": "428581.0",
           "product_name": null,
           "name": "Power Up Energy, LLC",
           "rate": 39999.0,
@@ -7514,7 +7514,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in Zone J",
-          "created_date": "08/05/2026 05:29:50 PM",
+          "created_date": "09/08/2026 04:39:09 PM",
           "updated_date": null
         },
         {
@@ -7660,7 +7660,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 52,
-      "last_fetched": "2026-09-08T16:06:22.883083Z",
+      "last_fetched": "2026-09-08T20:47:21.982783Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -7706,7 +7706,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 1,
-      "last_fetched": "2026-09-08T16:06:22.884059Z",
+      "last_fetched": "2026-09-08T20:47:21.983796Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -8312,7 +8312,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 21,
-      "last_fetched": "2026-09-08T16:06:22.886149Z",
+      "last_fetched": "2026-09-08T20:47:21.986027Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -8381,34 +8381,6 @@
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
           "created_date": "09/01/2026 10:31:12 AM",
-          "updated_date": null
-        },
-        {
-          "offer_id": "427310.0",
-          "product_name": null,
-          "name": "Northeastern Power and Gas, LLC",
-          "rate": 17.0,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "source_rate": 17.0,
-          "source_rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "100",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "http://www.nepower.com",
-          "signup_url": "http://www.nepower.com",
-          "phone": null,
-          "renewable": "Yes",
-          "renewable_percentage": 0.5,
-          "energy_source": "Hydroelectric,Solar,Wind",
-          "guaranteed_savings": "No",
-          "value_added": "No",
-          "bundle_required": false,
-          "service_area": null,
-          "source_load_zone": "NYSEG in Zone A",
-          "created_date": "08/04/2026 06:49:45 AM",
           "updated_date": null
         },
         {
@@ -8552,6 +8524,34 @@
           "updated_date": null
         },
         {
+          "offer_id": "428561.0",
+          "product_name": null,
+          "name": "Northeastern Power and Gas, LLC",
+          "rate": 168.0,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "source_rate": 168.0,
+          "source_rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "100",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "http://www.nepower.com",
+          "signup_url": "http://www.nepower.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 0.5,
+          "energy_source": "Hydroelectric,Solar,Wind",
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "NYSEG in Zone A",
+          "created_date": "09/08/2026 03:42:20 PM",
+          "updated_date": null
+        },
+        {
           "offer_id": "428017.0",
           "product_name": null,
           "name": "Median Energy Corp.",
@@ -8580,7 +8580,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427319.0",
+          "offer_id": "428570.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
           "rate": 193.0,
@@ -8604,7 +8604,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone A",
-          "created_date": "08/04/2026 06:51:23 AM",
+          "created_date": "09/08/2026 03:44:13 PM",
           "updated_date": null
         },
         {
@@ -9366,7 +9366,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 37,
-      "last_fetched": "2026-09-08T16:06:22.887414Z",
+      "last_fetched": "2026-09-08T20:47:21.987337Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -9407,34 +9407,6 @@
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
           "created_date": "09/01/2026 10:31:12 AM",
-          "updated_date": null
-        },
-        {
-          "offer_id": "427311.0",
-          "product_name": null,
-          "name": "Northeastern Power and Gas, LLC",
-          "rate": 17.0,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "source_rate": 17.0,
-          "source_rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "100",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "http://www.nepower.com",
-          "signup_url": "http://www.nepower.com",
-          "phone": null,
-          "renewable": "Yes",
-          "renewable_percentage": 0.5,
-          "energy_source": "Hydroelectric,Solar,Wind",
-          "guaranteed_savings": "No",
-          "value_added": "No",
-          "bundle_required": false,
-          "service_area": null,
-          "source_load_zone": "NYSEG in Zone B",
-          "created_date": "08/04/2026 06:49:55 AM",
           "updated_date": null
         },
         {
@@ -9550,6 +9522,34 @@
           "updated_date": null
         },
         {
+          "offer_id": "428562.0",
+          "product_name": null,
+          "name": "Northeastern Power and Gas, LLC",
+          "rate": 168.0,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "source_rate": 168.0,
+          "source_rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "100",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "http://www.nepower.com",
+          "signup_url": "http://www.nepower.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 0.5,
+          "energy_source": "Hydroelectric,Solar,Wind",
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "NYSEG in Zone B",
+          "created_date": "09/08/2026 03:42:34 PM",
+          "updated_date": null
+        },
+        {
           "offer_id": "428017.0",
           "product_name": null,
           "name": "Median Energy Corp.",
@@ -9578,7 +9578,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427320.0",
+          "offer_id": "428571.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
           "rate": 193.0,
@@ -9602,7 +9602,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone B",
-          "created_date": "08/04/2026 06:51:30 AM",
+          "created_date": "09/08/2026 03:44:18 PM",
           "updated_date": null
         },
         {
@@ -10084,7 +10084,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 25,
-      "last_fetched": "2026-09-08T16:06:22.888334Z",
+      "last_fetched": "2026-09-08T20:47:21.988298Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -10153,34 +10153,6 @@
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
           "created_date": "09/01/2026 10:31:12 AM",
-          "updated_date": null
-        },
-        {
-          "offer_id": "427312.0",
-          "product_name": null,
-          "name": "Northeastern Power and Gas, LLC",
-          "rate": 17.0,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "source_rate": 17.0,
-          "source_rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "100",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "http://www.nepower.com",
-          "signup_url": "http://www.nepower.com",
-          "phone": null,
-          "renewable": "Yes",
-          "renewable_percentage": 0.5,
-          "energy_source": "Hydroelectric,Solar,Wind",
-          "guaranteed_savings": "No",
-          "value_added": "No",
-          "bundle_required": false,
-          "service_area": null,
-          "source_load_zone": "NYSEG in Zone C",
-          "created_date": "08/04/2026 06:50:06 AM",
           "updated_date": null
         },
         {
@@ -10324,6 +10296,34 @@
           "updated_date": null
         },
         {
+          "offer_id": "428563.0",
+          "product_name": null,
+          "name": "Northeastern Power and Gas, LLC",
+          "rate": 168.0,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "source_rate": 168.0,
+          "source_rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "100",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "http://www.nepower.com",
+          "signup_url": "http://www.nepower.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 0.5,
+          "energy_source": "Hydroelectric,Solar,Wind",
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "NYSEG in Zone C",
+          "created_date": "09/08/2026 03:42:46 PM",
+          "updated_date": null
+        },
+        {
           "offer_id": "428017.0",
           "product_name": null,
           "name": "Median Energy Corp.",
@@ -10352,7 +10352,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427321.0",
+          "offer_id": "428572.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
           "rate": 193.0,
@@ -10376,7 +10376,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone C",
-          "created_date": "08/04/2026 06:51:36 AM",
+          "created_date": "09/08/2026 03:44:24 PM",
           "updated_date": null
         },
         {
@@ -11026,7 +11026,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 33,
-      "last_fetched": "2026-09-08T16:06:22.889471Z",
+      "last_fetched": "2026-09-08T20:47:21.989469Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -11095,34 +11095,6 @@
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
           "created_date": "09/01/2026 10:31:12 AM",
-          "updated_date": null
-        },
-        {
-          "offer_id": "427313.0",
-          "product_name": null,
-          "name": "Northeastern Power and Gas, LLC",
-          "rate": 17.0,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "source_rate": 17.0,
-          "source_rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "100",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "http://www.nepower.com",
-          "signup_url": "http://www.nepower.com",
-          "phone": null,
-          "renewable": "Yes",
-          "renewable_percentage": 0.5,
-          "energy_source": "Hydroelectric,Solar,Wind",
-          "guaranteed_savings": "No",
-          "value_added": "No",
-          "bundle_required": false,
-          "service_area": null,
-          "source_load_zone": "NYSEG in Zone D",
-          "created_date": "08/04/2026 06:50:17 AM",
           "updated_date": null
         },
         {
@@ -11266,6 +11238,34 @@
           "updated_date": null
         },
         {
+          "offer_id": "428564.0",
+          "product_name": null,
+          "name": "Northeastern Power and Gas, LLC",
+          "rate": 168.0,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "source_rate": 168.0,
+          "source_rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "100",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "http://www.nepower.com",
+          "signup_url": "http://www.nepower.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 0.5,
+          "energy_source": "Hydroelectric,Solar,Wind",
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "NYSEG in Zone D",
+          "created_date": "09/08/2026 03:42:59 PM",
+          "updated_date": null
+        },
+        {
           "offer_id": "428017.0",
           "product_name": null,
           "name": "Median Energy Corp.",
@@ -11294,7 +11294,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427322.0",
+          "offer_id": "428573.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
           "rate": 193.0,
@@ -11318,7 +11318,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone D",
-          "created_date": "08/04/2026 06:51:42 AM",
+          "created_date": "09/08/2026 03:44:32 PM",
           "updated_date": null
         },
         {
@@ -11828,7 +11828,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 28,
-      "last_fetched": "2026-09-08T16:06:22.890471Z",
+      "last_fetched": "2026-09-08T20:47:21.990510Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -11925,34 +11925,6 @@
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
           "created_date": "09/01/2026 10:31:12 AM",
-          "updated_date": null
-        },
-        {
-          "offer_id": "427314.0",
-          "product_name": null,
-          "name": "Northeastern Power and Gas, LLC",
-          "rate": 17.0,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "source_rate": 17.0,
-          "source_rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "100",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "http://www.nepower.com",
-          "signup_url": "http://www.nepower.com",
-          "phone": null,
-          "renewable": "Yes",
-          "renewable_percentage": 0.5,
-          "energy_source": "Hydroelectric,Solar,Wind",
-          "guaranteed_savings": "No",
-          "value_added": "No",
-          "bundle_required": false,
-          "service_area": null,
-          "source_load_zone": "NYSEG in Zone E",
-          "created_date": "08/04/2026 06:50:27 AM",
           "updated_date": null
         },
         {
@@ -12096,6 +12068,34 @@
           "updated_date": null
         },
         {
+          "offer_id": "428565.0",
+          "product_name": null,
+          "name": "Northeastern Power and Gas, LLC",
+          "rate": 168.0,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "source_rate": 168.0,
+          "source_rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "100",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "http://www.nepower.com",
+          "signup_url": "http://www.nepower.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 0.5,
+          "energy_source": "Hydroelectric,Solar,Wind",
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "NYSEG in Zone E",
+          "created_date": "09/08/2026 03:43:10 PM",
+          "updated_date": null
+        },
+        {
           "offer_id": "428017.0",
           "product_name": null,
           "name": "Median Energy Corp.",
@@ -12124,7 +12124,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427323.0",
+          "offer_id": "428574.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
           "rate": 193.0,
@@ -12148,7 +12148,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone E",
-          "created_date": "08/04/2026 06:51:47 AM",
+          "created_date": "09/08/2026 03:44:39 PM",
           "updated_date": null
         },
         {
@@ -12714,7 +12714,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-09-08T16:06:22.891567Z",
+      "last_fetched": "2026-09-08T20:47:21.991646Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -12926,13 +12926,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427315.0",
+          "offer_id": "428566.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
-          "rate": 182.0,
+          "rate": 181.0,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "source_rate": 182.0,
+          "source_rate": 181.0,
           "source_rate_unit": "kWh",
           "term_months": 12,
           "early_termination_fee": "100",
@@ -12950,7 +12950,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone F",
-          "created_date": "08/04/2026 06:50:41 AM",
+          "created_date": "09/08/2026 03:43:26 PM",
           "updated_date": null
         },
         {
@@ -12982,7 +12982,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427325.0",
+          "offer_id": "428575.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
           "rate": 209.0,
@@ -13006,7 +13006,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone F",
-          "created_date": "08/04/2026 06:51:58 AM",
+          "created_date": "09/08/2026 03:44:52 PM",
           "updated_date": null
         },
         {
@@ -13740,7 +13740,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-09-08T16:06:22.892786Z",
+      "last_fetched": "2026-09-08T20:47:21.992923Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -13980,13 +13980,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427316.0",
+          "offer_id": "428567.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
-          "rate": 194.0,
+          "rate": 193.0,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "source_rate": 194.0,
+          "source_rate": 193.0,
           "source_rate_unit": "kWh",
           "term_months": 12,
           "early_termination_fee": "100",
@@ -14004,11 +14004,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone G",
-          "created_date": "08/04/2026 06:50:51 AM",
+          "created_date": "09/08/2026 03:43:40 PM",
           "updated_date": null
         },
         {
-          "offer_id": "427327.0",
+          "offer_id": "428576.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
           "rate": 214.0,
@@ -14032,7 +14032,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone G",
-          "created_date": "08/04/2026 06:52:17 AM",
+          "created_date": "09/08/2026 03:45:03 PM",
           "updated_date": null
         },
         {
@@ -14654,7 +14654,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-09-08T16:06:22.893915Z",
+      "last_fetched": "2026-09-08T20:47:21.994105Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -14922,13 +14922,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427317.0",
+          "offer_id": "428568.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
-          "rate": 194.0,
+          "rate": 193.0,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "source_rate": 194.0,
+          "source_rate": 193.0,
           "source_rate_unit": "kWh",
           "term_months": 12,
           "early_termination_fee": "100",
@@ -14946,11 +14946,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone H",
-          "created_date": "08/04/2026 06:51:01 AM",
+          "created_date": "09/08/2026 03:43:48 PM",
           "updated_date": null
         },
         {
-          "offer_id": "427324.0",
+          "offer_id": "428577.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
           "rate": 214.0,
@@ -14974,7 +14974,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone H",
-          "created_date": "08/04/2026 06:51:53 AM",
+          "created_date": "09/08/2026 03:45:15 PM",
           "updated_date": null
         },
         {
@@ -15484,7 +15484,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 29,
-      "last_fetched": "2026-09-08T16:06:22.894956Z",
+      "last_fetched": "2026-09-08T20:47:21.995183Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -15668,13 +15668,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427318.0",
+          "offer_id": "428569.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
-          "rate": 194.0,
+          "rate": 193.0,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "source_rate": 194.0,
+          "source_rate": 193.0,
           "source_rate_unit": "kWh",
           "term_months": 12,
           "early_termination_fee": "100",
@@ -15692,11 +15692,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone I",
-          "created_date": "08/04/2026 06:51:10 AM",
+          "created_date": "09/08/2026 03:44:00 PM",
           "updated_date": null
         },
         {
-          "offer_id": "427326.0",
+          "offer_id": "428578.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
           "rate": 214.0,
@@ -15720,7 +15720,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone I",
-          "created_date": "08/04/2026 06:52:12 AM",
+          "created_date": "09/08/2026 03:45:33 PM",
           "updated_date": null
         },
         {
@@ -16174,7 +16174,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 24,
-      "last_fetched": "2026-09-08T16:06:22.895860Z",
+      "last_fetched": "2026-09-08T20:47:21.996112Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -16752,7 +16752,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 20,
-      "last_fetched": "2026-09-08T16:06:22.897949Z",
+      "last_fetched": "2026-09-08T20:47:21.998525Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -17048,13 +17048,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427299.0",
+          "offer_id": "428549.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
-          "rate": 176.0,
+          "rate": 173.0,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "source_rate": 176.0,
+          "source_rate": 173.0,
           "source_rate_unit": "kWh",
           "term_months": 12,
           "early_termination_fee": "100",
@@ -17072,11 +17072,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in Zone A",
-          "created_date": "08/04/2026 06:46:16 AM",
+          "created_date": "09/08/2026 03:39:48 PM",
           "updated_date": null
         },
         {
-          "offer_id": "427304.0",
+          "offer_id": "428555.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
           "rate": 195.0,
@@ -17100,7 +17100,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in Zone A",
-          "created_date": "08/04/2026 06:47:19 AM",
+          "created_date": "09/08/2026 03:41:11 PM",
           "updated_date": null
         },
         {
@@ -17750,7 +17750,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-09-08T16:06:22.899169Z",
+      "last_fetched": "2026-09-08T20:47:21.999813Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -17962,13 +17962,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427300.0",
+          "offer_id": "428550.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
-          "rate": 176.0,
+          "rate": 173.0,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "source_rate": 176.0,
+          "source_rate": 173.0,
           "source_rate_unit": "kWh",
           "term_months": 12,
           "early_termination_fee": "100",
@@ -17986,11 +17986,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in Zone B",
-          "created_date": "08/04/2026 06:46:28 AM",
+          "created_date": "09/08/2026 03:40:01 PM",
           "updated_date": null
         },
         {
-          "offer_id": "427305.0",
+          "offer_id": "428556.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
           "rate": 195.0,
@@ -18014,7 +18014,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in Zone B",
-          "created_date": "08/04/2026 06:48:41 AM",
+          "created_date": "09/08/2026 03:41:17 PM",
           "updated_date": null
         },
         {
@@ -18636,7 +18636,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-09-08T16:06:22.900284Z",
+      "last_fetched": "2026-09-08T20:47:22.001005Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -18876,13 +18876,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427301.0",
+          "offer_id": "428551.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
-          "rate": 176.0,
+          "rate": 173.0,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "source_rate": 176.0,
+          "source_rate": 173.0,
           "source_rate_unit": "kWh",
           "term_months": 12,
           "early_termination_fee": "100",
@@ -18900,11 +18900,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in Zone C",
-          "created_date": "08/04/2026 06:46:37 AM",
+          "created_date": "09/08/2026 03:40:14 PM",
           "updated_date": null
         },
         {
-          "offer_id": "427306.0",
+          "offer_id": "428557.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
           "rate": 195.0,
@@ -18928,7 +18928,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in Zone C",
-          "created_date": "08/04/2026 06:48:48 AM",
+          "created_date": "09/08/2026 03:41:26 PM",
           "updated_date": null
         },
         {
@@ -19662,7 +19662,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-09-08T16:06:22.901530Z",
+      "last_fetched": "2026-09-08T20:47:22.002287Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -19874,13 +19874,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427302.0",
+          "offer_id": "428552.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
-          "rate": 176.0,
+          "rate": 173.0,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "source_rate": 176.0,
+          "source_rate": 173.0,
           "source_rate_unit": "kWh",
           "term_months": 12,
           "early_termination_fee": "100",
@@ -19898,11 +19898,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in Zone D",
-          "created_date": "08/04/2026 06:46:47 AM",
+          "created_date": "09/08/2026 03:40:28 PM",
           "updated_date": null
         },
         {
-          "offer_id": "427307.0",
+          "offer_id": "428558.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
           "rate": 195.0,
@@ -19926,7 +19926,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in Zone D",
-          "created_date": "08/04/2026 06:48:55 AM",
+          "created_date": "09/08/2026 03:41:34 PM",
           "updated_date": null
         },
         {
@@ -20548,7 +20548,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-09-08T16:06:22.902645Z",
+      "last_fetched": "2026-09-08T20:47:22.003446Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -20788,13 +20788,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427303.0",
+          "offer_id": "428553.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
-          "rate": 176.0,
+          "rate": 173.0,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "source_rate": 176.0,
+          "source_rate": 173.0,
           "source_rate_unit": "kWh",
           "term_months": 12,
           "early_termination_fee": "100",
@@ -20812,11 +20812,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in Zone E",
-          "created_date": "08/04/2026 06:46:57 AM",
+          "created_date": "09/08/2026 03:40:38 PM",
           "updated_date": null
         },
         {
-          "offer_id": "427308.0",
+          "offer_id": "428559.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
           "rate": 195.0,
@@ -20840,7 +20840,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in Zone E",
-          "created_date": "08/04/2026 06:49:02 AM",
+          "created_date": "09/08/2026 03:41:42 PM",
           "updated_date": null
         },
         {
@@ -21462,7 +21462,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-09-08T16:06:22.903783Z",
+      "last_fetched": "2026-09-08T20:47:22.004621Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -21674,13 +21674,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427298.0",
+          "offer_id": "428554.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
-          "rate": 188.0,
+          "rate": 187.0,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "source_rate": 188.0,
+          "source_rate": 187.0,
           "source_rate_unit": "kWh",
           "term_months": 12,
           "early_termination_fee": "100",
@@ -21698,11 +21698,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in Zone F",
-          "created_date": "08/04/2026 06:46:03 AM",
+          "created_date": "09/08/2026 03:40:50 PM",
           "updated_date": null
         },
         {
-          "offer_id": "427309.0",
+          "offer_id": "428560.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
           "rate": 211.0,
@@ -21726,7 +21726,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in Zone F",
-          "created_date": "08/04/2026 06:49:11 AM",
+          "created_date": "09/08/2026 03:41:48 PM",
           "updated_date": null
         },
         {
@@ -22488,7 +22488,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-09-08T16:06:22.904998Z",
+      "last_fetched": "2026-09-08T20:47:22.005883Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -22529,34 +22529,6 @@
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
           "created_date": "09/01/2026 10:31:09 AM",
-          "updated_date": null
-        },
-        {
-          "offer_id": "427286.0",
-          "product_name": null,
-          "name": "Northeastern Power and Gas, LLC",
-          "rate": 18.0,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "source_rate": 18.0,
-          "source_rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "100",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "http://www.nepower.com",
-          "signup_url": "http://www.nepower.com",
-          "phone": null,
-          "renewable": "Yes",
-          "renewable_percentage": 0.5,
-          "energy_source": "Hydroelectric,Solar,Wind",
-          "guaranteed_savings": "No",
-          "value_added": "No",
-          "bundle_required": false,
-          "service_area": null,
-          "source_load_zone": "ORU in All Zones",
-          "created_date": "08/04/2026 06:43:13 AM",
           "updated_date": null
         },
         {
@@ -22644,6 +22616,34 @@
           "updated_date": null
         },
         {
+          "offer_id": "428538.0",
+          "product_name": null,
+          "name": "Northeastern Power and Gas, LLC",
+          "rate": 176.0,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "source_rate": 176.0,
+          "source_rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "100",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "http://www.nepower.com",
+          "signup_url": "http://www.nepower.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 0.5,
+          "energy_source": "Hydroelectric,Solar,Wind",
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "ORU in All Zones",
+          "created_date": "09/08/2026 03:37:27 PM",
+          "updated_date": null
+        },
+        {
           "offer_id": "428278.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
@@ -22700,7 +22700,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427285.0",
+          "offer_id": "428537.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
           "rate": 205.0,
@@ -22724,7 +22724,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "08/04/2026 06:42:58 AM",
+          "created_date": "09/08/2026 03:37:13 PM",
           "updated_date": null
         },
         {
@@ -23486,7 +23486,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-09-08T16:06:22.907041Z",
+      "last_fetched": "2026-09-08T20:47:22.008041Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -23527,34 +23527,6 @@
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
           "created_date": "09/01/2026 10:31:09 AM",
-          "updated_date": null
-        },
-        {
-          "offer_id": "427286.0",
-          "product_name": null,
-          "name": "Northeastern Power and Gas, LLC",
-          "rate": 18.0,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "source_rate": 18.0,
-          "source_rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "100",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "http://www.nepower.com",
-          "signup_url": "http://www.nepower.com",
-          "phone": null,
-          "renewable": "Yes",
-          "renewable_percentage": 0.5,
-          "energy_source": "Hydroelectric,Solar,Wind",
-          "guaranteed_savings": "No",
-          "value_added": "No",
-          "bundle_required": false,
-          "service_area": null,
-          "source_load_zone": "ORU in All Zones",
-          "created_date": "08/04/2026 06:43:13 AM",
           "updated_date": null
         },
         {
@@ -23670,6 +23642,34 @@
           "updated_date": null
         },
         {
+          "offer_id": "428538.0",
+          "product_name": null,
+          "name": "Northeastern Power and Gas, LLC",
+          "rate": 176.0,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "source_rate": 176.0,
+          "source_rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "100",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "http://www.nepower.com",
+          "signup_url": "http://www.nepower.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 0.5,
+          "energy_source": "Hydroelectric,Solar,Wind",
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "ORU in All Zones",
+          "created_date": "09/08/2026 03:37:27 PM",
+          "updated_date": null
+        },
+        {
           "offer_id": "428278.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
@@ -23726,7 +23726,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427285.0",
+          "offer_id": "428537.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
           "rate": 205.0,
@@ -23750,7 +23750,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "08/04/2026 06:42:58 AM",
+          "created_date": "09/08/2026 03:37:13 PM",
           "updated_date": null
         },
         {
@@ -24512,7 +24512,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-09-08T16:06:22.908134Z",
+      "last_fetched": "2026-09-08T20:47:22.009160Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -24581,34 +24581,6 @@
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
           "created_date": "09/01/2026 10:31:09 AM",
-          "updated_date": null
-        },
-        {
-          "offer_id": "427286.0",
-          "product_name": null,
-          "name": "Northeastern Power and Gas, LLC",
-          "rate": 18.0,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "source_rate": 18.0,
-          "source_rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "100",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "http://www.nepower.com",
-          "signup_url": "http://www.nepower.com",
-          "phone": null,
-          "renewable": "Yes",
-          "renewable_percentage": 0.5,
-          "energy_source": "Hydroelectric,Solar,Wind",
-          "guaranteed_savings": "No",
-          "value_added": "No",
-          "bundle_required": false,
-          "service_area": null,
-          "source_load_zone": "ORU in All Zones",
-          "created_date": "08/04/2026 06:43:13 AM",
           "updated_date": null
         },
         {
@@ -24696,6 +24668,34 @@
           "updated_date": null
         },
         {
+          "offer_id": "428538.0",
+          "product_name": null,
+          "name": "Northeastern Power and Gas, LLC",
+          "rate": 176.0,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "source_rate": 176.0,
+          "source_rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "100",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "http://www.nepower.com",
+          "signup_url": "http://www.nepower.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 0.5,
+          "energy_source": "Hydroelectric,Solar,Wind",
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "ORU in All Zones",
+          "created_date": "09/08/2026 03:37:27 PM",
+          "updated_date": null
+        },
+        {
           "offer_id": "428221.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
@@ -24780,7 +24780,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427285.0",
+          "offer_id": "428537.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
           "rate": 205.0,
@@ -24804,7 +24804,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "08/04/2026 06:42:58 AM",
+          "created_date": "09/08/2026 03:37:13 PM",
           "updated_date": null
         },
         {
@@ -25594,7 +25594,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 38,
-      "last_fetched": "2026-09-08T16:06:22.909277Z",
+      "last_fetched": "2026-09-08T20:47:22.010439Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -25778,13 +25778,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427288.0",
+          "offer_id": "428540.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
-          "rate": 159.0,
+          "rate": 156.0,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "source_rate": 159.0,
+          "source_rate": 156.0,
           "source_rate_unit": "kWh",
           "term_months": 12,
           "early_termination_fee": "100",
@@ -25802,7 +25802,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in All Zones",
-          "created_date": "08/04/2026 06:43:37 AM",
+          "created_date": "09/08/2026 03:37:47 PM",
           "updated_date": null
         },
         {
@@ -25834,7 +25834,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427287.0",
+          "offer_id": "428539.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
           "rate": 186.0,
@@ -25858,7 +25858,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in All Zones",
-          "created_date": "08/04/2026 06:43:27 AM",
+          "created_date": "09/08/2026 03:37:37 PM",
           "updated_date": null
         },
         {
@@ -26508,7 +26508,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-09-08T16:06:22.911259Z",
+      "last_fetched": "2026-09-08T20:47:22.012535Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -26748,13 +26748,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "427288.0",
+          "offer_id": "428540.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
-          "rate": 159.0,
+          "rate": 156.0,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "source_rate": 159.0,
+          "source_rate": 156.0,
           "source_rate_unit": "kWh",
           "term_months": 12,
           "early_termination_fee": "100",
@@ -26772,7 +26772,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in All Zones",
-          "created_date": "08/04/2026 06:43:37 AM",
+          "created_date": "09/08/2026 03:37:47 PM",
           "updated_date": null
         },
         {
@@ -26804,7 +26804,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "427287.0",
+          "offer_id": "428539.0",
           "product_name": null,
           "name": "Northeastern Power and Gas, LLC",
           "rate": 186.0,
@@ -26828,7 +26828,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in All Zones",
-          "created_date": "08/04/2026 06:43:27 AM",
+          "created_date": "09/08/2026 03:37:37 PM",
           "updated_date": null
         },
         {
@@ -27506,7 +27506,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-09-08T16:06:22.912316Z",
+      "last_fetched": "2026-09-08T20:47:22.013651Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     }

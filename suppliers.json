@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T16:06:22.943470Z",
+  "last_updated": "2026-09-08T20:47:22.046088Z",
   "customer_class": "residential",
   "source": "New York State Department of Public Service Power to Choose",
   "source_url": "https://documents.dps.ny.gov/PTC/home",
@@ -244,7 +244,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 8,
-      "last_fetched": "2026-09-08T16:06:22.938474Z",
+      "last_fetched": "2026-09-08T20:47:22.041000Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -260,7 +260,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "427689.0",
+          "offer_id": "428536.0",
           "product_name": null,
           "name": "Brown's Fuel Service, LLC",
           "rate": 1.0,
@@ -284,7 +284,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Gas Zones",
-          "created_date": "08/12/2026 09:32:49 AM",
+          "created_date": "09/08/2026 02:03:29 PM",
           "updated_date": null
         },
         {
@@ -514,7 +514,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 9,
-      "last_fetched": "2026-09-08T16:06:22.938959Z",
+      "last_fetched": "2026-09-08T20:47:22.041496Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -530,7 +530,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "427689.0",
+          "offer_id": "428536.0",
           "product_name": null,
           "name": "Brown's Fuel Service, LLC",
           "rate": 1.0,
@@ -554,7 +554,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Gas Zones",
-          "created_date": "08/12/2026 09:32:49 AM",
+          "created_date": "09/08/2026 02:03:29 PM",
           "updated_date": null
         },
         {
@@ -784,7 +784,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 9,
-      "last_fetched": "2026-09-08T16:06:22.939264Z",
+      "last_fetched": "2026-09-08T20:47:22.041805Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -800,7 +800,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "427689.0",
+          "offer_id": "428536.0",
           "product_name": null,
           "name": "Brown's Fuel Service, LLC",
           "rate": 1.0,
@@ -824,7 +824,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Gas Zones",
-          "created_date": "08/12/2026 09:32:49 AM",
+          "created_date": "09/08/2026 02:03:29 PM",
           "updated_date": null
         },
         {
@@ -1026,7 +1026,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 8,
-      "last_fetched": "2026-09-08T16:06:22.939567Z",
+      "last_fetched": "2026-09-08T20:47:22.042144Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1268,7 +1268,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 8,
-      "last_fetched": "2026-09-08T16:06:22.940042Z",
+      "last_fetched": "2026-09-08T20:47:22.042629Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1482,7 +1482,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-09-08T16:06:22.940539Z",
+      "last_fetched": "2026-09-08T20:47:22.043118Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1696,7 +1696,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-09-08T16:06:22.940815Z",
+      "last_fetched": "2026-09-08T20:47:22.043394Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1910,7 +1910,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-09-08T16:06:22.941082Z",
+      "last_fetched": "2026-09-08T20:47:22.043664Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2124,7 +2124,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-09-08T16:06:22.941348Z",
+      "last_fetched": "2026-09-08T20:47:22.043952Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2310,7 +2310,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 6,
-      "last_fetched": "2026-09-08T16:06:22.941598Z",
+      "last_fetched": "2026-09-08T20:47:22.044190Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2468,7 +2468,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 5,
-      "last_fetched": "2026-09-08T16:06:22.942024Z",
+      "last_fetched": "2026-09-08T20:47:22.044612Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2598,7 +2598,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 4,
-      "last_fetched": "2026-09-08T16:06:22.942201Z",
+      "last_fetched": "2026-09-08T20:47:22.044793Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2812,7 +2812,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-09-08T16:06:22.942523Z",
+      "last_fetched": "2026-09-08T20:47:22.045097Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -3054,7 +3054,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 8,
-      "last_fetched": "2026-09-08T16:06:22.942999Z",
+      "last_fetched": "2026-09-08T20:47:22.045579Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -3296,7 +3296,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 8,
-      "last_fetched": "2026-09-08T16:06:22.943466Z",
+      "last_fetched": "2026-09-08T20:47:22.046081Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     }
