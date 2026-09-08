@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T00:01:16.409917Z",
+  "last_updated": "2026-09-08T16:06:22.943470Z",
   "customer_class": "residential",
   "source": "New York State Department of Public Service Power to Choose",
   "source_url": "https://documents.dps.ny.gov/PTC/home",
@@ -244,7 +244,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 8,
-      "last_fetched": "2026-09-08T00:01:16.406337Z",
+      "last_fetched": "2026-09-08T16:06:22.938474Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -400,6 +400,34 @@
           "updated_date": null
         },
         {
+          "offer_id": "428530.0",
+          "product_name": null,
+          "name": "South Bay Energy Corp.",
+          "rate": 88.0,
+          "rate_type": "Variable",
+          "rate_unit": "therm",
+          "source_rate": 88.0,
+          "source_rate_unit": "therm",
+          "term_months": 1,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "http://southbayenergy.com",
+          "signup_url": "http://southbayenergy.com",
+          "phone": null,
+          "renewable": "No",
+          "renewable_percentage": null,
+          "energy_source": null,
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "ConEd in All Gas Zones",
+          "created_date": "09/08/2026 09:37:40 AM",
+          "updated_date": null
+        },
+        {
           "offer_id": "428233.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
@@ -485,8 +513,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 8,
-      "last_fetched": "2026-09-08T00:01:16.406697Z",
+      "count": 9,
+      "last_fetched": "2026-09-08T16:06:22.938959Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -642,6 +670,34 @@
           "updated_date": null
         },
         {
+          "offer_id": "428530.0",
+          "product_name": null,
+          "name": "South Bay Energy Corp.",
+          "rate": 88.0,
+          "rate_type": "Variable",
+          "rate_unit": "therm",
+          "source_rate": 88.0,
+          "source_rate_unit": "therm",
+          "term_months": 1,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "http://southbayenergy.com",
+          "signup_url": "http://southbayenergy.com",
+          "phone": null,
+          "renewable": "No",
+          "renewable_percentage": null,
+          "energy_source": null,
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "ConEd in All Gas Zones",
+          "created_date": "09/08/2026 09:37:40 AM",
+          "updated_date": null
+        },
+        {
           "offer_id": "428233.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
@@ -727,8 +783,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 8,
-      "last_fetched": "2026-09-08T00:01:16.406904Z",
+      "count": 9,
+      "last_fetched": "2026-09-08T16:06:22.939264Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -884,6 +940,34 @@
           "updated_date": null
         },
         {
+          "offer_id": "428530.0",
+          "product_name": null,
+          "name": "South Bay Energy Corp.",
+          "rate": 88.0,
+          "rate_type": "Variable",
+          "rate_unit": "therm",
+          "source_rate": 88.0,
+          "source_rate_unit": "therm",
+          "term_months": 1,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "http://southbayenergy.com",
+          "signup_url": "http://southbayenergy.com",
+          "phone": null,
+          "renewable": "No",
+          "renewable_percentage": null,
+          "energy_source": null,
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "ConEd in All Gas Zones",
+          "created_date": "09/08/2026 09:37:40 AM",
+          "updated_date": null
+        },
+        {
           "offer_id": "428233.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
@@ -941,8 +1025,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 7,
-      "last_fetched": "2026-09-08T00:01:16.407086Z",
+      "count": 8,
+      "last_fetched": "2026-09-08T16:06:22.939567Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1184,7 +1268,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 8,
-      "last_fetched": "2026-09-08T00:01:16.407452Z",
+      "last_fetched": "2026-09-08T16:06:22.940042Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1398,7 +1482,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-09-08T00:01:16.407803Z",
+      "last_fetched": "2026-09-08T16:06:22.940539Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1612,7 +1696,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-09-08T00:01:16.408006Z",
+      "last_fetched": "2026-09-08T16:06:22.940815Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1826,7 +1910,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-09-08T00:01:16.408201Z",
+      "last_fetched": "2026-09-08T16:06:22.941082Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2040,7 +2124,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-09-08T00:01:16.408413Z",
+      "last_fetched": "2026-09-08T16:06:22.941348Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2226,7 +2310,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 6,
-      "last_fetched": "2026-09-08T00:01:16.408584Z",
+      "last_fetched": "2026-09-08T16:06:22.941598Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2384,7 +2468,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 5,
-      "last_fetched": "2026-09-08T00:01:16.408896Z",
+      "last_fetched": "2026-09-08T16:06:22.942024Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2514,7 +2598,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 4,
-      "last_fetched": "2026-09-08T00:01:16.409026Z",
+      "last_fetched": "2026-09-08T16:06:22.942201Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2728,7 +2812,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-09-08T00:01:16.409225Z",
+      "last_fetched": "2026-09-08T16:06:22.942523Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2970,7 +3054,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 8,
-      "last_fetched": "2026-09-08T00:01:16.409585Z",
+      "last_fetched": "2026-09-08T16:06:22.942999Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -3212,7 +3296,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 8,
-      "last_fetched": "2026-09-08T00:01:16.409914Z",
+      "last_fetched": "2026-09-08T16:06:22.943466Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     }
