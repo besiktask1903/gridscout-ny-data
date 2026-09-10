@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T15:55:23.876851Z",
+  "last_updated": "2026-09-10T18:58:34.901652Z",
   "customer_class": "residential",
   "source": "New York State Department of Public Service Power to Choose",
   "source_url": "https://documents.dps.ny.gov/PTC/home",
@@ -102,7 +102,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428011.0",
+          "offer_id": "428707.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 1.25242718,
@@ -126,7 +126,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "Central Hudson",
-          "created_date": "08/25/2026 03:18:23 PM",
+          "created_date": "09/10/2026 12:20:27 PM",
           "updated_date": null
         },
         {
@@ -244,7 +244,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 8,
-      "last_fetched": "2026-09-10T15:55:23.873185Z",
+      "last_fetched": "2026-09-10T18:58:34.898128Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -372,7 +372,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428010.0",
+          "offer_id": "428708.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 1.299,
@@ -396,7 +396,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Gas Zones",
-          "created_date": "08/25/2026 03:18:19 PM",
+          "created_date": "09/10/2026 12:20:31 PM",
           "updated_date": null
         },
         {
@@ -514,7 +514,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 9,
-      "last_fetched": "2026-09-10T15:55:23.873563Z",
+      "last_fetched": "2026-09-10T18:58:34.898479Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -642,7 +642,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428010.0",
+          "offer_id": "428708.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 1.299,
@@ -666,7 +666,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Gas Zones",
-          "created_date": "08/25/2026 03:18:19 PM",
+          "created_date": "09/10/2026 12:20:31 PM",
           "updated_date": null
         },
         {
@@ -784,7 +784,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 9,
-      "last_fetched": "2026-09-10T15:55:23.873786Z",
+      "last_fetched": "2026-09-10T18:58:34.898702Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -912,7 +912,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428010.0",
+          "offer_id": "428708.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 1.299,
@@ -936,7 +936,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Gas Zones",
-          "created_date": "08/25/2026 03:18:19 PM",
+          "created_date": "09/10/2026 12:20:31 PM",
           "updated_date": null
         },
         {
@@ -1026,7 +1026,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 8,
-      "last_fetched": "2026-09-10T15:55:23.873989Z",
+      "last_fetched": "2026-09-10T18:58:34.898948Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1268,7 +1268,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 8,
-      "last_fetched": "2026-09-10T15:55:23.874397Z",
+      "last_fetched": "2026-09-10T18:58:34.899295Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1312,7 +1312,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428008.0",
+          "offer_id": "428710.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 99.0,
@@ -1336,7 +1336,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "08/25/2026 03:18:09 PM",
+          "created_date": "09/10/2026 12:20:40 PM",
           "updated_date": null
         },
         {
@@ -1482,7 +1482,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-09-10T15:55:23.874746Z",
+      "last_fetched": "2026-09-10T18:58:34.899623Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1526,7 +1526,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428008.0",
+          "offer_id": "428710.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 99.0,
@@ -1550,7 +1550,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "08/25/2026 03:18:09 PM",
+          "created_date": "09/10/2026 12:20:40 PM",
           "updated_date": null
         },
         {
@@ -1696,7 +1696,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-09-10T15:55:23.874945Z",
+      "last_fetched": "2026-09-10T18:58:34.899813Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1740,7 +1740,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428008.0",
+          "offer_id": "428710.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 99.0,
@@ -1764,7 +1764,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "08/25/2026 03:18:09 PM",
+          "created_date": "09/10/2026 12:20:40 PM",
           "updated_date": null
         },
         {
@@ -1910,7 +1910,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-09-10T15:55:23.875142Z",
+      "last_fetched": "2026-09-10T18:58:34.900016Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1954,7 +1954,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428008.0",
+          "offer_id": "428710.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 99.0,
@@ -1978,7 +1978,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "08/25/2026 03:18:09 PM",
+          "created_date": "09/10/2026 12:20:40 PM",
           "updated_date": null
         },
         {
@@ -2124,7 +2124,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-09-10T15:55:23.875352Z",
+      "last_fetched": "2026-09-10T18:58:34.900207Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2168,7 +2168,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428008.0",
+          "offer_id": "428710.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 99.0,
@@ -2192,7 +2192,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "08/25/2026 03:18:09 PM",
+          "created_date": "09/10/2026 12:20:40 PM",
           "updated_date": null
         },
         {
@@ -2310,7 +2310,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 6,
-      "last_fetched": "2026-09-10T15:55:23.875521Z",
+      "last_fetched": "2026-09-10T18:58:34.900369Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2382,7 +2382,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428015.0",
+          "offer_id": "428703.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 1.299,
@@ -2406,7 +2406,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "National Grid in Long Island",
-          "created_date": "08/25/2026 03:18:47 PM",
+          "created_date": "09/10/2026 12:20:10 PM",
           "updated_date": null
         },
         {
@@ -2468,7 +2468,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 5,
-      "last_fetched": "2026-09-10T15:55:23.875826Z",
+      "last_fetched": "2026-09-10T18:58:34.900663Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2540,7 +2540,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428014.0",
+          "offer_id": "428704.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 1.299,
@@ -2564,7 +2564,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "National Grid in Metro",
-          "created_date": "08/25/2026 03:18:40 PM",
+          "created_date": "09/10/2026 12:20:15 PM",
           "updated_date": null
         },
         {
@@ -2598,7 +2598,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 4,
-      "last_fetched": "2026-09-10T15:55:23.875957Z",
+      "last_fetched": "2026-09-10T18:58:34.900790Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2642,7 +2642,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428013.0",
+          "offer_id": "428705.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 1.299,
@@ -2666,7 +2666,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "National Grid in Upstate",
-          "created_date": "08/25/2026 03:18:35 PM",
+          "created_date": "09/10/2026 12:20:18 PM",
           "updated_date": null
         },
         {
@@ -2812,7 +2812,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-09-10T15:55:23.876156Z",
+      "last_fetched": "2026-09-10T18:58:34.900995Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2884,7 +2884,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428012.0",
+          "offer_id": "428706.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 1.26116505,
@@ -2908,7 +2908,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "Orange and Rockland",
-          "created_date": "08/25/2026 03:18:30 PM",
+          "created_date": "09/10/2026 12:20:23 PM",
           "updated_date": null
         },
         {
@@ -3054,7 +3054,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 8,
-      "last_fetched": "2026-09-10T15:55:23.876519Z",
+      "last_fetched": "2026-09-10T18:58:34.901333Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -3070,7 +3070,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "428009.0",
+          "offer_id": "428709.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 9.0,
@@ -3094,7 +3094,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE",
-          "created_date": "08/25/2026 03:18:15 PM",
+          "created_date": "09/10/2026 12:20:36 PM",
           "updated_date": null
         },
         {
@@ -3296,7 +3296,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 8,
-      "last_fetched": "2026-09-10T15:55:23.876849Z",
+      "last_fetched": "2026-09-10T18:58:34.901650Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     }

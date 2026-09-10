@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T15:55:23.853700Z",
+  "last_updated": "2026-09-10T18:58:34.876065Z",
   "customer_class": "residential",
   "source": "New York State Department of Public Service Power to Choose",
   "source_url": "https://documents.dps.ny.gov/PTC/home",
@@ -74,7 +74,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428021.0",
+          "offer_id": "428712.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 29.0,
@@ -98,7 +98,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "08/25/2026 03:19:24 PM",
+          "created_date": "09/10/2026 12:20:54 PM",
           "updated_date": null
         },
         {
@@ -578,7 +578,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428255.0",
+          "offer_id": "428723.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1929.0,
@@ -602,7 +602,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "09/02/2026 09:44:53 AM",
+          "created_date": "09/10/2026 12:23:36 PM",
           "updated_date": null
         },
         {
@@ -748,7 +748,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 26,
-      "last_fetched": "2026-09-10T15:55:23.825629Z",
+      "last_fetched": "2026-09-10T18:58:34.848473Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -820,7 +820,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428021.0",
+          "offer_id": "428712.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 29.0,
@@ -844,7 +844,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "08/25/2026 03:19:24 PM",
+          "created_date": "09/10/2026 12:20:54 PM",
           "updated_date": null
         },
         {
@@ -1408,7 +1408,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428255.0",
+          "offer_id": "428723.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1929.0,
@@ -1432,7 +1432,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "09/02/2026 09:44:53 AM",
+          "created_date": "09/10/2026 12:23:36 PM",
           "updated_date": null
         },
         {
@@ -1578,7 +1578,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 29,
-      "last_fetched": "2026-09-10T15:55:23.826372Z",
+      "last_fetched": "2026-09-10T18:58:34.849203Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1678,7 +1678,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428021.0",
+          "offer_id": "428712.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 29.0,
@@ -1702,7 +1702,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "08/25/2026 03:19:24 PM",
+          "created_date": "09/10/2026 12:20:54 PM",
           "updated_date": null
         },
         {
@@ -2266,7 +2266,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428255.0",
+          "offer_id": "428723.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1929.0,
@@ -2290,7 +2290,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "09/02/2026 09:44:53 AM",
+          "created_date": "09/10/2026 12:23:36 PM",
           "updated_date": null
         },
         {
@@ -2436,7 +2436,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 30,
-      "last_fetched": "2026-09-10T15:55:23.827090Z",
+      "last_fetched": "2026-09-10T18:58:34.849926Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2676,7 +2676,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428022.0",
+          "offer_id": "428711.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 299.0,
@@ -2700,7 +2700,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "08/25/2026 03:19:39 PM",
+          "created_date": "09/10/2026 12:20:50 PM",
           "updated_date": null
         },
         {
@@ -2872,7 +2872,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428264.0",
+          "offer_id": "428719.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1929.0,
@@ -2896,7 +2896,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "09/02/2026 09:47:03 AM",
+          "created_date": "09/10/2026 12:23:04 PM",
           "updated_date": null
         },
         {
@@ -3210,7 +3210,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 27,
-      "last_fetched": "2026-09-10T15:55:23.828707Z",
+      "last_fetched": "2026-09-10T18:58:34.851520Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -3590,7 +3590,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428022.0",
+          "offer_id": "428711.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 299.0,
@@ -3614,7 +3614,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "08/25/2026 03:19:39 PM",
+          "created_date": "09/10/2026 12:20:50 PM",
           "updated_date": null
         },
         {
@@ -4094,7 +4094,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428264.0",
+          "offer_id": "428719.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1929.0,
@@ -4118,7 +4118,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "09/02/2026 09:47:03 AM",
+          "created_date": "09/10/2026 12:23:04 PM",
           "updated_date": null
         },
         {
@@ -4600,7 +4600,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 49,
-      "last_fetched": "2026-09-10T15:55:23.829866Z",
+      "last_fetched": "2026-09-10T18:58:34.852697Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -4952,7 +4952,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428022.0",
+          "offer_id": "428711.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 299.0,
@@ -4976,7 +4976,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "08/25/2026 03:19:39 PM",
+          "created_date": "09/10/2026 12:20:50 PM",
           "updated_date": null
         },
         {
@@ -5456,7 +5456,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428264.0",
+          "offer_id": "428719.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1929.0,
@@ -5480,7 +5480,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "09/02/2026 09:47:03 AM",
+          "created_date": "09/10/2026 12:23:04 PM",
           "updated_date": null
         },
         {
@@ -5962,7 +5962,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 48,
-      "last_fetched": "2026-09-10T15:55:23.830993Z",
+      "last_fetched": "2026-09-10T18:58:34.853912Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -6398,7 +6398,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428022.0",
+          "offer_id": "428711.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 299.0,
@@ -6422,7 +6422,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "08/25/2026 03:19:39 PM",
+          "created_date": "09/10/2026 12:20:50 PM",
           "updated_date": null
         },
         {
@@ -6846,7 +6846,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428264.0",
+          "offer_id": "428719.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1929.0,
@@ -6870,7 +6870,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "09/02/2026 09:47:03 AM",
+          "created_date": "09/10/2026 12:23:04 PM",
           "updated_date": null
         },
         {
@@ -7436,7 +7436,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 52,
-      "last_fetched": "2026-09-10T15:55:23.832210Z",
+      "last_fetched": "2026-09-10T18:58:34.855160Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -7452,7 +7452,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "428016.0",
+          "offer_id": "428717.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 229.0,
@@ -7476,13 +7476,13 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "LIPA in All Zones",
-          "created_date": "08/25/2026 03:18:58 PM",
+          "created_date": "09/10/2026 12:22:10 PM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 1,
-      "last_fetched": "2026-09-10T15:55:23.832895Z",
+      "last_fetched": "2026-09-10T18:58:34.855824Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -7638,7 +7638,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428017.0",
+          "offer_id": "428716.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 189.0,
@@ -7662,7 +7662,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "08/25/2026 03:19:03 PM",
+          "created_date": "09/10/2026 12:22:04 PM",
           "updated_date": null
         },
         {
@@ -7834,7 +7834,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428260.0",
+          "offer_id": "428722.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -7858,7 +7858,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/02/2026 09:45:42 AM",
+          "created_date": "09/10/2026 12:23:26 PM",
           "updated_date": null
         },
         {
@@ -8088,7 +8088,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 21,
-      "last_fetched": "2026-09-10T15:55:23.834382Z",
+      "last_fetched": "2026-09-10T18:58:34.857291Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -8356,7 +8356,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428017.0",
+          "offer_id": "428716.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 189.0,
@@ -8380,7 +8380,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "08/25/2026 03:19:03 PM",
+          "created_date": "09/10/2026 12:22:04 PM",
           "updated_date": null
         },
         {
@@ -8692,7 +8692,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428260.0",
+          "offer_id": "428722.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -8716,7 +8716,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/02/2026 09:45:42 AM",
+          "created_date": "09/10/2026 12:23:26 PM",
           "updated_date": null
         },
         {
@@ -9114,7 +9114,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-09-10T15:55:23.835278Z",
+      "last_fetched": "2026-09-10T18:58:34.858187Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -9298,7 +9298,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428017.0",
+          "offer_id": "428716.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 189.0,
@@ -9322,7 +9322,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "08/25/2026 03:19:03 PM",
+          "created_date": "09/10/2026 12:22:04 PM",
           "updated_date": null
         },
         {
@@ -9522,7 +9522,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428260.0",
+          "offer_id": "428722.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -9546,7 +9546,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/02/2026 09:45:42 AM",
+          "created_date": "09/10/2026 12:23:26 PM",
           "updated_date": null
         },
         {
@@ -9832,7 +9832,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 25,
-      "last_fetched": "2026-09-10T15:55:23.835940Z",
+      "last_fetched": "2026-09-10T18:58:34.858870Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -10072,7 +10072,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428017.0",
+          "offer_id": "428716.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 189.0,
@@ -10096,7 +10096,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "08/25/2026 03:19:03 PM",
+          "created_date": "09/10/2026 12:22:04 PM",
           "updated_date": null
         },
         {
@@ -10352,7 +10352,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428260.0",
+          "offer_id": "428722.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -10376,7 +10376,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/02/2026 09:45:42 AM",
+          "created_date": "09/10/2026 12:23:26 PM",
           "updated_date": null
         },
         {
@@ -10746,7 +10746,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-09-10T15:55:23.836743Z",
+      "last_fetched": "2026-09-10T18:58:34.859662Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -10986,7 +10986,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428017.0",
+          "offer_id": "428716.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 189.0,
@@ -11010,7 +11010,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "08/25/2026 03:19:03 PM",
+          "created_date": "09/10/2026 12:22:04 PM",
           "updated_date": null
         },
         {
@@ -11210,7 +11210,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428260.0",
+          "offer_id": "428722.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -11234,7 +11234,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/02/2026 09:45:42 AM",
+          "created_date": "09/10/2026 12:23:26 PM",
           "updated_date": null
         },
         {
@@ -11548,7 +11548,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 28,
-      "last_fetched": "2026-09-10T15:55:23.837476Z",
+      "last_fetched": "2026-09-10T18:58:34.860434Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -11816,7 +11816,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428017.0",
+          "offer_id": "428716.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 189.0,
@@ -11840,7 +11840,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "08/25/2026 03:19:03 PM",
+          "created_date": "09/10/2026 12:22:04 PM",
           "updated_date": null
         },
         {
@@ -12040,7 +12040,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428260.0",
+          "offer_id": "428722.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -12064,7 +12064,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/02/2026 09:45:42 AM",
+          "created_date": "09/10/2026 12:23:26 PM",
           "updated_date": null
         },
         {
@@ -12434,7 +12434,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-09-10T15:55:23.838254Z",
+      "last_fetched": "2026-09-10T18:58:34.861234Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -12702,7 +12702,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428017.0",
+          "offer_id": "428716.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 189.0,
@@ -12726,7 +12726,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "08/25/2026 03:19:03 PM",
+          "created_date": "09/10/2026 12:22:04 PM",
           "updated_date": null
         },
         {
@@ -12926,7 +12926,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428260.0",
+          "offer_id": "428722.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -12950,7 +12950,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/02/2026 09:45:42 AM",
+          "created_date": "09/10/2026 12:23:26 PM",
           "updated_date": null
         },
         {
@@ -13460,7 +13460,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-09-10T15:55:23.839123Z",
+      "last_fetched": "2026-09-10T18:58:34.862118Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -13672,7 +13672,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428017.0",
+          "offer_id": "428716.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 189.0,
@@ -13696,7 +13696,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "08/25/2026 03:19:03 PM",
+          "created_date": "09/10/2026 12:22:04 PM",
           "updated_date": null
         },
         {
@@ -13924,7 +13924,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428260.0",
+          "offer_id": "428722.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -13948,7 +13948,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/02/2026 09:45:42 AM",
+          "created_date": "09/10/2026 12:23:26 PM",
           "updated_date": null
         },
         {
@@ -14374,7 +14374,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-09-10T15:55:23.839936Z",
+      "last_fetched": "2026-09-10T18:58:34.862948Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -14586,7 +14586,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428017.0",
+          "offer_id": "428716.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 189.0,
@@ -14610,7 +14610,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "08/25/2026 03:19:03 PM",
+          "created_date": "09/10/2026 12:22:04 PM",
           "updated_date": null
         },
         {
@@ -14838,7 +14838,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428260.0",
+          "offer_id": "428722.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -14862,7 +14862,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/02/2026 09:45:42 AM",
+          "created_date": "09/10/2026 12:23:26 PM",
           "updated_date": null
         },
         {
@@ -15176,7 +15176,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 28,
-      "last_fetched": "2026-09-10T15:55:23.840652Z",
+      "last_fetched": "2026-09-10T18:58:34.863684Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -15332,7 +15332,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428017.0",
+          "offer_id": "428716.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 189.0,
@@ -15356,7 +15356,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "08/25/2026 03:19:03 PM",
+          "created_date": "09/10/2026 12:22:04 PM",
           "updated_date": null
         },
         {
@@ -15584,7 +15584,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428260.0",
+          "offer_id": "428722.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -15608,7 +15608,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/02/2026 09:45:42 AM",
+          "created_date": "09/10/2026 12:23:26 PM",
           "updated_date": null
         },
         {
@@ -15866,7 +15866,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 24,
-      "last_fetched": "2026-09-10T15:55:23.841296Z",
+      "last_fetched": "2026-09-10T18:58:34.864330Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -16022,7 +16022,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428019.0",
+          "offer_id": "428714.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 249.0,
@@ -16046,11 +16046,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "08/25/2026 03:19:14 PM",
+          "created_date": "09/10/2026 12:21:50 PM",
           "updated_date": null
         },
         {
-          "offer_id": "428256.0",
+          "offer_id": "428720.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -16074,11 +16074,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/02/2026 09:45:04 AM",
+          "created_date": "09/10/2026 12:23:11 PM",
           "updated_date": null
         },
         {
-          "offer_id": "428258.0",
+          "offer_id": "428721.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -16102,7 +16102,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/02/2026 09:45:24 AM",
+          "created_date": "09/10/2026 12:23:19 PM",
           "updated_date": null
         },
         {
@@ -16444,7 +16444,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 20,
-      "last_fetched": "2026-09-10T15:55:23.842762Z",
+      "last_fetched": "2026-09-10T18:58:34.865748Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -16740,7 +16740,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428019.0",
+          "offer_id": "428714.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 249.0,
@@ -16764,7 +16764,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "08/25/2026 03:19:14 PM",
+          "created_date": "09/10/2026 12:21:50 PM",
           "updated_date": null
         },
         {
@@ -16880,7 +16880,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428256.0",
+          "offer_id": "428720.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -16904,11 +16904,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/02/2026 09:45:04 AM",
+          "created_date": "09/10/2026 12:23:11 PM",
           "updated_date": null
         },
         {
-          "offer_id": "428258.0",
+          "offer_id": "428721.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -16932,7 +16932,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/02/2026 09:45:24 AM",
+          "created_date": "09/10/2026 12:23:19 PM",
           "updated_date": null
         },
         {
@@ -17442,7 +17442,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-09-10T15:55:23.843737Z",
+      "last_fetched": "2026-09-10T18:58:34.866624Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -17710,7 +17710,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428019.0",
+          "offer_id": "428714.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 249.0,
@@ -17734,7 +17734,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "08/25/2026 03:19:14 PM",
+          "created_date": "09/10/2026 12:21:50 PM",
           "updated_date": null
         },
         {
@@ -17794,7 +17794,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428256.0",
+          "offer_id": "428720.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -17818,11 +17818,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/02/2026 09:45:04 AM",
+          "created_date": "09/10/2026 12:23:11 PM",
           "updated_date": null
         },
         {
-          "offer_id": "428258.0",
+          "offer_id": "428721.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -17846,7 +17846,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/02/2026 09:45:24 AM",
+          "created_date": "09/10/2026 12:23:19 PM",
           "updated_date": null
         },
         {
@@ -18328,7 +18328,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-09-10T15:55:23.844577Z",
+      "last_fetched": "2026-09-10T18:58:34.867423Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -18624,7 +18624,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428019.0",
+          "offer_id": "428714.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 249.0,
@@ -18648,7 +18648,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "08/25/2026 03:19:14 PM",
+          "created_date": "09/10/2026 12:21:50 PM",
           "updated_date": null
         },
         {
@@ -18764,7 +18764,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428256.0",
+          "offer_id": "428720.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -18788,11 +18788,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/02/2026 09:45:04 AM",
+          "created_date": "09/10/2026 12:23:11 PM",
           "updated_date": null
         },
         {
-          "offer_id": "428258.0",
+          "offer_id": "428721.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -18816,7 +18816,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/02/2026 09:45:24 AM",
+          "created_date": "09/10/2026 12:23:19 PM",
           "updated_date": null
         },
         {
@@ -19354,7 +19354,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-09-10T15:55:23.845521Z",
+      "last_fetched": "2026-09-10T18:58:34.868313Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -19622,7 +19622,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428019.0",
+          "offer_id": "428714.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 249.0,
@@ -19646,7 +19646,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "08/25/2026 03:19:14 PM",
+          "created_date": "09/10/2026 12:21:50 PM",
           "updated_date": null
         },
         {
@@ -19678,7 +19678,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428256.0",
+          "offer_id": "428720.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -19702,11 +19702,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/02/2026 09:45:04 AM",
+          "created_date": "09/10/2026 12:23:11 PM",
           "updated_date": null
         },
         {
-          "offer_id": "428258.0",
+          "offer_id": "428721.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -19730,7 +19730,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/02/2026 09:45:24 AM",
+          "created_date": "09/10/2026 12:23:19 PM",
           "updated_date": null
         },
         {
@@ -20240,7 +20240,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-09-10T15:55:23.846321Z",
+      "last_fetched": "2026-09-10T18:58:34.869126Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -20536,7 +20536,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428019.0",
+          "offer_id": "428714.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 249.0,
@@ -20560,7 +20560,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "08/25/2026 03:19:14 PM",
+          "created_date": "09/10/2026 12:21:50 PM",
           "updated_date": null
         },
         {
@@ -20592,7 +20592,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428256.0",
+          "offer_id": "428720.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -20616,11 +20616,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/02/2026 09:45:04 AM",
+          "created_date": "09/10/2026 12:23:11 PM",
           "updated_date": null
         },
         {
-          "offer_id": "428258.0",
+          "offer_id": "428721.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -20644,7 +20644,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/02/2026 09:45:24 AM",
+          "created_date": "09/10/2026 12:23:19 PM",
           "updated_date": null
         },
         {
@@ -21154,7 +21154,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-09-10T15:55:23.847270Z",
+      "last_fetched": "2026-09-10T18:58:34.869945Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -21450,7 +21450,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428019.0",
+          "offer_id": "428714.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 249.0,
@@ -21474,11 +21474,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "08/25/2026 03:19:14 PM",
+          "created_date": "09/10/2026 12:21:50 PM",
           "updated_date": null
         },
         {
-          "offer_id": "428256.0",
+          "offer_id": "428720.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -21502,11 +21502,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/02/2026 09:45:04 AM",
+          "created_date": "09/10/2026 12:23:11 PM",
           "updated_date": null
         },
         {
-          "offer_id": "428258.0",
+          "offer_id": "428721.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -21530,7 +21530,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/02/2026 09:45:24 AM",
+          "created_date": "09/10/2026 12:23:19 PM",
           "updated_date": null
         },
         {
@@ -22152,7 +22152,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-09-10T15:55:23.848129Z",
+      "last_fetched": "2026-09-10T18:58:34.870802Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -22420,7 +22420,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428020.0",
+          "offer_id": "428713.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 299.0,
@@ -22444,7 +22444,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "08/25/2026 03:19:19 PM",
+          "created_date": "09/10/2026 12:21:01 PM",
           "updated_date": null
         },
         {
@@ -22952,7 +22952,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428263.0",
+          "offer_id": "428724.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1929.0,
@@ -22976,7 +22976,35 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "09/02/2026 09:46:54 AM",
+          "created_date": "09/10/2026 12:23:44 PM",
+          "updated_date": null
+        },
+        {
+          "offer_id": "428725.0",
+          "product_name": null,
+          "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
+          "rate": 1929.0,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "source_rate": 1929.0,
+          "source_rate_unit": "kWh",
+          "term_months": 60,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "One Great Rate for 5 Years with No Cancellation Fees and No Customer Charge. See T&amp;C&#39;s for details. Online offer only - https://www.myrateenergy.com/",
+          "monthly_fee": null,
+          "website_url": "http://www.yourfamilyenergy.com",
+          "signup_url": "http://www.yourfamilyenergy.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 0.54,
+          "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "ORU in All Zones",
+          "created_date": "09/10/2026 12:23:45 PM",
           "updated_date": null
         },
         {
@@ -23121,8 +23149,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 34,
-      "last_fetched": "2026-09-10T15:55:23.849799Z",
+      "count": 35,
+      "last_fetched": "2026-09-10T18:58:34.872327Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -23418,7 +23446,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428020.0",
+          "offer_id": "428713.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 299.0,
@@ -23442,7 +23470,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "08/25/2026 03:19:19 PM",
+          "created_date": "09/10/2026 12:21:01 PM",
           "updated_date": null
         },
         {
@@ -23950,7 +23978,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428263.0",
+          "offer_id": "428724.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1929.0,
@@ -23974,7 +24002,35 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "09/02/2026 09:46:54 AM",
+          "created_date": "09/10/2026 12:23:44 PM",
+          "updated_date": null
+        },
+        {
+          "offer_id": "428725.0",
+          "product_name": null,
+          "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
+          "rate": 1929.0,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "source_rate": 1929.0,
+          "source_rate_unit": "kWh",
+          "term_months": 60,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "One Great Rate for 5 Years with No Cancellation Fees and No Customer Charge. See T&amp;C&#39;s for details. Online offer only - https://www.myrateenergy.com/",
+          "monthly_fee": null,
+          "website_url": "http://www.yourfamilyenergy.com",
+          "signup_url": "http://www.yourfamilyenergy.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 0.54,
+          "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "ORU in All Zones",
+          "created_date": "09/10/2026 12:23:45 PM",
           "updated_date": null
         },
         {
@@ -24119,8 +24175,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 35,
-      "last_fetched": "2026-09-10T15:55:23.850556Z",
+      "count": 36,
+      "last_fetched": "2026-09-10T18:58:34.873105Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -24444,7 +24500,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428020.0",
+          "offer_id": "428713.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 299.0,
@@ -24468,7 +24524,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "08/25/2026 03:19:19 PM",
+          "created_date": "09/10/2026 12:21:01 PM",
           "updated_date": null
         },
         {
@@ -25004,7 +25060,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428263.0",
+          "offer_id": "428724.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1929.0,
@@ -25028,7 +25084,35 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "09/02/2026 09:46:54 AM",
+          "created_date": "09/10/2026 12:23:44 PM",
+          "updated_date": null
+        },
+        {
+          "offer_id": "428725.0",
+          "product_name": null,
+          "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
+          "rate": 1929.0,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "source_rate": 1929.0,
+          "source_rate_unit": "kWh",
+          "term_months": 60,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "One Great Rate for 5 Years with No Cancellation Fees and No Customer Charge. See T&amp;C&#39;s for details. Online offer only - https://www.myrateenergy.com/",
+          "monthly_fee": null,
+          "website_url": "http://www.yourfamilyenergy.com",
+          "signup_url": "http://www.yourfamilyenergy.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 0.54,
+          "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "ORU in All Zones",
+          "created_date": "09/10/2026 12:23:45 PM",
           "updated_date": null
         },
         {
@@ -25173,8 +25257,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 37,
-      "last_fetched": "2026-09-10T15:55:23.851357Z",
+      "count": 38,
+      "last_fetched": "2026-09-10T18:58:34.873921Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -25218,7 +25302,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428018.0",
+          "offer_id": "428715.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 19.0,
@@ -25242,7 +25326,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in All Zones",
-          "created_date": "08/25/2026 03:19:09 PM",
+          "created_date": "09/10/2026 12:21:56 PM",
           "updated_date": null
         },
         {
@@ -25610,7 +25694,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428261.0",
+          "offer_id": "428726.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -25634,11 +25718,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in All Zones",
-          "created_date": "09/02/2026 09:45:52 AM",
+          "created_date": "09/10/2026 12:23:55 PM",
           "updated_date": null
         },
         {
-          "offer_id": "428262.0",
+          "offer_id": "428727.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -25662,7 +25746,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in All Zones",
-          "created_date": "09/02/2026 09:46:04 AM",
+          "created_date": "09/10/2026 12:24:01 PM",
           "updated_date": null
         },
         {
@@ -26088,7 +26172,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-09-10T15:55:23.852918Z",
+      "last_fetched": "2026-09-10T18:58:34.875309Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -26160,7 +26244,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428018.0",
+          "offer_id": "428715.0",
           "product_name": null,
           "name": "Median Energy Corp.",
           "rate": 19.0,
@@ -26184,7 +26268,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in All Zones",
-          "created_date": "08/25/2026 03:19:09 PM",
+          "created_date": "09/10/2026 12:21:56 PM",
           "updated_date": null
         },
         {
@@ -26580,7 +26664,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428261.0",
+          "offer_id": "428726.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -26604,11 +26688,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in All Zones",
-          "created_date": "09/02/2026 09:45:52 AM",
+          "created_date": "09/10/2026 12:23:55 PM",
           "updated_date": null
         },
         {
-          "offer_id": "428262.0",
+          "offer_id": "428727.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -26632,7 +26716,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in All Zones",
-          "created_date": "09/02/2026 09:46:04 AM",
+          "created_date": "09/10/2026 12:24:01 PM",
           "updated_date": null
         },
         {
@@ -27086,7 +27170,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-09-10T15:55:23.853696Z",
+      "last_fetched": "2026-09-10T18:58:34.876062Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     }
