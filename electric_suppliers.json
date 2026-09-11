@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T15:58:11.407628Z",
+  "last_updated": "2026-09-11T19:06:21.810513Z",
   "customer_class": "residential",
   "source": "New York State Department of Public Service Power to Choose",
   "source_url": "https://documents.dps.ny.gov/PTC/home",
@@ -578,7 +578,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428723.0",
+          "offer_id": "428732.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1929.0,
@@ -595,14 +595,14 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "09/10/2026 12:23:36 PM",
+          "created_date": "09/11/2026 02:41:07 PM",
           "updated_date": null
         },
         {
@@ -748,7 +748,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 26,
-      "last_fetched": "2026-09-11T15:58:11.379641Z",
+      "last_fetched": "2026-09-11T19:06:21.770854Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1408,7 +1408,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428723.0",
+          "offer_id": "428732.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1929.0,
@@ -1425,14 +1425,14 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "09/10/2026 12:23:36 PM",
+          "created_date": "09/11/2026 02:41:07 PM",
           "updated_date": null
         },
         {
@@ -1578,7 +1578,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 29,
-      "last_fetched": "2026-09-11T15:58:11.380383Z",
+      "last_fetched": "2026-09-11T19:06:21.771936Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2266,7 +2266,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428723.0",
+          "offer_id": "428732.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1929.0,
@@ -2283,14 +2283,14 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "09/10/2026 12:23:36 PM",
+          "created_date": "09/11/2026 02:41:07 PM",
           "updated_date": null
         },
         {
@@ -2436,7 +2436,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 30,
-      "last_fetched": "2026-09-11T15:58:11.381118Z",
+      "last_fetched": "2026-09-11T19:06:21.772993Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2872,7 +2872,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428719.0",
+          "offer_id": "428736.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1929.0,
@@ -2889,14 +2889,14 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "09/10/2026 12:23:04 PM",
+          "created_date": "09/11/2026 02:41:45 PM",
           "updated_date": null
         },
         {
@@ -3210,7 +3210,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 27,
-      "last_fetched": "2026-09-11T15:58:11.382728Z",
+      "last_fetched": "2026-09-11T19:06:21.775261Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -4094,7 +4094,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428719.0",
+          "offer_id": "428736.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1929.0,
@@ -4111,14 +4111,14 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "09/10/2026 12:23:04 PM",
+          "created_date": "09/11/2026 02:41:45 PM",
           "updated_date": null
         },
         {
@@ -4600,7 +4600,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 49,
-      "last_fetched": "2026-09-11T15:58:11.383917Z",
+      "last_fetched": "2026-09-11T19:06:21.776905Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -5456,7 +5456,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428719.0",
+          "offer_id": "428736.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1929.0,
@@ -5473,14 +5473,14 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "09/10/2026 12:23:04 PM",
+          "created_date": "09/11/2026 02:41:45 PM",
           "updated_date": null
         },
         {
@@ -5962,7 +5962,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 48,
-      "last_fetched": "2026-09-11T15:58:11.385102Z",
+      "last_fetched": "2026-09-11T19:06:21.778508Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -6846,7 +6846,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428719.0",
+          "offer_id": "428736.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1929.0,
@@ -6863,14 +6863,14 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "09/10/2026 12:23:04 PM",
+          "created_date": "09/11/2026 02:41:45 PM",
           "updated_date": null
         },
         {
@@ -7436,7 +7436,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 52,
-      "last_fetched": "2026-09-11T15:58:11.386347Z",
+      "last_fetched": "2026-09-11T19:06:21.780252Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -7482,7 +7482,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 1,
-      "last_fetched": "2026-09-11T15:58:11.387034Z",
+      "last_fetched": "2026-09-11T19:06:21.781246Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -7834,7 +7834,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428722.0",
+          "offer_id": "428733.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -7851,14 +7851,14 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/10/2026 12:23:26 PM",
+          "created_date": "09/11/2026 02:41:18 PM",
           "updated_date": null
         },
         {
@@ -8088,7 +8088,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 21,
-      "last_fetched": "2026-09-11T15:58:11.388533Z",
+      "last_fetched": "2026-09-11T19:06:21.783356Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -8692,7 +8692,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428722.0",
+          "offer_id": "428733.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -8709,14 +8709,14 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/10/2026 12:23:26 PM",
+          "created_date": "09/11/2026 02:41:18 PM",
           "updated_date": null
         },
         {
@@ -9114,7 +9114,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-09-11T15:58:11.389439Z",
+      "last_fetched": "2026-09-11T19:06:21.784620Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -9522,7 +9522,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428722.0",
+          "offer_id": "428733.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -9539,14 +9539,14 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/10/2026 12:23:26 PM",
+          "created_date": "09/11/2026 02:41:18 PM",
           "updated_date": null
         },
         {
@@ -9832,7 +9832,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 25,
-      "last_fetched": "2026-09-11T15:58:11.390111Z",
+      "last_fetched": "2026-09-11T19:06:21.785566Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -10352,7 +10352,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428722.0",
+          "offer_id": "428733.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -10369,14 +10369,14 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/10/2026 12:23:26 PM",
+          "created_date": "09/11/2026 02:41:18 PM",
           "updated_date": null
         },
         {
@@ -10746,7 +10746,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-09-11T15:58:11.390921Z",
+      "last_fetched": "2026-09-11T19:06:21.786698Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -11210,7 +11210,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428722.0",
+          "offer_id": "428733.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -11227,14 +11227,14 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/10/2026 12:23:26 PM",
+          "created_date": "09/11/2026 02:41:18 PM",
           "updated_date": null
         },
         {
@@ -11548,7 +11548,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 28,
-      "last_fetched": "2026-09-11T15:58:11.391662Z",
+      "last_fetched": "2026-09-11T19:06:21.787745Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -12040,7 +12040,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428722.0",
+          "offer_id": "428733.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -12057,14 +12057,14 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/10/2026 12:23:26 PM",
+          "created_date": "09/11/2026 02:41:18 PM",
           "updated_date": null
         },
         {
@@ -12434,7 +12434,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-09-11T15:58:11.392457Z",
+      "last_fetched": "2026-09-11T19:06:21.788870Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -12926,7 +12926,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428722.0",
+          "offer_id": "428733.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -12943,14 +12943,14 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/10/2026 12:23:26 PM",
+          "created_date": "09/11/2026 02:41:18 PM",
           "updated_date": null
         },
         {
@@ -13460,7 +13460,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-09-11T15:58:11.393359Z",
+      "last_fetched": "2026-09-11T19:06:21.790152Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -13924,7 +13924,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428722.0",
+          "offer_id": "428733.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -13941,14 +13941,14 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/10/2026 12:23:26 PM",
+          "created_date": "09/11/2026 02:41:18 PM",
           "updated_date": null
         },
         {
@@ -14374,7 +14374,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-09-11T15:58:11.394179Z",
+      "last_fetched": "2026-09-11T19:06:21.791321Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -14838,7 +14838,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428722.0",
+          "offer_id": "428733.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -14855,14 +14855,14 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/10/2026 12:23:26 PM",
+          "created_date": "09/11/2026 02:41:18 PM",
           "updated_date": null
         },
         {
@@ -15176,7 +15176,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 28,
-      "last_fetched": "2026-09-11T15:58:11.394919Z",
+      "last_fetched": "2026-09-11T19:06:21.792345Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -15584,7 +15584,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428722.0",
+          "offer_id": "428733.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -15601,14 +15601,14 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/10/2026 12:23:26 PM",
+          "created_date": "09/11/2026 02:41:18 PM",
           "updated_date": null
         },
         {
@@ -15866,7 +15866,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 24,
-      "last_fetched": "2026-09-11T15:58:11.395568Z",
+      "last_fetched": "2026-09-11T19:06:21.793275Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -16050,7 +16050,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428720.0",
+          "offer_id": "428735.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -16067,18 +16067,18 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/10/2026 12:23:11 PM",
+          "created_date": "09/11/2026 02:41:37 PM",
           "updated_date": null
         },
         {
-          "offer_id": "428721.0",
+          "offer_id": "428737.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -16095,14 +16095,14 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/10/2026 12:23:19 PM",
+          "created_date": "09/11/2026 02:42:53 PM",
           "updated_date": null
         },
         {
@@ -16444,7 +16444,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 20,
-      "last_fetched": "2026-09-11T15:58:11.397037Z",
+      "last_fetched": "2026-09-11T19:06:21.795433Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -16880,7 +16880,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428720.0",
+          "offer_id": "428735.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -16897,18 +16897,18 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/10/2026 12:23:11 PM",
+          "created_date": "09/11/2026 02:41:37 PM",
           "updated_date": null
         },
         {
-          "offer_id": "428721.0",
+          "offer_id": "428737.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -16925,14 +16925,14 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/10/2026 12:23:19 PM",
+          "created_date": "09/11/2026 02:42:53 PM",
           "updated_date": null
         },
         {
@@ -17442,7 +17442,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-09-11T15:58:11.397932Z",
+      "last_fetched": "2026-09-11T19:06:21.796729Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -17794,7 +17794,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428720.0",
+          "offer_id": "428735.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -17811,18 +17811,18 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/10/2026 12:23:11 PM",
+          "created_date": "09/11/2026 02:41:37 PM",
           "updated_date": null
         },
         {
-          "offer_id": "428721.0",
+          "offer_id": "428737.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -17839,14 +17839,14 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/10/2026 12:23:19 PM",
+          "created_date": "09/11/2026 02:42:53 PM",
           "updated_date": null
         },
         {
@@ -18328,7 +18328,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-09-11T15:58:11.398733Z",
+      "last_fetched": "2026-09-11T19:06:21.797870Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -18764,7 +18764,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428720.0",
+          "offer_id": "428735.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -18781,18 +18781,18 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/10/2026 12:23:11 PM",
+          "created_date": "09/11/2026 02:41:37 PM",
           "updated_date": null
         },
         {
-          "offer_id": "428721.0",
+          "offer_id": "428737.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -18809,14 +18809,14 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/10/2026 12:23:19 PM",
+          "created_date": "09/11/2026 02:42:53 PM",
           "updated_date": null
         },
         {
@@ -19354,7 +19354,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-09-11T15:58:11.399628Z",
+      "last_fetched": "2026-09-11T19:06:21.799154Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -19678,7 +19678,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428720.0",
+          "offer_id": "428735.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -19695,18 +19695,18 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/10/2026 12:23:11 PM",
+          "created_date": "09/11/2026 02:41:37 PM",
           "updated_date": null
         },
         {
-          "offer_id": "428721.0",
+          "offer_id": "428737.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -19723,14 +19723,14 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/10/2026 12:23:19 PM",
+          "created_date": "09/11/2026 02:42:53 PM",
           "updated_date": null
         },
         {
@@ -20240,7 +20240,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-09-11T15:58:11.400432Z",
+      "last_fetched": "2026-09-11T19:06:21.800293Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -20592,7 +20592,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428720.0",
+          "offer_id": "428735.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -20609,18 +20609,18 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/10/2026 12:23:11 PM",
+          "created_date": "09/11/2026 02:41:37 PM",
           "updated_date": null
         },
         {
-          "offer_id": "428721.0",
+          "offer_id": "428737.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -20637,14 +20637,14 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/10/2026 12:23:19 PM",
+          "created_date": "09/11/2026 02:42:53 PM",
           "updated_date": null
         },
         {
@@ -21154,7 +21154,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-09-11T15:58:11.401266Z",
+      "last_fetched": "2026-09-11T19:06:21.801491Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -21478,7 +21478,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428720.0",
+          "offer_id": "428735.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -21495,18 +21495,18 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/10/2026 12:23:11 PM",
+          "created_date": "09/11/2026 02:41:37 PM",
           "updated_date": null
         },
         {
-          "offer_id": "428721.0",
+          "offer_id": "428737.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -21523,14 +21523,14 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/10/2026 12:23:19 PM",
+          "created_date": "09/11/2026 02:42:53 PM",
           "updated_date": null
         },
         {
@@ -22152,7 +22152,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-09-11T15:58:11.402141Z",
+      "last_fetched": "2026-09-11T19:06:21.802737Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -22952,7 +22952,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428724.0",
+          "offer_id": "428730.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1929.0,
@@ -22969,18 +22969,18 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "09/10/2026 12:23:44 PM",
+          "created_date": "09/11/2026 02:40:50 PM",
           "updated_date": null
         },
         {
-          "offer_id": "428725.0",
+          "offer_id": "428731.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1929.0,
@@ -22997,14 +22997,14 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "09/10/2026 12:23:45 PM",
+          "created_date": "09/11/2026 02:40:59 PM",
           "updated_date": null
         },
         {
@@ -23150,7 +23150,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-09-11T15:58:11.403727Z",
+      "last_fetched": "2026-09-11T19:06:21.805033Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -23978,7 +23978,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428724.0",
+          "offer_id": "428730.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1929.0,
@@ -23995,18 +23995,18 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "09/10/2026 12:23:44 PM",
+          "created_date": "09/11/2026 02:40:50 PM",
           "updated_date": null
         },
         {
-          "offer_id": "428725.0",
+          "offer_id": "428731.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1929.0,
@@ -24023,14 +24023,14 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "09/10/2026 12:23:45 PM",
+          "created_date": "09/11/2026 02:40:59 PM",
           "updated_date": null
         },
         {
@@ -24176,7 +24176,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-09-11T15:58:11.404535Z",
+      "last_fetched": "2026-09-11T19:06:21.806163Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -25060,7 +25060,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428724.0",
+          "offer_id": "428730.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1929.0,
@@ -25077,18 +25077,18 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "09/10/2026 12:23:44 PM",
+          "created_date": "09/11/2026 02:40:50 PM",
           "updated_date": null
         },
         {
-          "offer_id": "428725.0",
+          "offer_id": "428731.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1929.0,
@@ -25105,14 +25105,14 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "09/10/2026 12:23:45 PM",
+          "created_date": "09/11/2026 02:40:59 PM",
           "updated_date": null
         },
         {
@@ -25258,7 +25258,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 38,
-      "last_fetched": "2026-09-11T15:58:11.405391Z",
+      "last_fetched": "2026-09-11T19:06:21.807343Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -25694,7 +25694,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428726.0",
+          "offer_id": "428729.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -25711,18 +25711,18 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in All Zones",
-          "created_date": "09/10/2026 12:23:55 PM",
+          "created_date": "09/11/2026 02:40:42 PM",
           "updated_date": null
         },
         {
-          "offer_id": "428727.0",
+          "offer_id": "428734.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -25739,14 +25739,14 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in All Zones",
-          "created_date": "09/10/2026 12:24:01 PM",
+          "created_date": "09/11/2026 02:41:27 PM",
           "updated_date": null
         },
         {
@@ -26172,7 +26172,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-09-11T15:58:11.406854Z",
+      "last_fetched": "2026-09-11T19:06:21.809421Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -26664,7 +26664,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428726.0",
+          "offer_id": "428729.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -26681,18 +26681,18 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in All Zones",
-          "created_date": "09/10/2026 12:23:55 PM",
+          "created_date": "09/11/2026 02:40:42 PM",
           "updated_date": null
         },
         {
-          "offer_id": "428727.0",
+          "offer_id": "428734.0",
           "product_name": null,
           "name": "Family Energy, Inc. d/b/a MYRATE ENERGY",
           "rate": 1429.0,
@@ -26709,14 +26709,14 @@
           "signup_url": "http://www.yourfamilyenergy.com",
           "phone": null,
           "renewable": "Yes",
-          "renewable_percentage": 0.54,
+          "renewable_percentage": 0.5,
           "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
           "value_added": "No",
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in All Zones",
-          "created_date": "09/10/2026 12:24:01 PM",
+          "created_date": "09/11/2026 02:41:27 PM",
           "updated_date": null
         },
         {
@@ -27170,7 +27170,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-09-11T15:58:11.407625Z",
+      "last_fetched": "2026-09-11T19:06:21.810508Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     }
