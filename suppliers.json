@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T00:20:52.056321Z",
+  "last_updated": "2026-09-15T16:24:39.424976Z",
   "customer_class": "residential",
   "source": "New York State Department of Public Service Power to Choose",
   "source_url": "https://documents.dps.ny.gov/PTC/home",
@@ -130,7 +130,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428633.0",
+          "offer_id": "428835.0",
           "product_name": null,
           "name": "Verde Energy USA New York LLC",
           "rate": 698.05825243,
@@ -154,7 +154,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "Central Hudson",
-          "created_date": "09/09/2026 08:46:13 AM",
+          "created_date": "09/15/2026 08:43:37 AM",
           "updated_date": null
         },
         {
@@ -216,7 +216,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-09-15T00:20:52.052692Z",
+      "last_fetched": "2026-09-15T16:24:39.421885Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -458,7 +458,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 8,
-      "last_fetched": "2026-09-15T00:20:52.053071Z",
+      "last_fetched": "2026-09-15T16:24:39.422210Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -700,7 +700,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 8,
-      "last_fetched": "2026-09-15T00:20:52.053287Z",
+      "last_fetched": "2026-09-15T16:24:39.422399Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -914,7 +914,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-09-15T00:20:52.053482Z",
+      "last_fetched": "2026-09-15T16:24:39.422565Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1014,7 +1014,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428629.0",
+          "offer_id": "428831.0",
           "product_name": null,
           "name": "Verde Energy USA New York LLC",
           "rate": 707.76699029,
@@ -1038,7 +1038,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "National Fuel",
-          "created_date": "09/09/2026 08:45:18 AM",
+          "created_date": "09/15/2026 08:42:51 AM",
           "updated_date": null
         },
         {
@@ -1100,7 +1100,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 6,
-      "last_fetched": "2026-09-15T00:20:52.053840Z",
+      "last_fetched": "2026-09-15T16:24:39.422858Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1172,7 +1172,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428625.0",
+          "offer_id": "428827.0",
           "product_name": null,
           "name": "Verde Energy USA New York LLC",
           "rate": 909.0,
@@ -1196,7 +1196,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "09/09/2026 08:43:33 AM",
+          "created_date": "09/15/2026 08:42:19 AM",
           "updated_date": null
         },
         {
@@ -1286,7 +1286,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 6,
-      "last_fetched": "2026-09-15T00:20:52.054188Z",
+      "last_fetched": "2026-09-15T16:24:39.423161Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1358,7 +1358,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428625.0",
+          "offer_id": "428827.0",
           "product_name": null,
           "name": "Verde Energy USA New York LLC",
           "rate": 909.0,
@@ -1382,7 +1382,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "09/09/2026 08:43:33 AM",
+          "created_date": "09/15/2026 08:42:19 AM",
           "updated_date": null
         },
         {
@@ -1472,7 +1472,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 6,
-      "last_fetched": "2026-09-15T00:20:52.054385Z",
+      "last_fetched": "2026-09-15T16:24:39.423335Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1544,7 +1544,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428625.0",
+          "offer_id": "428827.0",
           "product_name": null,
           "name": "Verde Energy USA New York LLC",
           "rate": 909.0,
@@ -1568,7 +1568,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "09/09/2026 08:43:33 AM",
+          "created_date": "09/15/2026 08:42:19 AM",
           "updated_date": null
         },
         {
@@ -1658,7 +1658,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 6,
-      "last_fetched": "2026-09-15T00:20:52.054622Z",
+      "last_fetched": "2026-09-15T16:24:39.423509Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1730,7 +1730,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428625.0",
+          "offer_id": "428827.0",
           "product_name": null,
           "name": "Verde Energy USA New York LLC",
           "rate": 909.0,
@@ -1754,7 +1754,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "09/09/2026 08:43:33 AM",
+          "created_date": "09/15/2026 08:42:19 AM",
           "updated_date": null
         },
         {
@@ -1844,7 +1844,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 6,
-      "last_fetched": "2026-09-15T00:20:52.054814Z",
+      "last_fetched": "2026-09-15T16:24:39.423670Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1916,7 +1916,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428625.0",
+          "offer_id": "428827.0",
           "product_name": null,
           "name": "Verde Energy USA New York LLC",
           "rate": 909.0,
@@ -1940,7 +1940,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "09/09/2026 08:43:33 AM",
+          "created_date": "09/15/2026 08:42:19 AM",
           "updated_date": null
         },
         {
@@ -2002,7 +2002,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 5,
-      "last_fetched": "2026-09-15T00:20:52.054971Z",
+      "last_fetched": "2026-09-15T16:24:39.423806Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2046,7 +2046,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428631.0",
+          "offer_id": "428833.0",
           "product_name": null,
           "name": "Verde Energy USA New York LLC",
           "rate": 1.149,
@@ -2070,7 +2070,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "National Grid in Long Island",
-          "created_date": "09/09/2026 08:45:50 AM",
+          "created_date": "09/15/2026 08:43:14 AM",
           "updated_date": null
         },
         {
@@ -2132,7 +2132,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 4,
-      "last_fetched": "2026-09-15T00:20:52.055271Z",
+      "last_fetched": "2026-09-15T16:24:39.424077Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2262,7 +2262,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 4,
-      "last_fetched": "2026-09-15T00:20:52.055422Z",
+      "last_fetched": "2026-09-15T16:24:39.424205Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2334,7 +2334,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428627.0",
+          "offer_id": "428829.0",
           "product_name": null,
           "name": "Verde Energy USA New York LLC",
           "rate": 65.0,
@@ -2358,7 +2358,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "National Grid in Upstate",
-          "created_date": "09/09/2026 08:44:10 AM",
+          "created_date": "09/15/2026 08:42:36 AM",
           "updated_date": null
         },
         {
@@ -2448,7 +2448,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 6,
-      "last_fetched": "2026-09-15T00:20:52.055631Z",
+      "last_fetched": "2026-09-15T16:24:39.424374Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2548,7 +2548,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428623.0",
+          "offer_id": "428825.0",
           "product_name": null,
           "name": "Verde Energy USA New York LLC",
           "rate": 698.05825243,
@@ -2572,7 +2572,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "Orange and Rockland",
-          "created_date": "09/09/2026 08:42:51 AM",
+          "created_date": "09/15/2026 08:42:07 AM",
           "updated_date": null
         },
         {
@@ -2662,7 +2662,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-09-15T00:20:52.055985Z",
+      "last_fetched": "2026-09-15T16:24:39.424679Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2762,7 +2762,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428621.0",
+          "offer_id": "428823.0",
           "product_name": null,
           "name": "Verde Energy USA New York LLC",
           "rate": 799.0,
@@ -2786,7 +2786,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE",
-          "created_date": "09/09/2026 08:42:15 AM",
+          "created_date": "09/15/2026 08:41:56 AM",
           "updated_date": null
         },
         {
@@ -2876,7 +2876,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-09-15T00:20:52.056318Z",
+      "last_fetched": "2026-09-15T16:24:39.424973Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     }
