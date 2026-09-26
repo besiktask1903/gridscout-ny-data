@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T15:55:06.263216Z",
+  "last_updated": "2026-09-26T19:03:41.915507Z",
   "customer_class": "residential",
   "source": "New York State Department of Public Service Power to Choose",
   "source_url": "https://documents.dps.ny.gov/PTC/home",
@@ -720,7 +720,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 25,
-      "last_fetched": "2026-09-26T15:55:06.224895Z",
+      "last_fetched": "2026-09-26T19:03:41.895863Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1522,7 +1522,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 28,
-      "last_fetched": "2026-09-26T15:55:06.225925Z",
+      "last_fetched": "2026-09-26T19:03:41.896398Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2352,7 +2352,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 29,
-      "last_fetched": "2026-09-26T15:55:06.226919Z",
+      "last_fetched": "2026-09-26T19:03:41.896900Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -3070,7 +3070,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 25,
-      "last_fetched": "2026-09-26T15:55:06.229188Z",
+      "last_fetched": "2026-09-26T19:03:41.898015Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -4404,7 +4404,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 47,
-      "last_fetched": "2026-09-26T15:55:06.230773Z",
+      "last_fetched": "2026-09-26T19:03:41.898837Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -5710,7 +5710,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 46,
-      "last_fetched": "2026-09-26T15:55:06.232344Z",
+      "last_fetched": "2026-09-26T19:03:41.899637Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -7128,7 +7128,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 50,
-      "last_fetched": "2026-09-26T15:55:06.233989Z",
+      "last_fetched": "2026-09-26T19:03:41.900509Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -7174,7 +7174,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 1,
-      "last_fetched": "2026-09-26T15:55:06.234949Z",
+      "last_fetched": "2026-09-26T19:03:41.901005Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -7752,7 +7752,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 20,
-      "last_fetched": "2026-09-26T15:55:06.237017Z",
+      "last_fetched": "2026-09-26T19:03:41.902077Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -8750,7 +8750,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-09-26T15:55:06.238268Z",
+      "last_fetched": "2026-09-26T19:03:41.902726Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -9440,7 +9440,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 24,
-      "last_fetched": "2026-09-26T15:55:06.239181Z",
+      "last_fetched": "2026-09-26T19:03:41.903197Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -10326,7 +10326,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-09-26T15:55:06.240301Z",
+      "last_fetched": "2026-09-26T19:03:41.903761Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -11100,7 +11100,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 27,
-      "last_fetched": "2026-09-26T15:55:06.241296Z",
+      "last_fetched": "2026-09-26T19:03:41.904270Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -11958,7 +11958,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 30,
-      "last_fetched": "2026-09-26T15:55:06.242387Z",
+      "last_fetched": "2026-09-26T19:03:41.904826Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -12956,7 +12956,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-09-26T15:55:06.243616Z",
+      "last_fetched": "2026-09-26T19:03:41.905461Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -13842,7 +13842,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-09-26T15:55:06.244739Z",
+      "last_fetched": "2026-09-26T19:03:41.906037Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -14616,7 +14616,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 27,
-      "last_fetched": "2026-09-26T15:55:06.245724Z",
+      "last_fetched": "2026-09-26T19:03:41.906543Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -15278,7 +15278,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 23,
-      "last_fetched": "2026-09-26T15:55:06.246614Z",
+      "last_fetched": "2026-09-26T19:03:41.906996Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -15800,7 +15800,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 18,
-      "last_fetched": "2026-09-26T15:55:06.248612Z",
+      "last_fetched": "2026-09-26T19:03:41.908019Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -16742,7 +16742,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 33,
-      "last_fetched": "2026-09-26T15:55:06.249813Z",
+      "last_fetched": "2026-09-26T19:03:41.908664Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -17572,7 +17572,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 29,
-      "last_fetched": "2026-09-26T15:55:06.250879Z",
+      "last_fetched": "2026-09-26T19:03:41.909227Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -18542,7 +18542,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 34,
-      "last_fetched": "2026-09-26T15:55:06.252075Z",
+      "last_fetched": "2026-09-26T19:03:41.909843Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -19372,7 +19372,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 29,
-      "last_fetched": "2026-09-26T15:55:06.253234Z",
+      "last_fetched": "2026-09-26T19:03:41.910420Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -20230,7 +20230,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 30,
-      "last_fetched": "2026-09-26T15:55:06.254339Z",
+      "last_fetched": "2026-09-26T19:03:41.910987Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -21172,7 +21172,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 33,
-      "last_fetched": "2026-09-26T15:55:06.255531Z",
+      "last_fetched": "2026-09-26T19:03:41.911615Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -22086,7 +22086,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-09-26T15:55:06.257748Z",
+      "last_fetched": "2026-09-26T19:03:41.912725Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -23028,7 +23028,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 33,
-      "last_fetched": "2026-09-26T15:55:06.258834Z",
+      "last_fetched": "2026-09-26T19:03:41.913290Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -24026,7 +24026,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-09-26T15:55:06.259972Z",
+      "last_fetched": "2026-09-26T19:03:41.913871Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -24912,7 +24912,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-09-26T15:55:06.262083Z",
+      "last_fetched": "2026-09-26T19:03:41.914951Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -25882,7 +25882,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 34,
-      "last_fetched": "2026-09-26T15:55:06.263209Z",
+      "last_fetched": "2026-09-26T19:03:41.915506Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     }
