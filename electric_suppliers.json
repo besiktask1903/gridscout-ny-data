@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T00:19:04.591755Z",
+  "last_updated": "2026-09-28T19:19:26.665508Z",
   "customer_class": "residential",
   "source": "New York State Department of Public Service Power to Choose",
   "source_url": "https://documents.dps.ny.gov/PTC/home",
@@ -326,7 +326,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428998.0",
+          "offer_id": "429018.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1449.0,
@@ -350,7 +350,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "09/23/2026 09:51:23 AM",
+          "created_date": "09/28/2026 11:46:00 AM",
           "updated_date": null
         },
         {
@@ -720,7 +720,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 25,
-      "last_fetched": "2026-09-28T00:19:04.570206Z",
+      "last_fetched": "2026-09-28T19:19:26.643819Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1072,7 +1072,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428998.0",
+          "offer_id": "429018.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1449.0,
@@ -1096,7 +1096,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "09/23/2026 09:51:23 AM",
+          "created_date": "09/28/2026 11:46:00 AM",
           "updated_date": null
         },
         {
@@ -1522,7 +1522,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 28,
-      "last_fetched": "2026-09-28T00:19:04.570780Z",
+      "last_fetched": "2026-09-28T19:19:26.644390Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1902,7 +1902,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428998.0",
+          "offer_id": "429018.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1449.0,
@@ -1926,7 +1926,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "09/23/2026 09:51:23 AM",
+          "created_date": "09/28/2026 11:46:00 AM",
           "updated_date": null
         },
         {
@@ -2352,7 +2352,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 29,
-      "last_fetched": "2026-09-28T00:19:04.571328Z",
+      "last_fetched": "2026-09-28T19:19:26.644946Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2872,7 +2872,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428996.0",
+          "offer_id": "429020.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 2199.0,
@@ -2896,7 +2896,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "09/23/2026 09:51:15 AM",
+          "created_date": "09/28/2026 11:46:09 AM",
           "updated_date": null
         },
         {
@@ -3098,7 +3098,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 26,
-      "last_fetched": "2026-09-28T00:19:04.572601Z",
+      "last_fetched": "2026-09-28T19:19:26.646193Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -4122,7 +4122,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428996.0",
+          "offer_id": "429020.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 2199.0,
@@ -4146,7 +4146,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "09/23/2026 09:51:15 AM",
+          "created_date": "09/28/2026 11:46:09 AM",
           "updated_date": null
         },
         {
@@ -4460,7 +4460,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 48,
-      "last_fetched": "2026-09-28T00:19:04.573548Z",
+      "last_fetched": "2026-09-28T19:19:26.647122Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -5456,7 +5456,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428996.0",
+          "offer_id": "429020.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 2199.0,
@@ -5480,7 +5480,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "09/23/2026 09:51:15 AM",
+          "created_date": "09/28/2026 11:46:09 AM",
           "updated_date": null
         },
         {
@@ -5794,7 +5794,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 47,
-      "last_fetched": "2026-09-28T00:19:04.574413Z",
+      "last_fetched": "2026-09-28T19:19:26.648022Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -6874,7 +6874,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428996.0",
+          "offer_id": "429020.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 2199.0,
@@ -6898,7 +6898,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "09/23/2026 09:51:15 AM",
+          "created_date": "09/28/2026 11:46:09 AM",
           "updated_date": null
         },
         {
@@ -7240,7 +7240,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 51,
-      "last_fetched": "2026-09-28T00:19:04.575360Z",
+      "last_fetched": "2026-09-28T19:19:26.648964Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -7286,7 +7286,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 1,
-      "last_fetched": "2026-09-28T00:19:04.575920Z",
+      "last_fetched": "2026-09-28T19:19:26.649518Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -7694,7 +7694,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429001.0",
+          "offer_id": "429015.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1499.0,
@@ -7718,7 +7718,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/23/2026 09:51:36 AM",
+          "created_date": "09/28/2026 11:45:46 AM",
           "updated_date": null
         },
         {
@@ -7864,7 +7864,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 20,
-      "last_fetched": "2026-09-28T00:19:04.577093Z",
+      "last_fetched": "2026-09-28T19:19:26.650672Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -8552,7 +8552,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429001.0",
+          "offer_id": "429015.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1499.0,
@@ -8576,7 +8576,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/23/2026 09:51:36 AM",
+          "created_date": "09/28/2026 11:45:46 AM",
           "updated_date": null
         },
         {
@@ -8862,7 +8862,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-09-28T00:19:04.577789Z",
+      "last_fetched": "2026-09-28T19:19:26.651398Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -9326,7 +9326,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429001.0",
+          "offer_id": "429015.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1499.0,
@@ -9350,7 +9350,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/23/2026 09:51:36 AM",
+          "created_date": "09/28/2026 11:45:46 AM",
           "updated_date": null
         },
         {
@@ -9552,7 +9552,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 24,
-      "last_fetched": "2026-09-28T00:19:04.578302Z",
+      "last_fetched": "2026-09-28T19:19:26.651924Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -10156,7 +10156,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429001.0",
+          "offer_id": "429015.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1499.0,
@@ -10180,7 +10180,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/23/2026 09:51:36 AM",
+          "created_date": "09/28/2026 11:45:46 AM",
           "updated_date": null
         },
         {
@@ -10438,7 +10438,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-09-28T00:19:04.578930Z",
+      "last_fetched": "2026-09-28T19:19:26.652545Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -10958,7 +10958,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429001.0",
+          "offer_id": "429015.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1499.0,
@@ -10982,7 +10982,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/23/2026 09:51:36 AM",
+          "created_date": "09/28/2026 11:45:46 AM",
           "updated_date": null
         },
         {
@@ -11212,7 +11212,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 27,
-      "last_fetched": "2026-09-28T00:19:04.579491Z",
+      "last_fetched": "2026-09-28T19:19:26.653106Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -11760,7 +11760,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429001.0",
+          "offer_id": "429015.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1499.0,
@@ -11784,7 +11784,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/23/2026 09:51:36 AM",
+          "created_date": "09/28/2026 11:45:46 AM",
           "updated_date": null
         },
         {
@@ -12070,7 +12070,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 30,
-      "last_fetched": "2026-09-28T00:19:04.580093Z",
+      "last_fetched": "2026-09-28T19:19:26.653723Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -12618,7 +12618,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429001.0",
+          "offer_id": "429015.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1499.0,
@@ -12642,7 +12642,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/23/2026 09:51:36 AM",
+          "created_date": "09/28/2026 11:45:46 AM",
           "updated_date": null
         },
         {
@@ -13068,7 +13068,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-09-28T00:19:04.580798Z",
+      "last_fetched": "2026-09-28T19:19:26.654403Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -13588,7 +13588,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429001.0",
+          "offer_id": "429015.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1499.0,
@@ -13612,7 +13612,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/23/2026 09:51:36 AM",
+          "created_date": "09/28/2026 11:45:46 AM",
           "updated_date": null
         },
         {
@@ -13954,7 +13954,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-09-28T00:19:04.581441Z",
+      "last_fetched": "2026-09-28T19:19:26.655061Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -14474,7 +14474,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429001.0",
+          "offer_id": "429015.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1499.0,
@@ -14498,7 +14498,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/23/2026 09:51:36 AM",
+          "created_date": "09/28/2026 11:45:46 AM",
           "updated_date": null
         },
         {
@@ -14728,7 +14728,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 27,
-      "last_fetched": "2026-09-28T00:19:04.581988Z",
+      "last_fetched": "2026-09-28T19:19:26.655615Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -15192,7 +15192,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429001.0",
+          "offer_id": "429015.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1499.0,
@@ -15216,7 +15216,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/23/2026 09:51:36 AM",
+          "created_date": "09/28/2026 11:45:46 AM",
           "updated_date": null
         },
         {
@@ -15390,7 +15390,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 23,
-      "last_fetched": "2026-09-28T00:19:04.582496Z",
+      "last_fetched": "2026-09-28T19:19:26.656116Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -15602,7 +15602,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428997.0",
+          "offer_id": "429019.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1449.0,
@@ -15626,7 +15626,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/23/2026 09:51:20 AM",
+          "created_date": "09/28/2026 11:46:05 AM",
           "updated_date": null
         },
         {
@@ -15912,7 +15912,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 18,
-      "last_fetched": "2026-09-28T00:19:04.583605Z",
+      "last_fetched": "2026-09-28T19:19:26.657273Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -16348,7 +16348,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428997.0",
+          "offer_id": "429019.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1449.0,
@@ -16372,7 +16372,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/23/2026 09:51:20 AM",
+          "created_date": "09/28/2026 11:46:05 AM",
           "updated_date": null
         },
         {
@@ -16854,7 +16854,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 33,
-      "last_fetched": "2026-09-28T00:19:04.584255Z",
+      "last_fetched": "2026-09-28T19:19:26.657943Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -17234,7 +17234,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428997.0",
+          "offer_id": "429019.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1449.0,
@@ -17258,7 +17258,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/23/2026 09:51:20 AM",
+          "created_date": "09/28/2026 11:46:05 AM",
           "updated_date": null
         },
         {
@@ -17684,7 +17684,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 29,
-      "last_fetched": "2026-09-28T00:19:04.584868Z",
+      "last_fetched": "2026-09-28T19:19:26.658558Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -18120,7 +18120,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428997.0",
+          "offer_id": "429019.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1449.0,
@@ -18144,7 +18144,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/23/2026 09:51:20 AM",
+          "created_date": "09/28/2026 11:46:05 AM",
           "updated_date": null
         },
         {
@@ -18654,7 +18654,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 34,
-      "last_fetched": "2026-09-28T00:19:04.585581Z",
+      "last_fetched": "2026-09-28T19:19:26.659285Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -19034,7 +19034,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428997.0",
+          "offer_id": "429019.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1449.0,
@@ -19058,7 +19058,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/23/2026 09:51:20 AM",
+          "created_date": "09/28/2026 11:46:05 AM",
           "updated_date": null
         },
         {
@@ -19484,7 +19484,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 29,
-      "last_fetched": "2026-09-28T00:19:04.586190Z",
+      "last_fetched": "2026-09-28T19:19:26.659889Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -19892,7 +19892,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428997.0",
+          "offer_id": "429019.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1449.0,
@@ -19916,7 +19916,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/23/2026 09:51:20 AM",
+          "created_date": "09/28/2026 11:46:05 AM",
           "updated_date": null
         },
         {
@@ -20342,7 +20342,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 30,
-      "last_fetched": "2026-09-28T00:19:04.586812Z",
+      "last_fetched": "2026-09-28T19:19:26.660490Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -20722,7 +20722,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428997.0",
+          "offer_id": "429019.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1449.0,
@@ -20746,7 +20746,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/23/2026 09:51:20 AM",
+          "created_date": "09/28/2026 11:46:05 AM",
           "updated_date": null
         },
         {
@@ -21284,7 +21284,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 33,
-      "last_fetched": "2026-09-28T00:19:04.587449Z",
+      "last_fetched": "2026-09-28T19:19:26.661166Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -21748,7 +21748,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429000.0",
+          "offer_id": "429016.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1549.0,
@@ -21772,7 +21772,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "09/23/2026 09:51:32 AM",
+          "created_date": "09/28/2026 11:45:51 AM",
           "updated_date": null
         },
         {
@@ -22226,7 +22226,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 33,
-      "last_fetched": "2026-09-28T00:19:04.588718Z",
+      "last_fetched": "2026-09-28T19:19:26.662376Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -22718,7 +22718,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429000.0",
+          "offer_id": "429016.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1549.0,
@@ -22742,7 +22742,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "09/23/2026 09:51:32 AM",
+          "created_date": "09/28/2026 11:45:51 AM",
           "updated_date": null
         },
         {
@@ -23196,7 +23196,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 34,
-      "last_fetched": "2026-09-28T00:19:04.589324Z",
+      "last_fetched": "2026-09-28T19:19:26.663007Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -23716,7 +23716,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429000.0",
+          "offer_id": "429016.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1549.0,
@@ -23740,7 +23740,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "09/23/2026 09:51:32 AM",
+          "created_date": "09/28/2026 11:45:51 AM",
           "updated_date": null
         },
         {
@@ -24222,7 +24222,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-09-28T00:19:04.589976Z",
+      "last_fetched": "2026-09-28T19:19:26.663658Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -24574,7 +24574,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428999.0",
+          "offer_id": "429017.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1349.0,
@@ -24598,7 +24598,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in All Zones",
-          "created_date": "09/23/2026 09:51:27 AM",
+          "created_date": "09/28/2026 11:45:55 AM",
           "updated_date": null
         },
         {
@@ -25108,7 +25108,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-09-28T00:19:04.591145Z",
+      "last_fetched": "2026-09-28T19:19:26.664887Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -25516,7 +25516,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428999.0",
+          "offer_id": "429017.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1349.0,
@@ -25540,7 +25540,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in All Zones",
-          "created_date": "09/23/2026 09:51:27 AM",
+          "created_date": "09/28/2026 11:45:55 AM",
           "updated_date": null
         },
         {
@@ -26078,7 +26078,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 34,
-      "last_fetched": "2026-09-28T00:19:04.591752Z",
+      "last_fetched": "2026-09-28T19:19:26.665505Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     }
