@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T01:10:31.482517Z",
+  "last_updated": "2026-09-30T17:41:29.745064Z",
   "customer_class": "residential",
   "source": "New York State Department of Public Service Power to Choose",
   "source_url": "https://documents.dps.ny.gov/PTC/home",
@@ -74,7 +74,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428211.0",
+          "offer_id": "429097.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 1.11553398,
@@ -98,7 +98,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "Central Hudson",
-          "created_date": "09/01/2026 12:21:27 PM",
+          "created_date": "09/29/2026 10:57:26 PM",
           "updated_date": null
         },
         {
@@ -216,7 +216,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-09-30T01:10:31.478162Z",
+      "last_fetched": "2026-09-30T17:41:29.742850Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -288,7 +288,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428216.0",
+          "offer_id": "429098.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 1.191,
@@ -312,35 +312,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Gas Zones",
-          "created_date": "09/01/2026 12:38:58 PM",
-          "updated_date": null
-        },
-        {
-          "offer_id": "428217.0",
-          "product_name": null,
-          "name": "Alpha Gas and Electric, LLC",
-          "rate": 1.191,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "source_rate": 1.191,
-          "source_rate_unit": "therm",
-          "term_months": 24,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Fixed Rate, Free month of energy supply after a year of service, NO Cancellation Fees, see T/C for more info and visit https://alphagasandelectric.com/P2C/ to enroll.",
-          "monthly_fee": null,
-          "website_url": "https://alphagasandelectric.com",
-          "signup_url": "https://alphagasandelectric.com",
-          "phone": null,
-          "renewable": "No",
-          "renewable_percentage": 0.0,
-          "energy_source": null,
-          "guaranteed_savings": "No",
-          "value_added": "Yes",
-          "bundle_required": false,
-          "service_area": null,
-          "source_load_zone": "ConEd in All Gas Zones",
-          "created_date": "09/01/2026 12:38:58 PM",
+          "created_date": "09/29/2026 10:57:30 PM",
           "updated_date": null
         },
         {
@@ -457,8 +429,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 8,
-      "last_fetched": "2026-09-30T01:10:31.478601Z",
+      "count": 7,
+      "last_fetched": "2026-09-30T17:41:29.743071Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -530,7 +502,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428216.0",
+          "offer_id": "429098.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 1.191,
@@ -554,35 +526,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Gas Zones",
-          "created_date": "09/01/2026 12:38:58 PM",
-          "updated_date": null
-        },
-        {
-          "offer_id": "428217.0",
-          "product_name": null,
-          "name": "Alpha Gas and Electric, LLC",
-          "rate": 1.191,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "source_rate": 1.191,
-          "source_rate_unit": "therm",
-          "term_months": 24,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Fixed Rate, Free month of energy supply after a year of service, NO Cancellation Fees, see T/C for more info and visit https://alphagasandelectric.com/P2C/ to enroll.",
-          "monthly_fee": null,
-          "website_url": "https://alphagasandelectric.com",
-          "signup_url": "https://alphagasandelectric.com",
-          "phone": null,
-          "renewable": "No",
-          "renewable_percentage": 0.0,
-          "energy_source": null,
-          "guaranteed_savings": "No",
-          "value_added": "Yes",
-          "bundle_required": false,
-          "service_area": null,
-          "source_load_zone": "ConEd in All Gas Zones",
-          "created_date": "09/01/2026 12:38:58 PM",
+          "created_date": "09/29/2026 10:57:30 PM",
           "updated_date": null
         },
         {
@@ -699,8 +643,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 8,
-      "last_fetched": "2026-09-30T01:10:31.478870Z",
+      "count": 7,
+      "last_fetched": "2026-09-30T17:41:29.743196Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -772,7 +716,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428216.0",
+          "offer_id": "429098.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 1.191,
@@ -796,35 +740,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Gas Zones",
-          "created_date": "09/01/2026 12:38:58 PM",
-          "updated_date": null
-        },
-        {
-          "offer_id": "428217.0",
-          "product_name": null,
-          "name": "Alpha Gas and Electric, LLC",
-          "rate": 1.191,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "source_rate": 1.191,
-          "source_rate_unit": "therm",
-          "term_months": 24,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Fixed Rate, Free month of energy supply after a year of service, NO Cancellation Fees, see T/C for more info and visit https://alphagasandelectric.com/P2C/ to enroll.",
-          "monthly_fee": null,
-          "website_url": "https://alphagasandelectric.com",
-          "signup_url": "https://alphagasandelectric.com",
-          "phone": null,
-          "renewable": "No",
-          "renewable_percentage": 0.0,
-          "energy_source": null,
-          "guaranteed_savings": "No",
-          "value_added": "Yes",
-          "bundle_required": false,
-          "service_area": null,
-          "source_load_zone": "ConEd in All Gas Zones",
-          "created_date": "09/01/2026 12:38:58 PM",
+          "created_date": "09/29/2026 10:57:30 PM",
           "updated_date": null
         },
         {
@@ -913,8 +829,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 7,
-      "last_fetched": "2026-09-30T01:10:31.479171Z",
+      "count": 6,
+      "last_fetched": "2026-09-30T17:41:29.743312Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -930,7 +846,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "428213.0",
+          "offer_id": "429099.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 1.15533981,
@@ -954,7 +870,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "National Fuel",
-          "created_date": "09/01/2026 12:21:35 PM",
+          "created_date": "09/29/2026 10:57:35 PM",
           "updated_date": null
         },
         {
@@ -1100,7 +1016,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 6,
-      "last_fetched": "2026-09-30T01:10:31.479555Z",
+      "last_fetched": "2026-09-30T17:41:29.743519Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1116,7 +1032,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "428218.0",
+          "offer_id": "429101.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 69.0,
@@ -1140,7 +1056,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "09/01/2026 12:39:04 PM",
+          "created_date": "09/29/2026 10:57:46 PM",
           "updated_date": null
         },
         {
@@ -1286,7 +1202,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 6,
-      "last_fetched": "2026-09-30T01:10:31.479963Z",
+      "last_fetched": "2026-09-30T17:41:29.743740Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1302,7 +1218,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "428218.0",
+          "offer_id": "429101.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 69.0,
@@ -1326,7 +1242,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "09/01/2026 12:39:04 PM",
+          "created_date": "09/29/2026 10:57:46 PM",
           "updated_date": null
         },
         {
@@ -1472,7 +1388,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 6,
-      "last_fetched": "2026-09-30T01:10:31.480226Z",
+      "last_fetched": "2026-09-30T17:41:29.743864Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1488,7 +1404,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "428218.0",
+          "offer_id": "429101.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 69.0,
@@ -1512,7 +1428,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "09/01/2026 12:39:04 PM",
+          "created_date": "09/29/2026 10:57:46 PM",
           "updated_date": null
         },
         {
@@ -1658,7 +1574,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 6,
-      "last_fetched": "2026-09-30T01:10:31.480462Z",
+      "last_fetched": "2026-09-30T17:41:29.743987Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1674,7 +1590,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "428218.0",
+          "offer_id": "429101.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 69.0,
@@ -1698,7 +1614,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "09/01/2026 12:39:04 PM",
+          "created_date": "09/29/2026 10:57:46 PM",
           "updated_date": null
         },
         {
@@ -1844,7 +1760,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 6,
-      "last_fetched": "2026-09-30T01:10:31.480692Z",
+      "last_fetched": "2026-09-30T17:41:29.744109Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1860,7 +1776,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "428218.0",
+          "offer_id": "429101.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 69.0,
@@ -1884,7 +1800,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "09/01/2026 12:39:04 PM",
+          "created_date": "09/29/2026 10:57:46 PM",
           "updated_date": null
         },
         {
@@ -2002,7 +1918,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 5,
-      "last_fetched": "2026-09-30T01:10:31.480881Z",
+      "last_fetched": "2026-09-30T17:41:29.744210Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2132,7 +2048,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 4,
-      "last_fetched": "2026-09-30T01:10:31.481256Z",
+      "last_fetched": "2026-09-30T17:41:29.744425Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2232,7 +2148,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428212.0",
+          "offer_id": "429100.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 99.0,
@@ -2256,13 +2172,13 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "National Grid in Metro",
-          "created_date": "09/01/2026 12:21:31 PM",
+          "created_date": "09/29/2026 10:57:41 PM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 4,
-      "last_fetched": "2026-09-30T01:10:31.481443Z",
+      "last_fetched": "2026-09-30T17:41:29.744521Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2448,7 +2364,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 6,
-      "last_fetched": "2026-09-30T01:10:31.481678Z",
+      "last_fetched": "2026-09-30T17:41:29.744647Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2492,7 +2408,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428219.0",
+          "offer_id": "429102.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 1.10582524,
@@ -2516,7 +2432,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "Orange and Rockland",
-          "created_date": "09/01/2026 12:39:10 PM",
+          "created_date": "09/29/2026 10:57:52 PM",
           "updated_date": null
         },
         {
@@ -2662,7 +2578,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-09-30T01:10:31.482113Z",
+      "last_fetched": "2026-09-30T17:41:29.744869Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2706,7 +2622,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428214.0",
+          "offer_id": "429103.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 99.0,
@@ -2730,35 +2646,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE",
-          "created_date": "09/01/2026 12:37:55 PM",
-          "updated_date": null
-        },
-        {
-          "offer_id": "428215.0",
-          "product_name": null,
-          "name": "Alpha Gas and Electric, LLC",
-          "rate": 99.0,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "source_rate": 99.0,
-          "source_rate_unit": "therm",
-          "term_months": 24,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Fixed Rate, Free month of energy supply after a year of service, NO Cancellation Fees, see T/C for more info and visit https://alphagasandelectric.com/P2C/ to enroll.",
-          "monthly_fee": null,
-          "website_url": "https://alphagasandelectric.com",
-          "signup_url": "https://alphagasandelectric.com",
-          "phone": null,
-          "renewable": "No",
-          "renewable_percentage": 0.0,
-          "energy_source": null,
-          "guaranteed_savings": "No",
-          "value_added": "Yes",
-          "bundle_required": false,
-          "service_area": null,
-          "source_load_zone": "RGE",
-          "created_date": "09/01/2026 12:37:55 PM",
+          "created_date": "09/29/2026 10:57:56 PM",
           "updated_date": null
         },
         {
@@ -2875,8 +2763,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 7,
-      "last_fetched": "2026-09-30T01:10:31.482513Z",
+      "count": 6,
+      "last_fetched": "2026-09-30T17:41:29.745062Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     }
