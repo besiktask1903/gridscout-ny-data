@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T04:37:50.579413Z",
+  "last_updated": "2026-10-07T18:31:00.996684Z",
   "customer_class": "residential",
   "source": "New York State Department of Public Service Power to Choose",
   "source_url": "https://documents.dps.ny.gov/PTC/home",
@@ -692,7 +692,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 24,
-      "last_fetched": "2026-10-07T04:37:50.540730Z",
+      "last_fetched": "2026-10-07T18:31:00.969714Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1296,7 +1296,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428497.0",
+          "offer_id": "429514.0",
           "product_name": null,
           "name": "American Power & Gas, LLC",
           "rate": 1769.0,
@@ -1320,7 +1320,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in Zone E",
-          "created_date": "09/08/2026 09:11:30 AM",
+          "created_date": "10/07/2026 10:43:49 AM",
           "updated_date": null
         },
         {
@@ -1466,7 +1466,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 27,
-      "last_fetched": "2026-10-07T04:37:50.541694Z",
+      "last_fetched": "2026-10-07T18:31:00.970228Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2098,7 +2098,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428501.0",
+          "offer_id": "429512.0",
           "product_name": null,
           "name": "American Power & Gas, LLC",
           "rate": 1769.0,
@@ -2122,7 +2122,35 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in Zone G",
-          "created_date": "09/08/2026 09:11:58 AM",
+          "created_date": "10/07/2026 10:43:34 AM",
+          "updated_date": null
+        },
+        {
+          "offer_id": "429549.0",
+          "product_name": null,
+          "name": "American Power & Gas, LLC",
+          "rate": 1769.0,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "source_rate": 1769.0,
+          "source_rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://americanpowerandgas.com/?page=1",
+          "signup_url": "https://americanpowerandgas.com/?page=1",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 0.5,
+          "energy_source": "Hydroelectric,Solar,Tidal - Ocean,Wind",
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "CHGE in Zone G",
+          "created_date": "10/07/2026 11:09:49 AM",
           "updated_date": null
         },
         {
@@ -2267,8 +2295,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 28,
-      "last_fetched": "2026-10-07T04:37:50.542668Z",
+      "count": 29,
+      "last_fetched": "2026-10-07T18:31:00.970745Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2283,34 +2311,6 @@
       "ptc_previous_date": null,
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
-        {
-          "offer_id": "428535.0",
-          "product_name": null,
-          "name": "Brown's Energy Services, LLC",
-          "rate": 2.0,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "source_rate": 2.0,
-          "source_rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "http://www.brownsfuel.com",
-          "signup_url": "http://www.brownsfuel.com",
-          "phone": null,
-          "renewable": "Yes",
-          "renewable_percentage": 0.5,
-          "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
-          "guaranteed_savings": "No",
-          "value_added": "Yes",
-          "bundle_required": false,
-          "service_area": null,
-          "source_load_zone": "ConEd in All Zones",
-          "created_date": "09/08/2026 02:02:24 PM",
-          "updated_date": null
-        },
         {
           "offer_id": "429238.0",
           "product_name": null,
@@ -2337,6 +2337,34 @@
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
           "created_date": "10/01/2026 10:05:05 AM",
+          "updated_date": null
+        },
+        {
+          "offer_id": "429554.0",
+          "product_name": null,
+          "name": "Brown's Energy Services, LLC",
+          "rate": 165.0,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "source_rate": 165.0,
+          "source_rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "http://www.brownsfuel.com",
+          "signup_url": "http://www.brownsfuel.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 0.5,
+          "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
+          "guaranteed_savings": "No",
+          "value_added": "Yes",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "ConEd in All Zones",
+          "created_date": "10/07/2026 01:09:09 PM",
           "updated_date": null
         },
         {
@@ -2986,7 +3014,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 25,
-      "last_fetched": "2026-10-07T04:37:50.544852Z",
+      "last_fetched": "2026-10-07T18:31:00.971883Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -3027,34 +3055,6 @@
           "service_area": null,
           "source_load_zone": "ConEd in Zone H",
           "created_date": "10/01/2026 09:21:29 AM",
-          "updated_date": null
-        },
-        {
-          "offer_id": "428535.0",
-          "product_name": null,
-          "name": "Brown's Energy Services, LLC",
-          "rate": 2.0,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "source_rate": 2.0,
-          "source_rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "http://www.brownsfuel.com",
-          "signup_url": "http://www.brownsfuel.com",
-          "phone": null,
-          "renewable": "Yes",
-          "renewable_percentage": 0.5,
-          "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
-          "guaranteed_savings": "No",
-          "value_added": "Yes",
-          "bundle_required": false,
-          "service_area": null,
-          "source_load_zone": "ConEd in All Zones",
-          "created_date": "09/08/2026 02:02:24 PM",
           "updated_date": null
         },
         {
@@ -3111,6 +3111,34 @@
           "service_area": null,
           "source_load_zone": "ConEd in Zone H",
           "created_date": "10/02/2026 03:42:54 PM",
+          "updated_date": null
+        },
+        {
+          "offer_id": "429554.0",
+          "product_name": null,
+          "name": "Brown's Energy Services, LLC",
+          "rate": 165.0,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "source_rate": 165.0,
+          "source_rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "http://www.brownsfuel.com",
+          "signup_url": "http://www.brownsfuel.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 0.5,
+          "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
+          "guaranteed_savings": "No",
+          "value_added": "Yes",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "ConEd in All Zones",
+          "created_date": "10/07/2026 01:09:09 PM",
           "updated_date": null
         },
         {
@@ -3954,7 +3982,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428423.0",
+          "offer_id": "429531.0",
           "product_name": null,
           "name": "American Power & Gas, LLC",
           "rate": 2089.0,
@@ -3978,7 +4006,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in Zone H",
-          "created_date": "09/08/2026 08:58:14 AM",
+          "created_date": "10/07/2026 11:07:01 AM",
           "updated_date": null
         },
         {
@@ -4320,7 +4348,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 47,
-      "last_fetched": "2026-10-07T04:37:50.546460Z",
+      "last_fetched": "2026-10-07T18:31:00.972710Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -4364,34 +4392,6 @@
           "updated_date": null
         },
         {
-          "offer_id": "428535.0",
-          "product_name": null,
-          "name": "Brown's Energy Services, LLC",
-          "rate": 2.0,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "source_rate": 2.0,
-          "source_rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "http://www.brownsfuel.com",
-          "signup_url": "http://www.brownsfuel.com",
-          "phone": null,
-          "renewable": "Yes",
-          "renewable_percentage": 0.5,
-          "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
-          "guaranteed_savings": "No",
-          "value_added": "Yes",
-          "bundle_required": false,
-          "service_area": null,
-          "source_load_zone": "ConEd in All Zones",
-          "created_date": "09/08/2026 02:02:24 PM",
-          "updated_date": null
-        },
-        {
           "offer_id": "429238.0",
           "product_name": null,
           "name": "Greenlight Energy Inc.",
@@ -4417,6 +4417,34 @@
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
           "created_date": "10/01/2026 10:05:05 AM",
+          "updated_date": null
+        },
+        {
+          "offer_id": "429554.0",
+          "product_name": null,
+          "name": "Brown's Energy Services, LLC",
+          "rate": 165.0,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "source_rate": 165.0,
+          "source_rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "http://www.brownsfuel.com",
+          "signup_url": "http://www.brownsfuel.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 0.5,
+          "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
+          "guaranteed_savings": "No",
+          "value_added": "Yes",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "ConEd in All Zones",
+          "created_date": "10/07/2026 01:09:09 PM",
           "updated_date": null
         },
         {
@@ -5260,7 +5288,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428435.0",
+          "offer_id": "429537.0",
           "product_name": null,
           "name": "American Power & Gas, LLC",
           "rate": 2089.0,
@@ -5284,7 +5312,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in Zone I",
-          "created_date": "09/08/2026 09:02:25 AM",
+          "created_date": "10/07/2026 11:07:41 AM",
           "updated_date": null
         },
         {
@@ -5626,7 +5654,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 46,
-      "last_fetched": "2026-10-07T04:37:50.548000Z",
+      "last_fetched": "2026-10-07T18:31:00.973519Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -5726,34 +5754,6 @@
           "updated_date": null
         },
         {
-          "offer_id": "428535.0",
-          "product_name": null,
-          "name": "Brown's Energy Services, LLC",
-          "rate": 2.0,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "source_rate": 2.0,
-          "source_rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "http://www.brownsfuel.com",
-          "signup_url": "http://www.brownsfuel.com",
-          "phone": null,
-          "renewable": "Yes",
-          "renewable_percentage": 0.5,
-          "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
-          "guaranteed_savings": "No",
-          "value_added": "Yes",
-          "bundle_required": false,
-          "service_area": null,
-          "source_load_zone": "ConEd in All Zones",
-          "created_date": "09/08/2026 02:02:24 PM",
-          "updated_date": null
-        },
-        {
           "offer_id": "429238.0",
           "product_name": null,
           "name": "Greenlight Energy Inc.",
@@ -5782,31 +5782,31 @@
           "updated_date": null
         },
         {
-          "offer_id": "428227.0",
+          "offer_id": "429554.0",
           "product_name": null,
-          "name": "Quantum Power Corp.",
-          "rate": 149.0,
-          "rate_type": "Fixed",
+          "name": "Brown's Energy Services, LLC",
+          "rate": 165.0,
+          "rate_type": "Variable",
           "rate_unit": "kWh",
-          "source_rate": 149.0,
+          "source_rate": 165.0,
           "source_rate_unit": "kWh",
-          "term_months": 12,
+          "term_months": 1,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "Minimum usage of 500 kwh per month is needed and for non electric heating accounts",
+          "promotional_details": null,
           "monthly_fee": null,
-          "website_url": "http://www.quantumpowercorp.com",
-          "signup_url": "http://www.quantumpowercorp.com",
+          "website_url": "http://www.brownsfuel.com",
+          "signup_url": "http://www.brownsfuel.com",
           "phone": null,
-          "renewable": "No",
-          "renewable_percentage": 0.0,
-          "energy_source": null,
+          "renewable": "Yes",
+          "renewable_percentage": 0.5,
+          "energy_source": "Fuel Cells,Hydroelectric,Solar,Tidal - Ocean,Wind",
           "guaranteed_savings": "No",
-          "value_added": "No",
+          "value_added": "Yes",
           "bundle_required": false,
           "service_area": null,
-          "source_load_zone": "ConEd in Zone J",
-          "created_date": "09/01/2026 02:32:39 PM",
+          "source_load_zone": "ConEd in All Zones",
+          "created_date": "10/07/2026 01:09:09 PM",
           "updated_date": null
         },
         {
@@ -6650,7 +6650,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428439.0",
+          "offer_id": "429528.0",
           "product_name": null,
           "name": "American Power & Gas, LLC",
           "rate": 2089.0,
@@ -6674,7 +6674,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in Zone J",
-          "created_date": "09/08/2026 09:03:13 AM",
+          "created_date": "10/07/2026 10:53:06 AM",
           "updated_date": null
         },
         {
@@ -7071,8 +7071,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 51,
-      "last_fetched": "2026-10-07T04:37:50.549733Z",
+      "count": 50,
+      "last_fetched": "2026-10-07T18:31:00.974389Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -7118,7 +7118,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 1,
-      "last_fetched": "2026-10-07T04:37:50.550711Z",
+      "last_fetched": "2026-10-07T18:31:00.974898Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -7696,7 +7696,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 20,
-      "last_fetched": "2026-10-07T04:37:50.552769Z",
+      "last_fetched": "2026-10-07T18:31:00.975977Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -8552,7 +8552,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428467.0",
+          "offer_id": "429540.0",
           "product_name": null,
           "name": "American Power & Gas, LLC",
           "rate": 1719.0,
@@ -8576,7 +8576,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone A",
-          "created_date": "09/08/2026 09:07:30 AM",
+          "created_date": "10/07/2026 11:08:26 AM",
           "updated_date": null
         },
         {
@@ -8694,7 +8694,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-10-07T04:37:50.554027Z",
+      "last_fetched": "2026-10-07T18:31:00.976627Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -9384,7 +9384,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 24,
-      "last_fetched": "2026-10-07T04:37:50.554952Z",
+      "last_fetched": "2026-10-07T18:31:00.977105Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -10128,7 +10128,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428473.0",
+          "offer_id": "429543.0",
           "product_name": null,
           "name": "American Power & Gas, LLC",
           "rate": 1719.0,
@@ -10152,7 +10152,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone C",
-          "created_date": "09/08/2026 09:08:25 AM",
+          "created_date": "10/07/2026 11:08:48 AM",
           "updated_date": null
         },
         {
@@ -10270,7 +10270,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-10-07T04:37:50.556060Z",
+      "last_fetched": "2026-10-07T18:31:00.977669Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -10902,7 +10902,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428475.0",
+          "offer_id": "429526.0",
           "product_name": null,
           "name": "American Power & Gas, LLC",
           "rate": 1719.0,
@@ -10926,7 +10926,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone D",
-          "created_date": "09/08/2026 09:08:47 AM",
+          "created_date": "10/07/2026 10:52:37 AM",
           "updated_date": null
         },
         {
@@ -11044,7 +11044,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 27,
-      "last_fetched": "2026-10-07T04:37:50.557052Z",
+      "last_fetched": "2026-10-07T18:31:00.978181Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -11760,7 +11760,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428479.0",
+          "offer_id": "429545.0",
           "product_name": null,
           "name": "American Power & Gas, LLC",
           "rate": 1719.0,
@@ -11784,7 +11784,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone E",
-          "created_date": "09/08/2026 09:09:19 AM",
+          "created_date": "10/07/2026 11:09:15 AM",
           "updated_date": null
         },
         {
@@ -11902,7 +11902,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 30,
-      "last_fetched": "2026-10-07T04:37:50.558179Z",
+      "last_fetched": "2026-10-07T18:31:00.978750Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -12758,7 +12758,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428429.0",
+          "offer_id": "429519.0",
           "product_name": null,
           "name": "American Power & Gas, LLC",
           "rate": 1719.0,
@@ -12782,7 +12782,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone F",
-          "created_date": "09/08/2026 09:00:49 AM",
+          "created_date": "10/07/2026 10:46:28 AM",
           "updated_date": null
         },
         {
@@ -12900,7 +12900,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-10-07T04:37:50.559420Z",
+      "last_fetched": "2026-10-07T18:31:00.979384Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -13588,7 +13588,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428485.0",
+          "offer_id": "429550.0",
           "product_name": null,
           "name": "American Power & Gas, LLC",
           "rate": 1719.0,
@@ -13612,7 +13612,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone G",
-          "created_date": "09/08/2026 09:10:11 AM",
+          "created_date": "10/07/2026 11:09:54 AM",
           "updated_date": null
         },
         {
@@ -13786,7 +13786,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-10-07T04:37:50.560556Z",
+      "last_fetched": "2026-10-07T18:31:00.979968Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -14418,7 +14418,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428487.0",
+          "offer_id": "429530.0",
           "product_name": null,
           "name": "American Power & Gas, LLC",
           "rate": 1719.0,
@@ -14442,7 +14442,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in Zone H",
-          "created_date": "09/08/2026 09:10:29 AM",
+          "created_date": "10/07/2026 11:06:57 AM",
           "updated_date": null
         },
         {
@@ -14560,7 +14560,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 27,
-      "last_fetched": "2026-10-07T04:37:50.561562Z",
+      "last_fetched": "2026-10-07T18:31:00.980473Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -15222,7 +15222,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 23,
-      "last_fetched": "2026-10-07T04:37:50.562459Z",
+      "last_fetched": "2026-10-07T18:31:00.981194Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -15744,7 +15744,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 18,
-      "last_fetched": "2026-10-07T04:37:50.564477Z",
+      "last_fetched": "2026-10-07T18:31:00.982916Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -16488,7 +16488,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428443.0",
+          "offer_id": "429534.0",
           "product_name": null,
           "name": "American Power & Gas, LLC",
           "rate": 1779.0,
@@ -16512,7 +16512,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in Zone A",
-          "created_date": "09/08/2026 09:03:55 AM",
+          "created_date": "10/07/2026 11:07:22 AM",
           "updated_date": null
         },
         {
@@ -16686,7 +16686,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 33,
-      "last_fetched": "2026-10-07T04:37:50.565660Z",
+      "last_fetched": "2026-10-07T18:31:00.983978Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -17318,7 +17318,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428447.0",
+          "offer_id": "429532.0",
           "product_name": null,
           "name": "American Power & Gas, LLC",
           "rate": 1779.0,
@@ -17342,7 +17342,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in Zone B",
-          "created_date": "09/08/2026 09:04:35 AM",
+          "created_date": "10/07/2026 11:07:08 AM",
           "updated_date": null
         },
         {
@@ -17516,7 +17516,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 29,
-      "last_fetched": "2026-10-07T04:37:50.566735Z",
+      "last_fetched": "2026-10-07T18:31:00.984945Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -18288,7 +18288,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428451.0",
+          "offer_id": "429517.0",
           "product_name": null,
           "name": "American Power & Gas, LLC",
           "rate": 1779.0,
@@ -18312,7 +18312,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in Zone C",
-          "created_date": "09/08/2026 09:05:13 AM",
+          "created_date": "10/07/2026 10:45:12 AM",
           "updated_date": null
         },
         {
@@ -18486,7 +18486,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 34,
-      "last_fetched": "2026-10-07T04:37:50.567947Z",
+      "last_fetched": "2026-10-07T18:31:00.986024Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -19118,7 +19118,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428457.0",
+          "offer_id": "429539.0",
           "product_name": null,
           "name": "American Power & Gas, LLC",
           "rate": 1779.0,
@@ -19142,7 +19142,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in Zone D",
-          "created_date": "09/08/2026 09:06:05 AM",
+          "created_date": "10/07/2026 11:08:03 AM",
           "updated_date": null
         },
         {
@@ -19316,7 +19316,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 29,
-      "last_fetched": "2026-10-07T04:37:50.569096Z",
+      "last_fetched": "2026-10-07T18:31:00.987058Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -19976,7 +19976,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428461.0",
+          "offer_id": "429525.0",
           "product_name": null,
           "name": "American Power & Gas, LLC",
           "rate": 1779.0,
@@ -20000,7 +20000,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in Zone E",
-          "created_date": "09/08/2026 09:06:41 AM",
+          "created_date": "10/07/2026 10:52:31 AM",
           "updated_date": null
         },
         {
@@ -20174,7 +20174,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 30,
-      "last_fetched": "2026-10-07T04:37:50.570221Z",
+      "last_fetched": "2026-10-07T18:31:00.988058Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -20918,7 +20918,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428463.0",
+          "offer_id": "429524.0",
           "product_name": null,
           "name": "American Power & Gas, LLC",
           "rate": 1779.0,
@@ -20942,7 +20942,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in Zone F",
-          "created_date": "09/08/2026 09:06:56 AM",
+          "created_date": "10/07/2026 10:52:11 AM",
           "updated_date": null
         },
         {
@@ -21116,7 +21116,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 33,
-      "last_fetched": "2026-10-07T04:37:50.571422Z",
+      "last_fetched": "2026-10-07T18:31:00.989155Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -22058,7 +22058,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 33,
-      "last_fetched": "2026-10-07T04:37:50.573635Z",
+      "last_fetched": "2026-10-07T18:31:00.991585Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -23028,7 +23028,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 34,
-      "last_fetched": "2026-10-07T04:37:50.574820Z",
+      "last_fetched": "2026-10-07T18:31:00.992623Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -23772,7 +23772,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428490.0",
+          "offer_id": "429516.0",
           "product_name": null,
           "name": "American Power & Gas, LLC",
           "rate": 1769.0,
@@ -23796,7 +23796,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in Zone G",
-          "created_date": "09/08/2026 09:10:45 AM",
+          "created_date": "10/07/2026 10:45:07 AM",
           "updated_date": null
         },
         {
@@ -24054,7 +24054,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-10-07T04:37:50.576236Z",
+      "last_fetched": "2026-10-07T18:31:00.993689Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -24940,7 +24940,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-10-07T04:37:50.578313Z",
+      "last_fetched": "2026-10-07T18:31:00.995676Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -25740,7 +25740,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "428492.0",
+          "offer_id": "429522.0",
           "product_name": null,
           "name": "American Power & Gas, LLC",
           "rate": 1729.0,
@@ -25764,7 +25764,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in Zone B",
-          "created_date": "09/08/2026 09:11:00 AM",
+          "created_date": "10/07/2026 10:51:58 AM",
           "updated_date": null
         },
         {
@@ -25910,7 +25910,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 34,
-      "last_fetched": "2026-10-07T04:37:50.579408Z",
+      "last_fetched": "2026-10-07T18:31:00.996675Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     }
