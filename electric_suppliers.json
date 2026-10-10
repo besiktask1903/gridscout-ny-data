@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10T04:37:10.001765Z",
+  "last_updated": "2026-10-10T17:03:01.821452Z",
   "customer_class": "residential",
   "source": "New York State Department of Public Service Power to Choose",
   "source_url": "https://documents.dps.ny.gov/PTC/home",
@@ -354,7 +354,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429018.0",
+          "offer_id": "429589.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1449.0,
@@ -378,7 +378,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "09/28/2026 11:46:00 AM",
+          "created_date": "10/10/2026 09:07:10 AM",
           "updated_date": null
         },
         {
@@ -660,39 +660,11 @@
           "source_load_zone": "CHGE in All Zones",
           "created_date": "10/06/2026 10:52:59 PM",
           "updated_date": null
-        },
-        {
-          "offer_id": "428395.0",
-          "product_name": null,
-          "name": "Pure Energy",
-          "rate": 39999.0,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "source_rate": 39999.0,
-          "source_rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Pure Energy USA, LLC offers 100% Renewable Energy.",
-          "monthly_fee": null,
-          "website_url": "http://www.pureenergyus.com",
-          "signup_url": "http://www.pureenergyus.com",
-          "phone": null,
-          "renewable": "Yes",
-          "renewable_percentage": 1.0,
-          "energy_source": "Hydroelectric,Solar,Wind",
-          "guaranteed_savings": "No",
-          "value_added": "No",
-          "bundle_required": false,
-          "service_area": null,
-          "source_load_zone": "CHGE in All Zones",
-          "created_date": "09/04/2026 12:28:29 PM",
-          "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
-      "count": 24,
-      "last_fetched": "2026-10-10T04:37:09.943647Z",
+      "count": 23,
+      "last_fetched": "2026-10-10T17:03:01.784039Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1072,7 +1044,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429018.0",
+          "offer_id": "429589.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1449.0,
@@ -1096,7 +1068,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "09/28/2026 11:46:00 AM",
+          "created_date": "10/10/2026 09:07:10 AM",
           "updated_date": null
         },
         {
@@ -1434,39 +1406,11 @@
           "source_load_zone": "CHGE in All Zones",
           "created_date": "10/06/2026 10:52:59 PM",
           "updated_date": null
-        },
-        {
-          "offer_id": "428395.0",
-          "product_name": null,
-          "name": "Pure Energy",
-          "rate": 39999.0,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "source_rate": 39999.0,
-          "source_rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Pure Energy USA, LLC offers 100% Renewable Energy.",
-          "monthly_fee": null,
-          "website_url": "http://www.pureenergyus.com",
-          "signup_url": "http://www.pureenergyus.com",
-          "phone": null,
-          "renewable": "Yes",
-          "renewable_percentage": 1.0,
-          "energy_source": "Hydroelectric,Solar,Wind",
-          "guaranteed_savings": "No",
-          "value_added": "No",
-          "bundle_required": false,
-          "service_area": null,
-          "source_load_zone": "CHGE in All Zones",
-          "created_date": "09/04/2026 12:28:29 PM",
-          "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
-      "count": 27,
-      "last_fetched": "2026-10-10T04:37:09.945249Z",
+      "count": 26,
+      "last_fetched": "2026-10-10T17:03:01.784937Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1874,7 +1818,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429018.0",
+          "offer_id": "429589.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1449.0,
@@ -1898,7 +1842,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "09/28/2026 11:46:00 AM",
+          "created_date": "10/10/2026 09:07:10 AM",
           "updated_date": null
         },
         {
@@ -2264,39 +2208,11 @@
           "source_load_zone": "CHGE in All Zones",
           "created_date": "10/06/2026 10:52:59 PM",
           "updated_date": null
-        },
-        {
-          "offer_id": "428395.0",
-          "product_name": null,
-          "name": "Pure Energy",
-          "rate": 39999.0,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "source_rate": 39999.0,
-          "source_rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Pure Energy USA, LLC offers 100% Renewable Energy.",
-          "monthly_fee": null,
-          "website_url": "http://www.pureenergyus.com",
-          "signup_url": "http://www.pureenergyus.com",
-          "phone": null,
-          "renewable": "Yes",
-          "renewable_percentage": 1.0,
-          "energy_source": "Hydroelectric,Solar,Wind",
-          "guaranteed_savings": "No",
-          "value_added": "No",
-          "bundle_required": false,
-          "service_area": null,
-          "source_load_zone": "CHGE in All Zones",
-          "created_date": "09/04/2026 12:28:29 PM",
-          "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
-      "count": 29,
-      "last_fetched": "2026-10-10T04:37:09.946858Z",
+      "count": 28,
+      "last_fetched": "2026-10-10T17:03:01.785872Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2788,7 +2704,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429020.0",
+          "offer_id": "429587.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 2199.0,
@@ -2812,7 +2728,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "09/28/2026 11:46:09 AM",
+          "created_date": "10/10/2026 09:07:01 AM",
           "updated_date": null
         },
         {
@@ -3014,7 +2930,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 25,
-      "last_fetched": "2026-10-10T04:37:09.950353Z",
+      "last_fetched": "2026-10-10T17:03:01.788300Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -4010,7 +3926,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429020.0",
+          "offer_id": "429587.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 2199.0,
@@ -4034,7 +3950,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "09/28/2026 11:46:09 AM",
+          "created_date": "10/10/2026 09:07:01 AM",
           "updated_date": null
         },
         {
@@ -4122,34 +4038,6 @@
           "updated_date": null
         },
         {
-          "offer_id": "428421.0",
-          "product_name": null,
-          "name": "All American Power and Gas, LLC.",
-          "rate": 39999.0,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "source_rate": 39999.0,
-          "source_rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "All American Power &amp; Gas, LLC offers 100% Renewable Energy.",
-          "monthly_fee": null,
-          "website_url": "http://aapandg.com",
-          "signup_url": "http://aapandg.com",
-          "phone": null,
-          "renewable": "Yes",
-          "renewable_percentage": 1.0,
-          "energy_source": "Hydroelectric,Solar,Wind",
-          "guaranteed_savings": "No",
-          "value_added": "No",
-          "bundle_required": false,
-          "service_area": null,
-          "source_load_zone": "ConEd in Zone H",
-          "created_date": "09/04/2026 02:20:39 PM",
-          "updated_date": null
-        },
-        {
           "offer_id": "428580.0",
           "product_name": null,
           "name": "Power Up Energy, LLC",
@@ -4175,34 +4063,6 @@
           "service_area": null,
           "source_load_zone": "ConEd in Zone H",
           "created_date": "09/08/2026 04:36:14 PM",
-          "updated_date": null
-        },
-        {
-          "offer_id": "428392.0",
-          "product_name": null,
-          "name": "Pure Energy",
-          "rate": 39999.0,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "source_rate": 39999.0,
-          "source_rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Pure Energy USA, LLC offers 100% Renewable Energy.",
-          "monthly_fee": null,
-          "website_url": "http://www.pureenergyus.com",
-          "signup_url": "http://www.pureenergyus.com",
-          "phone": null,
-          "renewable": "Yes",
-          "renewable_percentage": 1.0,
-          "energy_source": "Hydroelectric,Solar,Wind",
-          "guaranteed_savings": "No",
-          "value_added": "No",
-          "bundle_required": false,
-          "service_area": null,
-          "source_load_zone": "ConEd in Zone H",
-          "created_date": "09/04/2026 12:28:17 PM",
           "updated_date": null
         },
         {
@@ -4347,8 +4207,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 47,
-      "last_fetched": "2026-10-10T04:37:09.952983Z",
+      "count": 45,
+      "last_fetched": "2026-10-10T17:03:01.789831Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -5316,7 +5176,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429020.0",
+          "offer_id": "429587.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 2199.0,
@@ -5340,7 +5200,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "09/28/2026 11:46:09 AM",
+          "created_date": "10/10/2026 09:07:01 AM",
           "updated_date": null
         },
         {
@@ -5428,34 +5288,6 @@
           "updated_date": null
         },
         {
-          "offer_id": "428420.0",
-          "product_name": null,
-          "name": "All American Power and Gas, LLC.",
-          "rate": 39999.0,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "source_rate": 39999.0,
-          "source_rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "All American Power &amp; Gas, LLC offers 100% Renewable Energy.",
-          "monthly_fee": null,
-          "website_url": "http://aapandg.com",
-          "signup_url": "http://aapandg.com",
-          "phone": null,
-          "renewable": "Yes",
-          "renewable_percentage": 1.0,
-          "energy_source": "Hydroelectric,Solar,Wind",
-          "guaranteed_savings": "No",
-          "value_added": "No",
-          "bundle_required": false,
-          "service_area": null,
-          "source_load_zone": "ConEd in Zone I",
-          "created_date": "09/04/2026 02:20:36 PM",
-          "updated_date": null
-        },
-        {
           "offer_id": "428579.0",
           "product_name": null,
           "name": "Power Up Energy, LLC",
@@ -5481,34 +5313,6 @@
           "service_area": null,
           "source_load_zone": "ConEd in Zone I",
           "created_date": "09/08/2026 04:36:04 PM",
-          "updated_date": null
-        },
-        {
-          "offer_id": "428393.0",
-          "product_name": null,
-          "name": "Pure Energy",
-          "rate": 39999.0,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "source_rate": 39999.0,
-          "source_rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Pure Energy USA, LLC offers 100% Renewable Energy.",
-          "monthly_fee": null,
-          "website_url": "http://www.pureenergyus.com",
-          "signup_url": "http://www.pureenergyus.com",
-          "phone": null,
-          "renewable": "Yes",
-          "renewable_percentage": 1.0,
-          "energy_source": "Hydroelectric,Solar,Wind",
-          "guaranteed_savings": "No",
-          "value_added": "No",
-          "bundle_required": false,
-          "service_area": null,
-          "source_load_zone": "ConEd in Zone I",
-          "created_date": "09/04/2026 12:28:23 PM",
           "updated_date": null
         },
         {
@@ -5653,8 +5457,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 46,
-      "last_fetched": "2026-10-10T04:37:09.955445Z",
+      "count": 44,
+      "last_fetched": "2026-10-10T17:03:01.791277Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -6706,7 +6510,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429020.0",
+          "offer_id": "429587.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 2199.0,
@@ -6730,7 +6534,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "09/28/2026 11:46:09 AM",
+          "created_date": "10/10/2026 09:07:01 AM",
           "updated_date": null
         },
         {
@@ -6846,34 +6650,6 @@
           "updated_date": null
         },
         {
-          "offer_id": "428419.0",
-          "product_name": null,
-          "name": "All American Power and Gas, LLC.",
-          "rate": 39999.0,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "source_rate": 39999.0,
-          "source_rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "All American Power &amp; Gas, LLC offers 100% Renewable Energy.",
-          "monthly_fee": null,
-          "website_url": "http://aapandg.com",
-          "signup_url": "http://aapandg.com",
-          "phone": null,
-          "renewable": "Yes",
-          "renewable_percentage": 1.0,
-          "energy_source": "Hydroelectric,Solar,Wind",
-          "guaranteed_savings": "No",
-          "value_added": "No",
-          "bundle_required": false,
-          "service_area": null,
-          "source_load_zone": "ConEd in Zone J",
-          "created_date": "09/04/2026 02:20:32 PM",
-          "updated_date": null
-        },
-        {
           "offer_id": "428581.0",
           "product_name": null,
           "name": "Power Up Energy, LLC",
@@ -6899,34 +6675,6 @@
           "service_area": null,
           "source_load_zone": "ConEd in Zone J",
           "created_date": "09/08/2026 04:39:09 PM",
-          "updated_date": null
-        },
-        {
-          "offer_id": "428394.0",
-          "product_name": null,
-          "name": "Pure Energy",
-          "rate": 39999.0,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "source_rate": 39999.0,
-          "source_rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Pure Energy USA, LLC offers 100% Renewable Energy.",
-          "monthly_fee": null,
-          "website_url": "http://www.pureenergyus.com",
-          "signup_url": "http://www.pureenergyus.com",
-          "phone": null,
-          "renewable": "Yes",
-          "renewable_percentage": 1.0,
-          "energy_source": "Hydroelectric,Solar,Wind",
-          "guaranteed_savings": "No",
-          "value_added": "No",
-          "bundle_required": false,
-          "service_area": null,
-          "source_load_zone": "ConEd in Zone J",
-          "created_date": "09/04/2026 12:28:26 PM",
           "updated_date": null
         },
         {
@@ -7071,8 +6819,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 50,
-      "last_fetched": "2026-10-10T04:37:09.958224Z",
+      "count": 48,
+      "last_fetched": "2026-10-10T17:03:01.792930Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -7118,7 +6866,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 1,
-      "last_fetched": "2026-10-10T04:37:09.959731Z",
+      "last_fetched": "2026-10-10T17:03:01.793868Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -7526,7 +7274,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429015.0",
+          "offer_id": "429592.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1499.0,
@@ -7550,7 +7298,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/28/2026 11:45:46 AM",
+          "created_date": "10/10/2026 09:07:25 AM",
           "updated_date": null
         },
         {
@@ -7696,7 +7444,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 20,
-      "last_fetched": "2026-10-10T04:37:09.963021Z",
+      "last_fetched": "2026-10-10T17:03:01.795891Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -8384,7 +8132,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429015.0",
+          "offer_id": "429592.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1499.0,
@@ -8408,7 +8156,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/28/2026 11:45:46 AM",
+          "created_date": "10/10/2026 09:07:25 AM",
           "updated_date": null
         },
         {
@@ -8694,7 +8442,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-10-10T04:37:09.965050Z",
+      "last_fetched": "2026-10-10T17:03:01.797102Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -9158,7 +8906,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429015.0",
+          "offer_id": "429592.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1499.0,
@@ -9182,7 +8930,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/28/2026 11:45:46 AM",
+          "created_date": "10/10/2026 09:07:25 AM",
           "updated_date": null
         },
         {
@@ -9384,7 +9132,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 24,
-      "last_fetched": "2026-10-10T04:37:09.966550Z",
+      "last_fetched": "2026-10-10T17:03:01.798085Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -9988,7 +9736,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429015.0",
+          "offer_id": "429592.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1499.0,
@@ -10012,7 +9760,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/28/2026 11:45:46 AM",
+          "created_date": "10/10/2026 09:07:25 AM",
           "updated_date": null
         },
         {
@@ -10270,7 +10018,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-10-10T04:37:09.968351Z",
+      "last_fetched": "2026-10-10T17:03:01.799234Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -10790,7 +10538,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429015.0",
+          "offer_id": "429592.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1499.0,
@@ -10814,7 +10562,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/28/2026 11:45:46 AM",
+          "created_date": "10/10/2026 09:07:25 AM",
           "updated_date": null
         },
         {
@@ -11044,7 +10792,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 27,
-      "last_fetched": "2026-10-10T04:37:09.969971Z",
+      "last_fetched": "2026-10-10T17:03:01.800206Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -11592,7 +11340,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429015.0",
+          "offer_id": "429592.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1499.0,
@@ -11616,7 +11364,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/28/2026 11:45:46 AM",
+          "created_date": "10/10/2026 09:07:25 AM",
           "updated_date": null
         },
         {
@@ -11902,7 +11650,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 30,
-      "last_fetched": "2026-10-10T04:37:09.971749Z",
+      "last_fetched": "2026-10-10T17:03:01.801272Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -12506,7 +12254,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429015.0",
+          "offer_id": "429592.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1499.0,
@@ -12530,7 +12278,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/28/2026 11:45:46 AM",
+          "created_date": "10/10/2026 09:07:25 AM",
           "updated_date": null
         },
         {
@@ -12900,7 +12648,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-10-10T04:37:09.973712Z",
+      "last_fetched": "2026-10-10T17:03:01.802464Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -13420,7 +13168,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429015.0",
+          "offer_id": "429592.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1499.0,
@@ -13444,7 +13192,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/28/2026 11:45:46 AM",
+          "created_date": "10/10/2026 09:07:25 AM",
           "updated_date": null
         },
         {
@@ -13786,7 +13534,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-10-10T04:37:09.975576Z",
+      "last_fetched": "2026-10-10T17:03:01.803567Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -14306,7 +14054,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429015.0",
+          "offer_id": "429592.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1499.0,
@@ -14330,7 +14078,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/28/2026 11:45:46 AM",
+          "created_date": "10/10/2026 09:07:25 AM",
           "updated_date": null
         },
         {
@@ -14560,7 +14308,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 27,
-      "last_fetched": "2026-10-10T04:37:09.977274Z",
+      "last_fetched": "2026-10-10T17:03:01.804535Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -15024,7 +14772,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429015.0",
+          "offer_id": "429592.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1499.0,
@@ -15048,7 +14796,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "09/28/2026 11:45:46 AM",
+          "created_date": "10/10/2026 09:07:25 AM",
           "updated_date": null
         },
         {
@@ -15222,7 +14970,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 23,
-      "last_fetched": "2026-10-10T04:37:09.978707Z",
+      "last_fetched": "2026-10-10T17:03:01.805402Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -15518,7 +15266,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429019.0",
+          "offer_id": "429588.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1449.0,
@@ -15542,7 +15290,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/28/2026 11:46:05 AM",
+          "created_date": "10/10/2026 09:07:06 AM",
           "updated_date": null
         },
         {
@@ -15744,7 +15492,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 18,
-      "last_fetched": "2026-10-10T04:37:09.982117Z",
+      "last_fetched": "2026-10-10T17:03:01.807361Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -16292,7 +16040,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429019.0",
+          "offer_id": "429588.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1449.0,
@@ -16316,7 +16064,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/28/2026 11:46:05 AM",
+          "created_date": "10/10/2026 09:07:06 AM",
           "updated_date": null
         },
         {
@@ -16686,7 +16434,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 33,
-      "last_fetched": "2026-10-10T04:37:09.984246Z",
+      "last_fetched": "2026-10-10T17:03:01.808578Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -17150,7 +16898,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429019.0",
+          "offer_id": "429588.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1449.0,
@@ -17174,7 +16922,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/28/2026 11:46:05 AM",
+          "created_date": "10/10/2026 09:07:06 AM",
           "updated_date": null
         },
         {
@@ -17516,7 +17264,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 29,
-      "last_fetched": "2026-10-10T04:37:09.985962Z",
+      "last_fetched": "2026-10-10T17:03:01.809626Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -18092,7 +17840,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429019.0",
+          "offer_id": "429588.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1449.0,
@@ -18116,7 +17864,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/28/2026 11:46:05 AM",
+          "created_date": "10/10/2026 09:07:06 AM",
           "updated_date": null
         },
         {
@@ -18486,7 +18234,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 34,
-      "last_fetched": "2026-10-10T04:37:09.987875Z",
+      "last_fetched": "2026-10-10T17:03:01.810811Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -18950,7 +18698,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429019.0",
+          "offer_id": "429588.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1449.0,
@@ -18974,7 +18722,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/28/2026 11:46:05 AM",
+          "created_date": "10/10/2026 09:07:06 AM",
           "updated_date": null
         },
         {
@@ -19316,7 +19064,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 29,
-      "last_fetched": "2026-10-10T04:37:09.989447Z",
+      "last_fetched": "2026-10-10T17:03:01.811906Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -19808,7 +19556,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429019.0",
+          "offer_id": "429588.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1449.0,
@@ -19832,7 +19580,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/28/2026 11:46:05 AM",
+          "created_date": "10/10/2026 09:07:06 AM",
           "updated_date": null
         },
         {
@@ -20174,7 +19922,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 30,
-      "last_fetched": "2026-10-10T04:37:09.991180Z",
+      "last_fetched": "2026-10-10T17:03:01.812987Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -20638,7 +20386,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429019.0",
+          "offer_id": "429588.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1449.0,
@@ -20662,7 +20410,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "09/28/2026 11:46:05 AM",
+          "created_date": "10/10/2026 09:07:06 AM",
           "updated_date": null
         },
         {
@@ -21116,7 +20864,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 33,
-      "last_fetched": "2026-10-10T04:37:09.993102Z",
+      "last_fetched": "2026-10-10T17:03:01.814139Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -21608,7 +21356,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429016.0",
+          "offer_id": "429591.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1549.0,
@@ -21632,7 +21380,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "09/28/2026 11:45:51 AM",
+          "created_date": "10/10/2026 09:07:20 AM",
           "updated_date": null
         },
         {
@@ -21998,67 +21746,11 @@
           "source_load_zone": "ORU in All Zones",
           "created_date": "09/18/2026 09:48:50 AM",
           "updated_date": null
-        },
-        {
-          "offer_id": "428418.0",
-          "product_name": null,
-          "name": "All American Power and Gas, LLC.",
-          "rate": 39999.0,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "source_rate": 39999.0,
-          "source_rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "All American Power &amp; Gas, LLC offers 100% Renewable Energy.",
-          "monthly_fee": null,
-          "website_url": "http://aapandg.com",
-          "signup_url": "http://aapandg.com",
-          "phone": null,
-          "renewable": "Yes",
-          "renewable_percentage": 1.0,
-          "energy_source": "Hydroelectric,Solar,Wind",
-          "guaranteed_savings": "No",
-          "value_added": "No",
-          "bundle_required": false,
-          "service_area": null,
-          "source_load_zone": "ORU in All Zones",
-          "created_date": "09/04/2026 02:20:28 PM",
-          "updated_date": null
-        },
-        {
-          "offer_id": "428396.0",
-          "product_name": null,
-          "name": "Pure Energy",
-          "rate": 39999.0,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "source_rate": 39999.0,
-          "source_rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Pure Energy USA, LLC offers 100% Renewable Energy.",
-          "monthly_fee": null,
-          "website_url": "http://www.pureenergyus.com",
-          "signup_url": "http://www.pureenergyus.com",
-          "phone": null,
-          "renewable": "Yes",
-          "renewable_percentage": 1.0,
-          "energy_source": "Hydroelectric,Solar,Wind",
-          "guaranteed_savings": "No",
-          "value_added": "No",
-          "bundle_required": false,
-          "service_area": null,
-          "source_load_zone": "ORU in All Zones",
-          "created_date": "09/04/2026 12:28:34 PM",
-          "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
-      "count": 33,
-      "last_fetched": "2026-10-10T04:37:09.996282Z",
+      "count": 31,
+      "last_fetched": "2026-10-10T17:03:01.816200Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -22578,7 +22270,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429016.0",
+          "offer_id": "429591.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1549.0,
@@ -22602,7 +22294,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "09/28/2026 11:45:51 AM",
+          "created_date": "10/10/2026 09:07:20 AM",
           "updated_date": null
         },
         {
@@ -22968,67 +22660,11 @@
           "source_load_zone": "ORU in All Zones",
           "created_date": "09/18/2026 09:48:50 AM",
           "updated_date": null
-        },
-        {
-          "offer_id": "428418.0",
-          "product_name": null,
-          "name": "All American Power and Gas, LLC.",
-          "rate": 39999.0,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "source_rate": 39999.0,
-          "source_rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "All American Power &amp; Gas, LLC offers 100% Renewable Energy.",
-          "monthly_fee": null,
-          "website_url": "http://aapandg.com",
-          "signup_url": "http://aapandg.com",
-          "phone": null,
-          "renewable": "Yes",
-          "renewable_percentage": 1.0,
-          "energy_source": "Hydroelectric,Solar,Wind",
-          "guaranteed_savings": "No",
-          "value_added": "No",
-          "bundle_required": false,
-          "service_area": null,
-          "source_load_zone": "ORU in All Zones",
-          "created_date": "09/04/2026 02:20:28 PM",
-          "updated_date": null
-        },
-        {
-          "offer_id": "428396.0",
-          "product_name": null,
-          "name": "Pure Energy",
-          "rate": 39999.0,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "source_rate": 39999.0,
-          "source_rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Pure Energy USA, LLC offers 100% Renewable Energy.",
-          "monthly_fee": null,
-          "website_url": "http://www.pureenergyus.com",
-          "signup_url": "http://www.pureenergyus.com",
-          "phone": null,
-          "renewable": "Yes",
-          "renewable_percentage": 1.0,
-          "energy_source": "Hydroelectric,Solar,Wind",
-          "guaranteed_savings": "No",
-          "value_added": "No",
-          "bundle_required": false,
-          "service_area": null,
-          "source_load_zone": "ORU in All Zones",
-          "created_date": "09/04/2026 12:28:34 PM",
-          "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
-      "count": 34,
-      "last_fetched": "2026-10-10T04:37:09.997392Z",
+      "count": 32,
+      "last_fetched": "2026-10-10T17:03:01.817229Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -23576,7 +23212,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429016.0",
+          "offer_id": "429591.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1549.0,
@@ -23600,7 +23236,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "09/28/2026 11:45:51 AM",
+          "created_date": "10/10/2026 09:07:20 AM",
           "updated_date": null
         },
         {
@@ -23994,67 +23630,11 @@
           "source_load_zone": "ORU in All Zones",
           "created_date": "09/18/2026 09:48:50 AM",
           "updated_date": null
-        },
-        {
-          "offer_id": "428418.0",
-          "product_name": null,
-          "name": "All American Power and Gas, LLC.",
-          "rate": 39999.0,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "source_rate": 39999.0,
-          "source_rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "All American Power &amp; Gas, LLC offers 100% Renewable Energy.",
-          "monthly_fee": null,
-          "website_url": "http://aapandg.com",
-          "signup_url": "http://aapandg.com",
-          "phone": null,
-          "renewable": "Yes",
-          "renewable_percentage": 1.0,
-          "energy_source": "Hydroelectric,Solar,Wind",
-          "guaranteed_savings": "No",
-          "value_added": "No",
-          "bundle_required": false,
-          "service_area": null,
-          "source_load_zone": "ORU in All Zones",
-          "created_date": "09/04/2026 02:20:28 PM",
-          "updated_date": null
-        },
-        {
-          "offer_id": "428396.0",
-          "product_name": null,
-          "name": "Pure Energy",
-          "rate": 39999.0,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "source_rate": 39999.0,
-          "source_rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Pure Energy USA, LLC offers 100% Renewable Energy.",
-          "monthly_fee": null,
-          "website_url": "http://www.pureenergyus.com",
-          "signup_url": "http://www.pureenergyus.com",
-          "phone": null,
-          "renewable": "Yes",
-          "renewable_percentage": 1.0,
-          "energy_source": "Hydroelectric,Solar,Wind",
-          "guaranteed_savings": "No",
-          "value_added": "No",
-          "bundle_required": false,
-          "service_area": null,
-          "source_load_zone": "ORU in All Zones",
-          "created_date": "09/04/2026 12:28:34 PM",
-          "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
-      "count": 36,
-      "last_fetched": "2026-10-10T04:37:09.998550Z",
+      "count": 34,
+      "last_fetched": "2026-10-10T17:03:01.818325Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -24378,7 +23958,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429017.0",
+          "offer_id": "429590.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1349.0,
@@ -24402,7 +23982,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in All Zones",
-          "created_date": "09/28/2026 11:45:55 AM",
+          "created_date": "10/10/2026 09:07:15 AM",
           "updated_date": null
         },
         {
@@ -24940,7 +24520,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-10-10T04:37:10.000679Z",
+      "last_fetched": "2026-10-10T17:03:01.820365Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -25320,7 +24900,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429017.0",
+          "offer_id": "429590.0",
           "product_name": null,
           "name": "Inspire Energy Holdings, LLC",
           "rate": 1349.0,
@@ -25344,7 +24924,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in All Zones",
-          "created_date": "09/28/2026 11:45:55 AM",
+          "created_date": "10/10/2026 09:07:15 AM",
           "updated_date": null
         },
         {
@@ -25910,7 +25490,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 34,
-      "last_fetched": "2026-10-10T04:37:10.001760Z",
+      "last_fetched": "2026-10-10T17:03:01.821447Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     }
