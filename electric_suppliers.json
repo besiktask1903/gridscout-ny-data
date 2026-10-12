@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T01:02:36.353840Z",
+  "last_updated": "2026-10-12T20:58:36.461088Z",
   "customer_class": "residential",
   "source": "New York State Department of Public Service Power to Choose",
   "source_url": "https://documents.dps.ny.gov/PTC/home",
@@ -74,7 +74,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429492.0",
+          "offer_id": "429661.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 165.0,
@@ -98,7 +98,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "10/06/2026 10:53:43 PM",
+          "created_date": "10/12/2026 04:45:42 PM",
           "updated_date": null
         },
         {
@@ -606,7 +606,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429493.0",
+          "offer_id": "429662.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 16125.0,
@@ -630,11 +630,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "10/06/2026 10:54:56 PM",
+          "created_date": "10/12/2026 04:45:49 PM",
           "updated_date": null
         },
         {
-          "offer_id": "429491.0",
+          "offer_id": "429660.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 18125.0,
@@ -658,13 +658,41 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "10/06/2026 10:52:59 PM",
+          "created_date": "10/12/2026 04:45:34 PM",
+          "updated_date": null
+        },
+        {
+          "offer_id": "429605.0",
+          "product_name": null,
+          "name": "Pure Energy",
+          "rate": 39999.0,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "source_rate": 39999.0,
+          "source_rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Pure Energy USA, LLC offers 100% Renewable Energy.",
+          "monthly_fee": null,
+          "website_url": "http://www.pureenergyus.com",
+          "signup_url": "http://www.pureenergyus.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 1.0,
+          "energy_source": "Hydroelectric,Solar,Wind",
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "CHGE in All Zones",
+          "created_date": "10/12/2026 09:26:07 AM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
-      "count": 23,
-      "last_fetched": "2026-10-12T01:02:36.332226Z",
+      "count": 24,
+      "last_fetched": "2026-10-12T20:58:36.421846Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -764,7 +792,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429492.0",
+          "offer_id": "429661.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 165.0,
@@ -788,7 +816,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "10/06/2026 10:53:43 PM",
+          "created_date": "10/12/2026 04:45:42 PM",
           "updated_date": null
         },
         {
@@ -1352,7 +1380,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429493.0",
+          "offer_id": "429662.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 16125.0,
@@ -1376,11 +1404,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "10/06/2026 10:54:56 PM",
+          "created_date": "10/12/2026 04:45:49 PM",
           "updated_date": null
         },
         {
-          "offer_id": "429491.0",
+          "offer_id": "429660.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 18125.0,
@@ -1404,13 +1432,41 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "10/06/2026 10:52:59 PM",
+          "created_date": "10/12/2026 04:45:34 PM",
+          "updated_date": null
+        },
+        {
+          "offer_id": "429605.0",
+          "product_name": null,
+          "name": "Pure Energy",
+          "rate": 39999.0,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "source_rate": 39999.0,
+          "source_rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Pure Energy USA, LLC offers 100% Renewable Energy.",
+          "monthly_fee": null,
+          "website_url": "http://www.pureenergyus.com",
+          "signup_url": "http://www.pureenergyus.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 1.0,
+          "energy_source": "Hydroelectric,Solar,Wind",
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "CHGE in All Zones",
+          "created_date": "10/12/2026 09:26:07 AM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
-      "count": 26,
-      "last_fetched": "2026-10-12T01:02:36.332768Z",
+      "count": 27,
+      "last_fetched": "2026-10-12T20:58:36.422837Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1538,7 +1594,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429492.0",
+          "offer_id": "429661.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 165.0,
@@ -1562,7 +1618,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "10/06/2026 10:53:43 PM",
+          "created_date": "10/12/2026 04:45:42 PM",
           "updated_date": null
         },
         {
@@ -2154,7 +2210,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429493.0",
+          "offer_id": "429662.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 16125.0,
@@ -2178,11 +2234,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "10/06/2026 10:54:56 PM",
+          "created_date": "10/12/2026 04:45:49 PM",
           "updated_date": null
         },
         {
-          "offer_id": "429491.0",
+          "offer_id": "429660.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 18125.0,
@@ -2206,13 +2262,41 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "CHGE in All Zones",
-          "created_date": "10/06/2026 10:52:59 PM",
+          "created_date": "10/12/2026 04:45:34 PM",
+          "updated_date": null
+        },
+        {
+          "offer_id": "429605.0",
+          "product_name": null,
+          "name": "Pure Energy",
+          "rate": 39999.0,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "source_rate": 39999.0,
+          "source_rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Pure Energy USA, LLC offers 100% Renewable Energy.",
+          "monthly_fee": null,
+          "website_url": "http://www.pureenergyus.com",
+          "signup_url": "http://www.pureenergyus.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 1.0,
+          "energy_source": "Hydroelectric,Solar,Wind",
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "CHGE in All Zones",
+          "created_date": "10/12/2026 09:26:07 AM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
-      "count": 28,
-      "last_fetched": "2026-10-12T01:02:36.333309Z",
+      "count": 29,
+      "last_fetched": "2026-10-12T20:58:36.423819Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2368,7 +2452,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429495.0",
+          "offer_id": "429664.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 254.0,
@@ -2392,11 +2476,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "10/06/2026 10:56:22 PM",
+          "created_date": "10/12/2026 04:46:04 PM",
           "updated_date": null
         },
         {
-          "offer_id": "429497.0",
+          "offer_id": "429665.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 274.0,
@@ -2420,11 +2504,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "10/06/2026 10:58:08 PM",
+          "created_date": "10/12/2026 04:46:12 PM",
           "updated_date": null
         },
         {
-          "offer_id": "429494.0",
+          "offer_id": "429663.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 289.0,
@@ -2448,7 +2532,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "10/06/2026 10:55:24 PM",
+          "created_date": "10/12/2026 04:45:57 PM",
           "updated_date": null
         },
         {
@@ -2930,7 +3014,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 25,
-      "last_fetched": "2026-10-12T01:02:36.334537Z",
+      "last_fetched": "2026-10-12T20:58:36.426176Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -3226,7 +3310,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429495.0",
+          "offer_id": "429664.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 254.0,
@@ -3250,11 +3334,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "10/06/2026 10:56:22 PM",
+          "created_date": "10/12/2026 04:46:04 PM",
           "updated_date": null
         },
         {
-          "offer_id": "429497.0",
+          "offer_id": "429665.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 274.0,
@@ -3278,11 +3362,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "10/06/2026 10:58:08 PM",
+          "created_date": "10/12/2026 04:46:12 PM",
           "updated_date": null
         },
         {
-          "offer_id": "429494.0",
+          "offer_id": "429663.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 289.0,
@@ -3306,7 +3390,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "10/06/2026 10:55:24 PM",
+          "created_date": "10/12/2026 04:45:57 PM",
           "updated_date": null
         },
         {
@@ -4038,7 +4122,35 @@
           "updated_date": null
         },
         {
-          "offer_id": "428580.0",
+          "offer_id": "429617.0",
+          "product_name": null,
+          "name": "All American Power and Gas, LLC.",
+          "rate": 39999.0,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "source_rate": 39999.0,
+          "source_rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "All American Power &amp; Gas, LLC offers 100% Renewable Energy.",
+          "monthly_fee": null,
+          "website_url": "http://aapandg.com",
+          "signup_url": "http://aapandg.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 1.0,
+          "energy_source": "Hydroelectric,Solar,Wind",
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "ConEd in Zone H",
+          "created_date": "10/12/2026 12:58:09 PM",
+          "updated_date": null
+        },
+        {
+          "offer_id": "429619.0",
           "product_name": null,
           "name": "Power Up Energy, LLC",
           "rate": 39999.0,
@@ -4062,7 +4174,35 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in Zone H",
-          "created_date": "09/08/2026 04:36:14 PM",
+          "created_date": "10/12/2026 02:12:24 PM",
+          "updated_date": null
+        },
+        {
+          "offer_id": "429608.0",
+          "product_name": null,
+          "name": "Pure Energy",
+          "rate": 39999.0,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "source_rate": 39999.0,
+          "source_rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Pure Energy USA, LLC offers 100% Renewable Energy.",
+          "monthly_fee": null,
+          "website_url": "http://www.pureenergyus.com",
+          "signup_url": "http://www.pureenergyus.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 1.0,
+          "energy_source": "Hydroelectric,Solar,Wind",
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "ConEd in Zone H",
+          "created_date": "10/12/2026 09:26:23 AM",
           "updated_date": null
         },
         {
@@ -4207,8 +4347,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 45,
-      "last_fetched": "2026-10-12T01:02:36.335397Z",
+      "count": 47,
+      "last_fetched": "2026-10-12T20:58:36.427835Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -4476,7 +4616,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429495.0",
+          "offer_id": "429664.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 254.0,
@@ -4500,11 +4640,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "10/06/2026 10:56:22 PM",
+          "created_date": "10/12/2026 04:46:04 PM",
           "updated_date": null
         },
         {
-          "offer_id": "429497.0",
+          "offer_id": "429665.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 274.0,
@@ -4528,11 +4668,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "10/06/2026 10:58:08 PM",
+          "created_date": "10/12/2026 04:46:12 PM",
           "updated_date": null
         },
         {
-          "offer_id": "429494.0",
+          "offer_id": "429663.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 289.0,
@@ -4556,7 +4696,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "10/06/2026 10:55:24 PM",
+          "created_date": "10/12/2026 04:45:57 PM",
           "updated_date": null
         },
         {
@@ -5288,7 +5428,35 @@
           "updated_date": null
         },
         {
-          "offer_id": "428579.0",
+          "offer_id": "429615.0",
+          "product_name": null,
+          "name": "All American Power and Gas, LLC.",
+          "rate": 39999.0,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "source_rate": 39999.0,
+          "source_rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "All American Power &amp; Gas, LLC offers 100% Renewable Energy.",
+          "monthly_fee": null,
+          "website_url": "http://aapandg.com",
+          "signup_url": "http://aapandg.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 1.0,
+          "energy_source": "Hydroelectric,Solar,Wind",
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "ConEd in Zone I",
+          "created_date": "10/12/2026 12:57:15 PM",
+          "updated_date": null
+        },
+        {
+          "offer_id": "429618.0",
           "product_name": null,
           "name": "Power Up Energy, LLC",
           "rate": 39999.0,
@@ -5312,7 +5480,35 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in Zone I",
-          "created_date": "09/08/2026 04:36:04 PM",
+          "created_date": "10/12/2026 02:12:20 PM",
+          "updated_date": null
+        },
+        {
+          "offer_id": "429607.0",
+          "product_name": null,
+          "name": "Pure Energy",
+          "rate": 39999.0,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "source_rate": 39999.0,
+          "source_rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Pure Energy USA, LLC offers 100% Renewable Energy.",
+          "monthly_fee": null,
+          "website_url": "http://www.pureenergyus.com",
+          "signup_url": "http://www.pureenergyus.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 1.0,
+          "energy_source": "Hydroelectric,Solar,Wind",
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "ConEd in Zone I",
+          "created_date": "10/12/2026 09:26:17 AM",
           "updated_date": null
         },
         {
@@ -5457,8 +5653,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 44,
-      "last_fetched": "2026-10-12T01:02:36.336280Z",
+      "count": 46,
+      "last_fetched": "2026-10-12T20:58:36.429437Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -5838,7 +6034,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429495.0",
+          "offer_id": "429664.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 254.0,
@@ -5862,7 +6058,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "10/06/2026 10:56:22 PM",
+          "created_date": "10/12/2026 04:46:04 PM",
           "updated_date": null
         },
         {
@@ -5894,7 +6090,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429497.0",
+          "offer_id": "429665.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 274.0,
@@ -5918,11 +6114,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "10/06/2026 10:58:08 PM",
+          "created_date": "10/12/2026 04:46:12 PM",
           "updated_date": null
         },
         {
-          "offer_id": "429494.0",
+          "offer_id": "429663.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 289.0,
@@ -5946,7 +6142,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Zones",
-          "created_date": "10/06/2026 10:55:24 PM",
+          "created_date": "10/12/2026 04:45:57 PM",
           "updated_date": null
         },
         {
@@ -6650,7 +6846,35 @@
           "updated_date": null
         },
         {
-          "offer_id": "428581.0",
+          "offer_id": "429613.0",
+          "product_name": null,
+          "name": "All American Power and Gas, LLC.",
+          "rate": 39999.0,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "source_rate": 39999.0,
+          "source_rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "All American Power &amp; Gas, LLC offers 100% Renewable Energy.",
+          "monthly_fee": null,
+          "website_url": "http://aapandg.com",
+          "signup_url": "http://aapandg.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 1.0,
+          "energy_source": "Hydroelectric,Solar,Wind",
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "ConEd in Zone J",
+          "created_date": "10/12/2026 12:56:45 PM",
+          "updated_date": null
+        },
+        {
+          "offer_id": "429620.0",
           "product_name": null,
           "name": "Power Up Energy, LLC",
           "rate": 39999.0,
@@ -6674,7 +6898,35 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in Zone J",
-          "created_date": "09/08/2026 04:39:09 PM",
+          "created_date": "10/12/2026 02:12:28 PM",
+          "updated_date": null
+        },
+        {
+          "offer_id": "429606.0",
+          "product_name": null,
+          "name": "Pure Energy",
+          "rate": 39999.0,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "source_rate": 39999.0,
+          "source_rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Pure Energy USA, LLC offers 100% Renewable Energy.",
+          "monthly_fee": null,
+          "website_url": "http://www.pureenergyus.com",
+          "signup_url": "http://www.pureenergyus.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 1.0,
+          "energy_source": "Hydroelectric,Solar,Wind",
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "ConEd in Zone J",
+          "created_date": "10/12/2026 09:26:12 AM",
           "updated_date": null
         },
         {
@@ -6819,8 +7071,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 48,
-      "last_fetched": "2026-10-12T01:02:36.337198Z",
+      "count": 50,
+      "last_fetched": "2026-10-12T20:58:36.431146Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -6866,7 +7118,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 1,
-      "last_fetched": "2026-10-12T01:02:36.337758Z",
+      "last_fetched": "2026-10-12T20:58:36.432198Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -6910,7 +7162,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429503.0",
+          "offer_id": "429671.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 145.0,
@@ -6934,11 +7186,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "10/06/2026 11:11:45 PM",
+          "created_date": "10/12/2026 04:47:07 PM",
           "updated_date": null
         },
         {
-          "offer_id": "429502.0",
+          "offer_id": "429670.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 148.0,
@@ -6962,7 +7214,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "10/06/2026 11:10:17 PM",
+          "created_date": "10/12/2026 04:46:59 PM",
           "updated_date": null
         },
         {
@@ -6994,7 +7246,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429501.0",
+          "offer_id": "429669.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 166.0,
@@ -7018,7 +7270,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "10/06/2026 11:05:09 PM",
+          "created_date": "10/12/2026 04:46:51 PM",
           "updated_date": null
         },
         {
@@ -7444,7 +7696,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 20,
-      "last_fetched": "2026-10-12T01:02:36.338961Z",
+      "last_fetched": "2026-10-12T20:58:36.434345Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -7544,7 +7796,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429503.0",
+          "offer_id": "429671.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 145.0,
@@ -7568,11 +7820,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "10/06/2026 11:11:45 PM",
+          "created_date": "10/12/2026 04:47:07 PM",
           "updated_date": null
         },
         {
-          "offer_id": "429502.0",
+          "offer_id": "429670.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 148.0,
@@ -7596,7 +7848,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "10/06/2026 11:10:17 PM",
+          "created_date": "10/12/2026 04:46:59 PM",
           "updated_date": null
         },
         {
@@ -7628,7 +7880,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429501.0",
+          "offer_id": "429669.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 166.0,
@@ -7652,7 +7904,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "10/06/2026 11:05:09 PM",
+          "created_date": "10/12/2026 04:46:51 PM",
           "updated_date": null
         },
         {
@@ -8442,7 +8694,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-10-12T01:02:36.339694Z",
+      "last_fetched": "2026-10-12T20:58:36.435636Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -8486,7 +8738,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429503.0",
+          "offer_id": "429671.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 145.0,
@@ -8510,11 +8762,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "10/06/2026 11:11:45 PM",
+          "created_date": "10/12/2026 04:47:07 PM",
           "updated_date": null
         },
         {
-          "offer_id": "429502.0",
+          "offer_id": "429670.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 148.0,
@@ -8538,7 +8790,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "10/06/2026 11:10:17 PM",
+          "created_date": "10/12/2026 04:46:59 PM",
           "updated_date": null
         },
         {
@@ -8570,7 +8822,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429501.0",
+          "offer_id": "429669.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 166.0,
@@ -8594,7 +8846,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "10/06/2026 11:05:09 PM",
+          "created_date": "10/12/2026 04:46:51 PM",
           "updated_date": null
         },
         {
@@ -9132,7 +9384,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 24,
-      "last_fetched": "2026-10-12T01:02:36.340199Z",
+      "last_fetched": "2026-10-12T20:58:36.436584Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -9204,7 +9456,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429503.0",
+          "offer_id": "429671.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 145.0,
@@ -9228,11 +9480,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "10/06/2026 11:11:45 PM",
+          "created_date": "10/12/2026 04:47:07 PM",
           "updated_date": null
         },
         {
-          "offer_id": "429502.0",
+          "offer_id": "429670.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 148.0,
@@ -9256,7 +9508,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "10/06/2026 11:10:17 PM",
+          "created_date": "10/12/2026 04:46:59 PM",
           "updated_date": null
         },
         {
@@ -9316,7 +9568,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429501.0",
+          "offer_id": "429669.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 166.0,
@@ -9340,7 +9592,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "10/06/2026 11:05:09 PM",
+          "created_date": "10/12/2026 04:46:51 PM",
           "updated_date": null
         },
         {
@@ -10018,7 +10270,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-10-12T01:02:36.340829Z",
+      "last_fetched": "2026-10-12T20:58:36.437733Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -10090,7 +10342,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429503.0",
+          "offer_id": "429671.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 145.0,
@@ -10114,11 +10366,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "10/06/2026 11:11:45 PM",
+          "created_date": "10/12/2026 04:47:07 PM",
           "updated_date": null
         },
         {
-          "offer_id": "429502.0",
+          "offer_id": "429670.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 148.0,
@@ -10142,7 +10394,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "10/06/2026 11:10:17 PM",
+          "created_date": "10/12/2026 04:46:59 PM",
           "updated_date": null
         },
         {
@@ -10202,7 +10454,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429501.0",
+          "offer_id": "429669.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 166.0,
@@ -10226,7 +10478,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "10/06/2026 11:05:09 PM",
+          "created_date": "10/12/2026 04:46:51 PM",
           "updated_date": null
         },
         {
@@ -10792,7 +11044,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 27,
-      "last_fetched": "2026-10-12T01:02:36.341391Z",
+      "last_fetched": "2026-10-12T20:58:36.438763Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -10892,7 +11144,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429503.0",
+          "offer_id": "429671.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 145.0,
@@ -10916,11 +11168,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "10/06/2026 11:11:45 PM",
+          "created_date": "10/12/2026 04:47:07 PM",
           "updated_date": null
         },
         {
-          "offer_id": "429502.0",
+          "offer_id": "429670.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 148.0,
@@ -10944,7 +11196,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "10/06/2026 11:10:17 PM",
+          "created_date": "10/12/2026 04:46:59 PM",
           "updated_date": null
         },
         {
@@ -11004,7 +11256,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429501.0",
+          "offer_id": "429669.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 166.0,
@@ -11028,7 +11280,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "10/06/2026 11:05:09 PM",
+          "created_date": "10/12/2026 04:46:51 PM",
           "updated_date": null
         },
         {
@@ -11650,7 +11902,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 30,
-      "last_fetched": "2026-10-12T01:02:36.342030Z",
+      "last_fetched": "2026-10-12T20:58:36.439873Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -11750,7 +12002,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429503.0",
+          "offer_id": "429671.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 145.0,
@@ -11774,7 +12026,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "10/06/2026 11:11:45 PM",
+          "created_date": "10/12/2026 04:47:07 PM",
           "updated_date": null
         },
         {
@@ -11806,7 +12058,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429502.0",
+          "offer_id": "429670.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 148.0,
@@ -11830,7 +12082,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "10/06/2026 11:10:17 PM",
+          "created_date": "10/12/2026 04:46:59 PM",
           "updated_date": null
         },
         {
@@ -11890,7 +12142,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429501.0",
+          "offer_id": "429669.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 166.0,
@@ -11914,7 +12166,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "10/06/2026 11:05:09 PM",
+          "created_date": "10/12/2026 04:46:51 PM",
           "updated_date": null
         },
         {
@@ -12648,7 +12900,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-10-12T01:02:36.342725Z",
+      "last_fetched": "2026-10-12T20:58:36.441123Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -12720,7 +12972,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429503.0",
+          "offer_id": "429671.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 145.0,
@@ -12744,11 +12996,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "10/06/2026 11:11:45 PM",
+          "created_date": "10/12/2026 04:47:07 PM",
           "updated_date": null
         },
         {
-          "offer_id": "429502.0",
+          "offer_id": "429670.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 148.0,
@@ -12772,7 +13024,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "10/06/2026 11:10:17 PM",
+          "created_date": "10/12/2026 04:46:59 PM",
           "updated_date": null
         },
         {
@@ -12804,7 +13056,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429501.0",
+          "offer_id": "429669.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 166.0,
@@ -12828,7 +13080,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "10/06/2026 11:05:09 PM",
+          "created_date": "10/12/2026 04:46:51 PM",
           "updated_date": null
         },
         {
@@ -13534,7 +13786,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-10-12T01:02:36.343380Z",
+      "last_fetched": "2026-10-12T20:58:36.442291Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -13606,7 +13858,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429503.0",
+          "offer_id": "429671.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 145.0,
@@ -13630,11 +13882,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "10/06/2026 11:11:45 PM",
+          "created_date": "10/12/2026 04:47:07 PM",
           "updated_date": null
         },
         {
-          "offer_id": "429502.0",
+          "offer_id": "429670.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 148.0,
@@ -13658,7 +13910,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "10/06/2026 11:10:17 PM",
+          "created_date": "10/12/2026 04:46:59 PM",
           "updated_date": null
         },
         {
@@ -13690,7 +13942,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429501.0",
+          "offer_id": "429669.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 166.0,
@@ -13714,7 +13966,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "10/06/2026 11:05:09 PM",
+          "created_date": "10/12/2026 04:46:51 PM",
           "updated_date": null
         },
         {
@@ -14308,7 +14560,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 27,
-      "last_fetched": "2026-10-12T01:02:36.343963Z",
+      "last_fetched": "2026-10-12T20:58:36.443305Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -14352,7 +14604,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429503.0",
+          "offer_id": "429671.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 145.0,
@@ -14376,11 +14628,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "10/06/2026 11:11:45 PM",
+          "created_date": "10/12/2026 04:47:07 PM",
           "updated_date": null
         },
         {
-          "offer_id": "429502.0",
+          "offer_id": "429670.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 148.0,
@@ -14404,7 +14656,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "10/06/2026 11:10:17 PM",
+          "created_date": "10/12/2026 04:46:59 PM",
           "updated_date": null
         },
         {
@@ -14436,7 +14688,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429501.0",
+          "offer_id": "429669.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 166.0,
@@ -14460,7 +14712,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Zones",
-          "created_date": "10/06/2026 11:05:09 PM",
+          "created_date": "10/12/2026 04:46:51 PM",
           "updated_date": null
         },
         {
@@ -14970,7 +15222,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 23,
-      "last_fetched": "2026-10-12T01:02:36.344460Z",
+      "last_fetched": "2026-10-12T20:58:36.444198Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -15070,7 +15322,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429500.0",
+          "offer_id": "429668.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 146.0,
@@ -15094,11 +15346,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "10/06/2026 11:02:08 PM",
+          "created_date": "10/12/2026 04:46:43 PM",
           "updated_date": null
         },
         {
-          "offer_id": "429499.0",
+          "offer_id": "429667.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 149.0,
@@ -15122,7 +15374,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "10/06/2026 10:59:25 PM",
+          "created_date": "10/12/2026 04:46:30 PM",
           "updated_date": null
         },
         {
@@ -15154,7 +15406,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429498.0",
+          "offer_id": "429666.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 167.0,
@@ -15178,7 +15430,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "10/06/2026 10:58:55 PM",
+          "created_date": "10/12/2026 04:46:20 PM",
           "updated_date": null
         },
         {
@@ -15492,7 +15744,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 18,
-      "last_fetched": "2026-10-12T01:02:36.345595Z",
+      "last_fetched": "2026-10-12T20:58:36.446248Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -15620,7 +15872,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429500.0",
+          "offer_id": "429668.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 146.0,
@@ -15644,11 +15896,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "10/06/2026 11:02:08 PM",
+          "created_date": "10/12/2026 04:46:43 PM",
           "updated_date": null
         },
         {
-          "offer_id": "429499.0",
+          "offer_id": "429667.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 149.0,
@@ -15672,7 +15924,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "10/06/2026 10:59:25 PM",
+          "created_date": "10/12/2026 04:46:30 PM",
           "updated_date": null
         },
         {
@@ -15732,7 +15984,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429498.0",
+          "offer_id": "429666.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 167.0,
@@ -15756,7 +16008,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "10/06/2026 10:58:55 PM",
+          "created_date": "10/12/2026 04:46:20 PM",
           "updated_date": null
         },
         {
@@ -16434,7 +16686,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 33,
-      "last_fetched": "2026-10-12T01:02:36.346352Z",
+      "last_fetched": "2026-10-12T20:58:36.447456Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -16562,7 +16814,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429500.0",
+          "offer_id": "429668.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 146.0,
@@ -16586,11 +16838,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "10/06/2026 11:02:08 PM",
+          "created_date": "10/12/2026 04:46:43 PM",
           "updated_date": null
         },
         {
-          "offer_id": "429499.0",
+          "offer_id": "429667.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 149.0,
@@ -16614,7 +16866,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "10/06/2026 10:59:25 PM",
+          "created_date": "10/12/2026 04:46:30 PM",
           "updated_date": null
         },
         {
@@ -16674,7 +16926,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429498.0",
+          "offer_id": "429666.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 167.0,
@@ -16698,7 +16950,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "10/06/2026 10:58:55 PM",
+          "created_date": "10/12/2026 04:46:20 PM",
           "updated_date": null
         },
         {
@@ -17264,7 +17516,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 29,
-      "last_fetched": "2026-10-12T01:02:36.346961Z",
+      "last_fetched": "2026-10-12T20:58:36.448534Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -17476,7 +17728,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429500.0",
+          "offer_id": "429668.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 146.0,
@@ -17500,11 +17752,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "10/06/2026 11:02:08 PM",
+          "created_date": "10/12/2026 04:46:43 PM",
           "updated_date": null
         },
         {
-          "offer_id": "429499.0",
+          "offer_id": "429667.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 149.0,
@@ -17528,7 +17780,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "10/06/2026 10:59:25 PM",
+          "created_date": "10/12/2026 04:46:30 PM",
           "updated_date": null
         },
         {
@@ -17588,7 +17840,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429498.0",
+          "offer_id": "429666.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 167.0,
@@ -17612,7 +17864,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "10/06/2026 10:58:55 PM",
+          "created_date": "10/12/2026 04:46:20 PM",
           "updated_date": null
         },
         {
@@ -18234,7 +18486,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 34,
-      "last_fetched": "2026-10-12T01:02:36.347648Z",
+      "last_fetched": "2026-10-12T20:58:36.449733Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -18362,7 +18614,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429500.0",
+          "offer_id": "429668.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 146.0,
@@ -18386,11 +18638,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "10/06/2026 11:02:08 PM",
+          "created_date": "10/12/2026 04:46:43 PM",
           "updated_date": null
         },
         {
-          "offer_id": "429499.0",
+          "offer_id": "429667.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 149.0,
@@ -18414,7 +18666,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "10/06/2026 10:59:25 PM",
+          "created_date": "10/12/2026 04:46:30 PM",
           "updated_date": null
         },
         {
@@ -18474,7 +18726,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429498.0",
+          "offer_id": "429666.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 167.0,
@@ -18498,7 +18750,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "10/06/2026 10:58:55 PM",
+          "created_date": "10/12/2026 04:46:20 PM",
           "updated_date": null
         },
         {
@@ -19064,7 +19316,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 29,
-      "last_fetched": "2026-10-12T01:02:36.348291Z",
+      "last_fetched": "2026-10-12T20:58:36.450895Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -19220,7 +19472,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429500.0",
+          "offer_id": "429668.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 146.0,
@@ -19244,11 +19496,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "10/06/2026 11:02:08 PM",
+          "created_date": "10/12/2026 04:46:43 PM",
           "updated_date": null
         },
         {
-          "offer_id": "429499.0",
+          "offer_id": "429667.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 149.0,
@@ -19272,7 +19524,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "10/06/2026 10:59:25 PM",
+          "created_date": "10/12/2026 04:46:30 PM",
           "updated_date": null
         },
         {
@@ -19332,7 +19584,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429498.0",
+          "offer_id": "429666.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 167.0,
@@ -19356,7 +19608,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "10/06/2026 10:58:55 PM",
+          "created_date": "10/12/2026 04:46:20 PM",
           "updated_date": null
         },
         {
@@ -19922,7 +20174,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 30,
-      "last_fetched": "2026-10-12T01:02:36.348919Z",
+      "last_fetched": "2026-10-12T20:58:36.452008Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -20078,7 +20330,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429500.0",
+          "offer_id": "429668.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 146.0,
@@ -20102,11 +20354,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "10/06/2026 11:02:08 PM",
+          "created_date": "10/12/2026 04:46:43 PM",
           "updated_date": null
         },
         {
-          "offer_id": "429499.0",
+          "offer_id": "429667.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 149.0,
@@ -20130,7 +20382,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "10/06/2026 10:59:25 PM",
+          "created_date": "10/12/2026 04:46:30 PM",
           "updated_date": null
         },
         {
@@ -20190,7 +20442,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429498.0",
+          "offer_id": "429666.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 167.0,
@@ -20214,7 +20466,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NGRID in All Zones",
-          "created_date": "10/06/2026 10:58:55 PM",
+          "created_date": "10/12/2026 04:46:20 PM",
           "updated_date": null
         },
         {
@@ -20864,7 +21116,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 33,
-      "last_fetched": "2026-10-12T01:02:36.349604Z",
+      "last_fetched": "2026-10-12T20:58:36.453198Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -20964,7 +21216,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429506.0",
+          "offer_id": "429674.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 169.0,
@@ -20988,11 +21240,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "10/06/2026 11:16:45 PM",
+          "created_date": "10/12/2026 04:47:29 PM",
           "updated_date": null
         },
         {
-          "offer_id": "429505.0",
+          "offer_id": "429673.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 171.0,
@@ -21016,7 +21268,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "10/06/2026 11:16:19 PM",
+          "created_date": "10/12/2026 04:47:22 PM",
           "updated_date": null
         },
         {
@@ -21104,7 +21356,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429504.0",
+          "offer_id": "429672.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 189.0,
@@ -21128,7 +21380,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "10/06/2026 11:15:42 PM",
+          "created_date": "10/12/2026 04:47:15 PM",
           "updated_date": null
         },
         {
@@ -21746,11 +21998,67 @@
           "source_load_zone": "ORU in All Zones",
           "created_date": "09/18/2026 09:48:50 AM",
           "updated_date": null
+        },
+        {
+          "offer_id": "429611.0",
+          "product_name": null,
+          "name": "All American Power and Gas, LLC.",
+          "rate": 39999.0,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "source_rate": 39999.0,
+          "source_rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "All American Power &amp; Gas, LLC offers 100% Renewable Energy.",
+          "monthly_fee": null,
+          "website_url": "http://aapandg.com",
+          "signup_url": "http://aapandg.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 1.0,
+          "energy_source": "Hydroelectric,Solar,Wind",
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "ORU in All Zones",
+          "created_date": "10/12/2026 12:56:22 PM",
+          "updated_date": null
+        },
+        {
+          "offer_id": "429604.0",
+          "product_name": null,
+          "name": "Pure Energy",
+          "rate": 39999.0,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "source_rate": 39999.0,
+          "source_rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Pure Energy USA, LLC offers 100% Renewable Energy.",
+          "monthly_fee": null,
+          "website_url": "http://www.pureenergyus.com",
+          "signup_url": "http://www.pureenergyus.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 1.0,
+          "energy_source": "Hydroelectric,Solar,Wind",
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "ORU in All Zones",
+          "created_date": "10/12/2026 09:26:03 AM",
+          "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
-      "count": 31,
-      "last_fetched": "2026-10-12T01:02:36.350818Z",
+      "count": 33,
+      "last_fetched": "2026-10-12T20:58:36.455429Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -21878,7 +22186,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429506.0",
+          "offer_id": "429674.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 169.0,
@@ -21902,11 +22210,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "10/06/2026 11:16:45 PM",
+          "created_date": "10/12/2026 04:47:29 PM",
           "updated_date": null
         },
         {
-          "offer_id": "429505.0",
+          "offer_id": "429673.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 171.0,
@@ -21930,7 +22238,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "10/06/2026 11:16:19 PM",
+          "created_date": "10/12/2026 04:47:22 PM",
           "updated_date": null
         },
         {
@@ -22018,7 +22326,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429504.0",
+          "offer_id": "429672.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 189.0,
@@ -22042,7 +22350,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "10/06/2026 11:15:42 PM",
+          "created_date": "10/12/2026 04:47:15 PM",
           "updated_date": null
         },
         {
@@ -22660,11 +22968,67 @@
           "source_load_zone": "ORU in All Zones",
           "created_date": "09/18/2026 09:48:50 AM",
           "updated_date": null
+        },
+        {
+          "offer_id": "429611.0",
+          "product_name": null,
+          "name": "All American Power and Gas, LLC.",
+          "rate": 39999.0,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "source_rate": 39999.0,
+          "source_rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "All American Power &amp; Gas, LLC offers 100% Renewable Energy.",
+          "monthly_fee": null,
+          "website_url": "http://aapandg.com",
+          "signup_url": "http://aapandg.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 1.0,
+          "energy_source": "Hydroelectric,Solar,Wind",
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "ORU in All Zones",
+          "created_date": "10/12/2026 12:56:22 PM",
+          "updated_date": null
+        },
+        {
+          "offer_id": "429604.0",
+          "product_name": null,
+          "name": "Pure Energy",
+          "rate": 39999.0,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "source_rate": 39999.0,
+          "source_rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Pure Energy USA, LLC offers 100% Renewable Energy.",
+          "monthly_fee": null,
+          "website_url": "http://www.pureenergyus.com",
+          "signup_url": "http://www.pureenergyus.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 1.0,
+          "energy_source": "Hydroelectric,Solar,Wind",
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "ORU in All Zones",
+          "created_date": "10/12/2026 09:26:03 AM",
+          "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
-      "count": 32,
-      "last_fetched": "2026-10-12T01:02:36.351403Z",
+      "count": 34,
+      "last_fetched": "2026-10-12T20:58:36.456548Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -22792,7 +23156,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429506.0",
+          "offer_id": "429674.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 169.0,
@@ -22816,11 +23180,11 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "10/06/2026 11:16:45 PM",
+          "created_date": "10/12/2026 04:47:29 PM",
           "updated_date": null
         },
         {
-          "offer_id": "429505.0",
+          "offer_id": "429673.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 171.0,
@@ -22844,7 +23208,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "10/06/2026 11:16:19 PM",
+          "created_date": "10/12/2026 04:47:22 PM",
           "updated_date": null
         },
         {
@@ -22960,7 +23324,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429504.0",
+          "offer_id": "429672.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 189.0,
@@ -22984,7 +23348,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ORU in All Zones",
-          "created_date": "10/06/2026 11:15:42 PM",
+          "created_date": "10/12/2026 04:47:15 PM",
           "updated_date": null
         },
         {
@@ -23630,11 +23994,67 @@
           "source_load_zone": "ORU in All Zones",
           "created_date": "09/18/2026 09:48:50 AM",
           "updated_date": null
+        },
+        {
+          "offer_id": "429611.0",
+          "product_name": null,
+          "name": "All American Power and Gas, LLC.",
+          "rate": 39999.0,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "source_rate": 39999.0,
+          "source_rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "All American Power &amp; Gas, LLC offers 100% Renewable Energy.",
+          "monthly_fee": null,
+          "website_url": "http://aapandg.com",
+          "signup_url": "http://aapandg.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 1.0,
+          "energy_source": "Hydroelectric,Solar,Wind",
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "ORU in All Zones",
+          "created_date": "10/12/2026 12:56:22 PM",
+          "updated_date": null
+        },
+        {
+          "offer_id": "429604.0",
+          "product_name": null,
+          "name": "Pure Energy",
+          "rate": 39999.0,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "source_rate": 39999.0,
+          "source_rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Pure Energy USA, LLC offers 100% Renewable Energy.",
+          "monthly_fee": null,
+          "website_url": "http://www.pureenergyus.com",
+          "signup_url": "http://www.pureenergyus.com",
+          "phone": null,
+          "renewable": "Yes",
+          "renewable_percentage": 1.0,
+          "energy_source": "Hydroelectric,Solar,Wind",
+          "guaranteed_savings": "No",
+          "value_added": "No",
+          "bundle_required": false,
+          "service_area": null,
+          "source_load_zone": "ORU in All Zones",
+          "created_date": "10/12/2026 09:26:03 AM",
+          "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
-      "count": 34,
-      "last_fetched": "2026-10-12T01:02:36.352023Z",
+      "count": 36,
+      "last_fetched": "2026-10-12T20:58:36.457771Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -23650,7 +24070,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "429508.0",
+          "offer_id": "429676.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 15.0,
@@ -23674,7 +24094,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in All Zones",
-          "created_date": "10/06/2026 11:18:48 PM",
+          "created_date": "10/12/2026 04:47:44 PM",
           "updated_date": null
         },
         {
@@ -23734,7 +24154,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429509.0",
+          "offer_id": "429677.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 147.0,
@@ -23758,7 +24178,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in All Zones",
-          "created_date": "10/06/2026 11:19:05 PM",
+          "created_date": "10/12/2026 04:47:51 PM",
           "updated_date": null
         },
         {
@@ -23818,7 +24238,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429507.0",
+          "offer_id": "429675.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 169.0,
@@ -23842,7 +24262,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in All Zones",
-          "created_date": "10/06/2026 11:18:11 PM",
+          "created_date": "10/12/2026 04:47:36 PM",
           "updated_date": null
         },
         {
@@ -24520,7 +24940,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-10-12T01:02:36.353205Z",
+      "last_fetched": "2026-10-12T20:58:36.459960Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -24564,7 +24984,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429508.0",
+          "offer_id": "429676.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 15.0,
@@ -24588,7 +25008,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in All Zones",
-          "created_date": "10/06/2026 11:18:48 PM",
+          "created_date": "10/12/2026 04:47:44 PM",
           "updated_date": null
         },
         {
@@ -24648,7 +25068,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429509.0",
+          "offer_id": "429677.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 147.0,
@@ -24672,7 +25092,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in All Zones",
-          "created_date": "10/06/2026 11:19:05 PM",
+          "created_date": "10/12/2026 04:47:51 PM",
           "updated_date": null
         },
         {
@@ -24760,7 +25180,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429507.0",
+          "offer_id": "429675.0",
           "product_name": null,
           "name": "Green Mountain Energy Company",
           "rate": 169.0,
@@ -24784,7 +25204,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE in All Zones",
-          "created_date": "10/06/2026 11:18:11 PM",
+          "created_date": "10/12/2026 04:47:36 PM",
           "updated_date": null
         },
         {
@@ -25490,7 +25910,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 34,
-      "last_fetched": "2026-10-12T01:02:36.353837Z",
+      "last_fetched": "2026-10-12T20:58:36.461081Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     }
