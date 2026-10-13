@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T02:51:37.188601Z",
+  "last_updated": "2026-10-13T18:57:08.313768Z",
   "customer_class": "residential",
   "source": "New York State Department of Public Service Power to Choose",
   "source_url": "https://documents.dps.ny.gov/PTC/home",
@@ -74,7 +74,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429097.0",
+          "offer_id": "429734.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 1.11553398,
@@ -98,7 +98,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "Central Hudson",
-          "created_date": "09/29/2026 10:57:26 PM",
+          "created_date": "10/13/2026 01:59:39 PM",
           "updated_date": null
         },
         {
@@ -130,7 +130,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429436.0",
+          "offer_id": "429727.0",
           "product_name": null,
           "name": "Verde Energy USA New York LLC",
           "rate": 698.05825243,
@@ -154,7 +154,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "Central Hudson",
-          "created_date": "10/06/2026 08:11:03 AM",
+          "created_date": "10/13/2026 08:47:07 AM",
           "updated_date": null
         },
         {
@@ -216,7 +216,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-10-13T02:51:37.185669Z",
+      "last_fetched": "2026-10-13T18:57:08.309599Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -260,7 +260,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429098.0",
+          "offer_id": "429733.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 1.191,
@@ -284,7 +284,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Gas Zones",
-          "created_date": "09/29/2026 10:57:30 PM",
+          "created_date": "10/13/2026 01:59:34 PM",
           "updated_date": null
         },
         {
@@ -458,7 +458,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 8,
-      "last_fetched": "2026-10-13T02:51:37.185990Z",
+      "last_fetched": "2026-10-13T18:57:08.310041Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -502,7 +502,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429098.0",
+          "offer_id": "429733.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 1.191,
@@ -526,7 +526,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Gas Zones",
-          "created_date": "09/29/2026 10:57:30 PM",
+          "created_date": "10/13/2026 01:59:34 PM",
           "updated_date": null
         },
         {
@@ -700,7 +700,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 8,
-      "last_fetched": "2026-10-13T02:51:37.186171Z",
+      "last_fetched": "2026-10-13T18:57:08.310299Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -744,7 +744,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429098.0",
+          "offer_id": "429733.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 1.191,
@@ -768,7 +768,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "ConEd in All Gas Zones",
-          "created_date": "09/29/2026 10:57:30 PM",
+          "created_date": "10/13/2026 01:59:34 PM",
           "updated_date": null
         },
         {
@@ -914,7 +914,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-10-13T02:51:37.186329Z",
+      "last_fetched": "2026-10-13T18:57:08.310522Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -930,7 +930,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "429099.0",
+          "offer_id": "429732.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 1.15533981,
@@ -954,7 +954,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "National Fuel",
-          "created_date": "09/29/2026 10:57:35 PM",
+          "created_date": "10/13/2026 01:59:29 PM",
           "updated_date": null
         },
         {
@@ -1014,13 +1014,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "429432.0",
+          "offer_id": "429723.0",
           "product_name": null,
           "name": "Verde Energy USA New York LLC",
-          "rate": 707.76699029,
+          "rate": 678.6407767,
           "rate_type": "Fixed",
           "rate_unit": "therm",
-          "source_rate": 729.0,
+          "source_rate": 699.0,
           "source_rate_unit": "ccf",
           "term_months": 24,
           "early_termination_fee": "$100 Cancellation Fee applies",
@@ -1038,7 +1038,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "National Fuel",
-          "created_date": "10/06/2026 08:10:14 AM",
+          "created_date": "10/13/2026 08:45:51 AM",
           "updated_date": null
         },
         {
@@ -1100,7 +1100,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 6,
-      "last_fetched": "2026-10-13T02:51:37.186592Z",
+      "last_fetched": "2026-10-13T18:57:08.310943Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1116,7 +1116,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "429101.0",
+          "offer_id": "429730.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 69.0,
@@ -1140,7 +1140,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "09/29/2026 10:57:46 PM",
+          "created_date": "10/13/2026 01:59:17 PM",
           "updated_date": null
         },
         {
@@ -1172,7 +1172,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429428.0",
+          "offer_id": "429719.0",
           "product_name": null,
           "name": "Verde Energy USA New York LLC",
           "rate": 909.0,
@@ -1196,7 +1196,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "10/06/2026 08:09:24 AM",
+          "created_date": "10/13/2026 08:44:51 AM",
           "updated_date": null
         },
         {
@@ -1286,7 +1286,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 6,
-      "last_fetched": "2026-10-13T02:51:37.186885Z",
+      "last_fetched": "2026-10-13T18:57:08.311346Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1302,7 +1302,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "429101.0",
+          "offer_id": "429730.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 69.0,
@@ -1326,7 +1326,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "09/29/2026 10:57:46 PM",
+          "created_date": "10/13/2026 01:59:17 PM",
           "updated_date": null
         },
         {
@@ -1358,7 +1358,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429428.0",
+          "offer_id": "429719.0",
           "product_name": null,
           "name": "Verde Energy USA New York LLC",
           "rate": 909.0,
@@ -1382,7 +1382,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "10/06/2026 08:09:24 AM",
+          "created_date": "10/13/2026 08:44:51 AM",
           "updated_date": null
         },
         {
@@ -1472,7 +1472,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 6,
-      "last_fetched": "2026-10-13T02:51:37.187053Z",
+      "last_fetched": "2026-10-13T18:57:08.311577Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1488,7 +1488,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "429101.0",
+          "offer_id": "429730.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 69.0,
@@ -1512,7 +1512,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "09/29/2026 10:57:46 PM",
+          "created_date": "10/13/2026 01:59:17 PM",
           "updated_date": null
         },
         {
@@ -1544,7 +1544,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429428.0",
+          "offer_id": "429719.0",
           "product_name": null,
           "name": "Verde Energy USA New York LLC",
           "rate": 909.0,
@@ -1568,7 +1568,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "10/06/2026 08:09:24 AM",
+          "created_date": "10/13/2026 08:44:51 AM",
           "updated_date": null
         },
         {
@@ -1658,7 +1658,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 6,
-      "last_fetched": "2026-10-13T02:51:37.187220Z",
+      "last_fetched": "2026-10-13T18:57:08.311804Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1674,7 +1674,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "429101.0",
+          "offer_id": "429730.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 69.0,
@@ -1698,7 +1698,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "09/29/2026 10:57:46 PM",
+          "created_date": "10/13/2026 01:59:17 PM",
           "updated_date": null
         },
         {
@@ -1730,7 +1730,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429428.0",
+          "offer_id": "429719.0",
           "product_name": null,
           "name": "Verde Energy USA New York LLC",
           "rate": 909.0,
@@ -1754,7 +1754,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "10/06/2026 08:09:24 AM",
+          "created_date": "10/13/2026 08:44:51 AM",
           "updated_date": null
         },
         {
@@ -1844,7 +1844,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 6,
-      "last_fetched": "2026-10-13T02:51:37.187379Z",
+      "last_fetched": "2026-10-13T18:57:08.312051Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -1860,7 +1860,7 @@
       "benchmark_note": "Power to Choose publishes current ESCO offers, but its statewide active-offer dataset does not include the prior-month incumbent utility average.",
       "suppliers": [
         {
-          "offer_id": "429101.0",
+          "offer_id": "429730.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 69.0,
@@ -1884,7 +1884,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "09/29/2026 10:57:46 PM",
+          "created_date": "10/13/2026 01:59:17 PM",
           "updated_date": null
         },
         {
@@ -1916,7 +1916,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429428.0",
+          "offer_id": "429719.0",
           "product_name": null,
           "name": "Verde Energy USA New York LLC",
           "rate": 909.0,
@@ -1940,7 +1940,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "NYSEG in All Gas Zones",
-          "created_date": "10/06/2026 08:09:24 AM",
+          "created_date": "10/13/2026 08:44:51 AM",
           "updated_date": null
         },
         {
@@ -2002,7 +2002,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 5,
-      "last_fetched": "2026-10-13T02:51:37.187513Z",
+      "last_fetched": "2026-10-13T18:57:08.312239Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2046,13 +2046,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "429434.0",
+          "offer_id": "429725.0",
           "product_name": null,
           "name": "Verde Energy USA New York LLC",
-          "rate": 1.149,
+          "rate": 1.129,
           "rate_type": "Fixed",
           "rate_unit": "therm",
-          "source_rate": 1.149,
+          "source_rate": 1.129,
           "source_rate_unit": "therm",
           "term_months": 24,
           "early_termination_fee": "$100 Cancellation Fee applies",
@@ -2070,7 +2070,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "National Grid in Long Island",
-          "created_date": "10/06/2026 08:10:48 AM",
+          "created_date": "10/13/2026 08:46:41 AM",
           "updated_date": null
         },
         {
@@ -2132,7 +2132,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 4,
-      "last_fetched": "2026-10-13T02:51:37.187767Z",
+      "last_fetched": "2026-10-13T18:57:08.312586Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2232,7 +2232,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429100.0",
+          "offer_id": "429731.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 99.0,
@@ -2256,13 +2256,13 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "National Grid in Metro",
-          "created_date": "09/29/2026 10:57:41 PM",
+          "created_date": "10/13/2026 01:59:23 PM",
           "updated_date": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 4,
-      "last_fetched": "2026-10-13T02:51:37.187895Z",
+      "last_fetched": "2026-10-13T18:57:08.312762Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2334,7 +2334,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429430.0",
+          "offer_id": "429721.0",
           "product_name": null,
           "name": "Verde Energy USA New York LLC",
           "rate": 65.0,
@@ -2358,7 +2358,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "National Grid in Upstate",
-          "created_date": "10/06/2026 08:09:40 AM",
+          "created_date": "10/13/2026 08:45:22 AM",
           "updated_date": null
         },
         {
@@ -2448,7 +2448,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 6,
-      "last_fetched": "2026-10-13T02:51:37.188057Z",
+      "last_fetched": "2026-10-13T18:57:08.313007Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2492,7 +2492,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429102.0",
+          "offer_id": "429729.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 1.10582524,
@@ -2516,7 +2516,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "Orange and Rockland",
-          "created_date": "09/29/2026 10:57:52 PM",
+          "created_date": "10/13/2026 01:58:55 PM",
           "updated_date": null
         },
         {
@@ -2548,13 +2548,13 @@
           "updated_date": null
         },
         {
-          "offer_id": "429426.0",
+          "offer_id": "429717.0",
           "product_name": null,
           "name": "Verde Energy USA New York LLC",
-          "rate": 698.05825243,
+          "rate": 678.6407767,
           "rate_type": "Fixed",
           "rate_unit": "therm",
-          "source_rate": 719.0,
+          "source_rate": 699.0,
           "source_rate_unit": "ccf",
           "term_months": 24,
           "early_termination_fee": "$100 Cancellation Fee applies",
@@ -2572,7 +2572,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "Orange and Rockland",
-          "created_date": "10/06/2026 08:09:04 AM",
+          "created_date": "10/13/2026 08:44:38 AM",
           "updated_date": null
         },
         {
@@ -2662,7 +2662,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 7,
-      "last_fetched": "2026-10-13T02:51:37.188347Z",
+      "last_fetched": "2026-10-13T18:57:08.313413Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     },
@@ -2706,7 +2706,7 @@
           "updated_date": null
         },
         {
-          "offer_id": "429103.0",
+          "offer_id": "429728.0",
           "product_name": null,
           "name": "Alpha Gas and Electric, LLC",
           "rate": 99.0,
@@ -2730,17 +2730,17 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE",
-          "created_date": "09/29/2026 10:57:56 PM",
+          "created_date": "10/13/2026 01:58:50 PM",
           "updated_date": null
         },
         {
-          "offer_id": "429424.0",
+          "offer_id": "429715.0",
           "product_name": null,
           "name": "Verde Energy USA New York LLC",
-          "rate": 799.0,
+          "rate": 779.0,
           "rate_type": "Fixed",
           "rate_unit": "therm",
-          "source_rate": 799.0,
+          "source_rate": 779.0,
           "source_rate_unit": "therm",
           "term_months": 24,
           "early_termination_fee": "$100 Cancellation Fee applies",
@@ -2758,7 +2758,7 @@
           "bundle_required": false,
           "service_area": null,
           "source_load_zone": "RGE",
-          "created_date": "10/06/2026 08:08:52 AM",
+          "created_date": "10/13/2026 08:44:02 AM",
           "updated_date": null
         },
         {
@@ -2848,7 +2848,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 6,
-      "last_fetched": "2026-10-13T02:51:37.188599Z",
+      "last_fetched": "2026-10-13T18:57:08.313764Z",
       "source_url": "https://documents.dps.ny.gov/PTC/home",
       "source_dataset_url": "https://documents.dps.ny.gov/PTC/api/Service/GetActiveOffersRpt"
     }
